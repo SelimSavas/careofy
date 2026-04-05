@@ -6,7 +6,7 @@ const steps = [
     number: "01",
     title: "Testleri Tamamla",
     description:
-      "6 bilimsel test ile kişiliğini, değerlerini ve yeteneklerini keşfet",
+      "7 bilimsel test ile kişiliğini, değerlerini ve yeteneklerini keşfet",
     icon: Edit3,
   },
   {

@@ -9,13 +9,15 @@ import { HERO_LIVE_SAMPLES } from "@/components/landing/heroLiveSamples";
 /** Dakikada ~20 örnek → 3 sn. Daha yavaş (5 sn, ~12/dk) için 5000 yap. */
 const ROTATE_MS = 3000;
 
+const ORBIT_STEP = 360 / 7;
 const orbit = [
-  { deg: 0, label: "MBTI" },
-  { deg: 60, label: "Holland" },
-  { deg: 120, label: "Ennea" },
-  { deg: 180, label: "Değer" },
-  { deg: 240, label: "VARK" },
-  { deg: 300, label: "Güçlü" },
+  { deg: ORBIT_STEP * 0, label: "MBTI" },
+  { deg: ORBIT_STEP * 1, label: "OCEAN" },
+  { deg: ORBIT_STEP * 2, label: "Holland" },
+  { deg: ORBIT_STEP * 3, label: "Ennea" },
+  { deg: ORBIT_STEP * 4, label: "Değer" },
+  { deg: ORBIT_STEP * 5, label: "VARK" },
+  { deg: ORBIT_STEP * 6, label: "Güçlü" },
 ] as const;
 
 export function HeroCreativeVisual() {

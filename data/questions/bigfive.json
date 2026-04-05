@@ -1,0 +1,1232 @@
+[
+  {
+    "id": "bf-1",
+    "text": "Yeni fikirler ve farklı bakış açıları beni heyecanlandırır.",
+    "type": "choice",
+    "bigFiveItem": {
+      "trait": "O",
+      "reverse": false
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Kesinlikle katılmıyorum",
+        "value": 1
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Katılmıyorum",
+        "value": 2
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Ne katılıyorum ne katılmıyorum",
+        "value": 3
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Katılıyorum",
+        "value": 4
+      },
+      {
+        "id": "e",
+        "label": "E",
+        "text": "Kesinlikle katılıyorum",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "id": "bf-2",
+    "text": "Sanat, müzik veya edebiyat benim için anlamlıdır.",
+    "type": "choice",
+    "bigFiveItem": {
+      "trait": "O",
+      "reverse": false
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Kesinlikle katılmıyorum",
+        "value": 1
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Katılmıyorum",
+        "value": 2
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Ne katılıyorum ne katılmıyorum",
+        "value": 3
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Katılıyorum",
+        "value": 4
+      },
+      {
+        "id": "e",
+        "label": "E",
+        "text": "Kesinlikle katılıyorum",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "id": "bf-3",
+    "text": "Hayal gücümü kullandığım görevlerde daha iyi performans gösteririm.",
+    "type": "choice",
+    "bigFiveItem": {
+      "trait": "O",
+      "reverse": false
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Kesinlikle katılmıyorum",
+        "value": 1
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Katılmıyorum",
+        "value": 2
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Ne katılıyorum ne katılmıyorum",
+        "value": 3
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Katılıyorum",
+        "value": 4
+      },
+      {
+        "id": "e",
+        "label": "E",
+        "text": "Kesinlikle katılıyorum",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "id": "bf-4",
+    "text": "Rutin ve öngörülebilir iş günleri beni rahatlatır; sürprizden kaçınırım.",
+    "type": "choice",
+    "bigFiveItem": {
+      "trait": "O",
+      "reverse": true
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Kesinlikle katılmıyorum",
+        "value": 1
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Katılmıyorum",
+        "value": 2
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Ne katılıyorum ne katılmıyorum",
+        "value": 3
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Katılıyorum",
+        "value": 4
+      },
+      {
+        "id": "e",
+        "label": "E",
+        "text": "Kesinlikle katılıyorum",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "id": "bf-5",
+    "text": "Karmaşık ve soyut konuları çözmekten keyif alırım.",
+    "type": "choice",
+    "bigFiveItem": {
+      "trait": "O",
+      "reverse": false
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Kesinlikle katılmıyorum",
+        "value": 1
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Katılmıyorum",
+        "value": 2
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Ne katılıyorum ne katılmıyorum",
+        "value": 3
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Katılıyorum",
+        "value": 4
+      },
+      {
+        "id": "e",
+        "label": "E",
+        "text": "Kesinlikle katılıyorum",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "id": "bf-6",
+    "text": "Geleneksel yöntemleri yeni yöntemlere göre genelde tercih ederim.",
+    "type": "choice",
+    "bigFiveItem": {
+      "trait": "O",
+      "reverse": true
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Kesinlikle katılmıyorum",
+        "value": 1
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Katılmıyorum",
+        "value": 2
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Ne katılıyorum ne katılmıyorum",
+        "value": 3
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Katılıyorum",
+        "value": 4
+      },
+      {
+        "id": "e",
+        "label": "E",
+        "text": "Kesinlikle katılıyorum",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "id": "bf-7",
+    "text": "İşlerimi bitirmeden rahatlayamam; teslim tarihlerine dikkat ederim.",
+    "type": "choice",
+    "bigFiveItem": {
+      "trait": "C",
+      "reverse": false
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Kesinlikle katılmıyorum",
+        "value": 1
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Katılmıyorum",
+        "value": 2
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Ne katılıyorum ne katılmıyorum",
+        "value": 3
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Katılıyorum",
+        "value": 4
+      },
+      {
+        "id": "e",
+        "label": "E",
+        "text": "Kesinlikle katılıyorum",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "id": "bf-8",
+    "text": "Hedeflerimi adım adım planlayarak ilerlemeyi severim.",
+    "type": "choice",
+    "bigFiveItem": {
+      "trait": "C",
+      "reverse": false
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Kesinlikle katılmıyorum",
+        "value": 1
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Katılmıyorum",
+        "value": 2
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Ne katılıyorum ne katılmıyorum",
+        "value": 3
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Katılıyorum",
+        "value": 4
+      },
+      {
+        "id": "e",
+        "label": "E",
+        "text": "Kesinlikle katılıyorum",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "id": "bf-9",
+    "text": "Detaylara dikkat etmek benim için önemlidir.",
+    "type": "choice",
+    "bigFiveItem": {
+      "trait": "C",
+      "reverse": false
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Kesinlikle katılmıyorum",
+        "value": 1
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Katılmıyorum",
+        "value": 2
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Ne katılıyorum ne katılmıyorum",
+        "value": 3
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Katılıyorum",
+        "value": 4
+      },
+      {
+        "id": "e",
+        "label": "E",
+        "text": "Kesinlikle katılıyorum",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "id": "bf-10",
+    "text": "Bazen işleri son ana bırakırım; baskı altında daha iyi çalışırım.",
+    "type": "choice",
+    "bigFiveItem": {
+      "trait": "C",
+      "reverse": true
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Kesinlikle katılmıyorum",
+        "value": 1
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Katılmıyorum",
+        "value": 2
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Ne katılıyorum ne katılmıyorum",
+        "value": 3
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Katılıyorum",
+        "value": 4
+      },
+      {
+        "id": "e",
+        "label": "E",
+        "text": "Kesinlikle katılıyorum",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "id": "bf-11",
+    "text": "Çalışma alanımı ve dosyalarımı düzenli tutarım.",
+    "type": "choice",
+    "bigFiveItem": {
+      "trait": "C",
+      "reverse": false
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Kesinlikle katılmıyorum",
+        "value": 1
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Katılmıyorum",
+        "value": 2
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Ne katılıyorum ne katılmıyorum",
+        "value": 3
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Katılıyorum",
+        "value": 4
+      },
+      {
+        "id": "e",
+        "label": "E",
+        "text": "Kesinlikle katılıyorum",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "id": "bf-12",
+    "text": "Kurallar ve prosedürler bazen gereksiz görünür; esnek olmayı tercih ederim.",
+    "type": "choice",
+    "bigFiveItem": {
+      "trait": "C",
+      "reverse": true
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Kesinlikle katılmıyorum",
+        "value": 1
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Katılmıyorum",
+        "value": 2
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Ne katılıyorum ne katılmıyorum",
+        "value": 3
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Katılıyorum",
+        "value": 4
+      },
+      {
+        "id": "e",
+        "label": "E",
+        "text": "Kesinlikle katılıyorum",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "id": "bf-13",
+    "text": "Yeni insanlarla tanışmak benim için kolay ve enerji vericidir.",
+    "type": "choice",
+    "bigFiveItem": {
+      "trait": "E",
+      "reverse": false
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Kesinlikle katılmıyorum",
+        "value": 1
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Katılmıyorum",
+        "value": 2
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Ne katılıyorum ne katılmıyorum",
+        "value": 3
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Katılıyorum",
+        "value": 4
+      },
+      {
+        "id": "e",
+        "label": "E",
+        "text": "Kesinlikle katılıyorum",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "id": "bf-14",
+    "text": "Grup içinde konuşkan ve görünür olmayı genelde severim.",
+    "type": "choice",
+    "bigFiveItem": {
+      "trait": "E",
+      "reverse": false
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Kesinlikle katılmıyorum",
+        "value": 1
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Katılmıyorum",
+        "value": 2
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Ne katılıyorum ne katılmıyorum",
+        "value": 3
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Katılıyorum",
+        "value": 4
+      },
+      {
+        "id": "e",
+        "label": "E",
+        "text": "Kesinlikle katılıyorum",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "id": "bf-15",
+    "text": "Sosyal etkinliklerden sonra kendimi genelde canlı hissederim.",
+    "type": "choice",
+    "bigFiveItem": {
+      "trait": "E",
+      "reverse": false
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Kesinlikle katılmıyorum",
+        "value": 1
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Katılmıyorum",
+        "value": 2
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Ne katılıyorum ne katılmıyorum",
+        "value": 3
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Katılıyorum",
+        "value": 4
+      },
+      {
+        "id": "e",
+        "label": "E",
+        "text": "Kesinlikle katılıyorum",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "id": "bf-16",
+    "text": "Uzun süre tek başıma kalmak beni dinlendirir; yalnızlığı severim.",
+    "type": "choice",
+    "bigFiveItem": {
+      "trait": "E",
+      "reverse": true
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Kesinlikle katılmıyorum",
+        "value": 1
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Katılmıyorum",
+        "value": 2
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Ne katılıyorum ne katılmıyorum",
+        "value": 3
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Katılıyorum",
+        "value": 4
+      },
+      {
+        "id": "e",
+        "label": "E",
+        "text": "Kesinlikle katılıyorum",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "id": "bf-17",
+    "text": "Liderlik veya sunum gerektiren rollerde kendimi rahat hissederim.",
+    "type": "choice",
+    "bigFiveItem": {
+      "trait": "E",
+      "reverse": false
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Kesinlikle katılmıyorum",
+        "value": 1
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Katılmıyorum",
+        "value": 2
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Ne katılıyorum ne katılmıyorum",
+        "value": 3
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Katılıyorum",
+        "value": 4
+      },
+      {
+        "id": "e",
+        "label": "E",
+        "text": "Kesinlikle katılıyorum",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "id": "bf-18",
+    "text": "Kalabalık ortamlarda kendimi sık sık yorgun hissederim.",
+    "type": "choice",
+    "bigFiveItem": {
+      "trait": "E",
+      "reverse": true
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Kesinlikle katılmıyorum",
+        "value": 1
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Katılmıyorum",
+        "value": 2
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Ne katılıyorum ne katılmıyorum",
+        "value": 3
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Katılıyorum",
+        "value": 4
+      },
+      {
+        "id": "e",
+        "label": "E",
+        "text": "Kesinlikle katılıyorum",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "id": "bf-19",
+    "text": "İnsanların duygularına karşı nazik ve anlayışlı olmaya özen gösteririm.",
+    "type": "choice",
+    "bigFiveItem": {
+      "trait": "A",
+      "reverse": false
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Kesinlikle katılmıyorum",
+        "value": 1
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Katılmıyorum",
+        "value": 2
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Ne katılıyorum ne katılmıyorum",
+        "value": 3
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Katılıyorum",
+        "value": 4
+      },
+      {
+        "id": "e",
+        "label": "E",
+        "text": "Kesinlikle katılıyorum",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "id": "bf-20",
+    "text": "Çatışmadan kaçınır, uzlaşmayı tercih ederim.",
+    "type": "choice",
+    "bigFiveItem": {
+      "trait": "A",
+      "reverse": false
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Kesinlikle katılmıyorum",
+        "value": 1
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Katılmıyorum",
+        "value": 2
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Ne katılıyorum ne katılmıyorum",
+        "value": 3
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Katılıyorum",
+        "value": 4
+      },
+      {
+        "id": "e",
+        "label": "E",
+        "text": "Kesinlikle katılıyorum",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "id": "bf-21",
+    "text": "Başkalarına yardım etmek beni tatmin eder.",
+    "type": "choice",
+    "bigFiveItem": {
+      "trait": "A",
+      "reverse": false
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Kesinlikle katılmıyorum",
+        "value": 1
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Katılmıyorum",
+        "value": 2
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Ne katılıyorum ne katılmıyorum",
+        "value": 3
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Katılıyorum",
+        "value": 4
+      },
+      {
+        "id": "e",
+        "label": "E",
+        "text": "Kesinlikle katılıyorum",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "id": "bf-22",
+    "text": "Eleştiriyi doğrudan ve sert şekilde iletmekten çekinmem.",
+    "type": "choice",
+    "bigFiveItem": {
+      "trait": "A",
+      "reverse": true
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Kesinlikle katılmıyorum",
+        "value": 1
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Katılmıyorum",
+        "value": 2
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Ne katılıyorum ne katılmıyorum",
+        "value": 3
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Katılıyorum",
+        "value": 4
+      },
+      {
+        "id": "e",
+        "label": "E",
+        "text": "Kesinlikle katılıyorum",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "id": "bf-23",
+    "text": "Takım içinde uyumlu çalışmak benim için önemlidir.",
+    "type": "choice",
+    "bigFiveItem": {
+      "trait": "A",
+      "reverse": false
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Kesinlikle katılmıyorum",
+        "value": 1
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Katılmıyorum",
+        "value": 2
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Ne katılıyorum ne katılmıyorum",
+        "value": 3
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Katılıyorum",
+        "value": 4
+      },
+      {
+        "id": "e",
+        "label": "E",
+        "text": "Kesinlikle katılıyorum",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "id": "bf-24",
+    "text": "Rekabetçi ortamlarda diğerlerinin duygularından çok sonuca odaklanırım.",
+    "type": "choice",
+    "bigFiveItem": {
+      "trait": "A",
+      "reverse": true
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Kesinlikle katılmıyorum",
+        "value": 1
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Katılmıyorum",
+        "value": 2
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Ne katılıyorum ne katılmıyorum",
+        "value": 3
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Katılıyorum",
+        "value": 4
+      },
+      {
+        "id": "e",
+        "label": "E",
+        "text": "Kesinlikle katılıyorum",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "id": "bf-25",
+    "text": "Küçük aksilikler bile beni kolayca strese sokabilir.",
+    "type": "choice",
+    "bigFiveItem": {
+      "trait": "N",
+      "reverse": false
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Kesinlikle katılmıyorum",
+        "value": 1
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Katılmıyorum",
+        "value": 2
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Ne katılıyorum ne katılmıyorum",
+        "value": 3
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Katılıyorum",
+        "value": 4
+      },
+      {
+        "id": "e",
+        "label": "E",
+        "text": "Kesinlikle katılıyorum",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "id": "bf-26",
+    "text": "Endişe veya kaygı hissettiğim günler olur.",
+    "type": "choice",
+    "bigFiveItem": {
+      "trait": "N",
+      "reverse": false
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Kesinlikle katılmıyorum",
+        "value": 1
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Katılmıyorum",
+        "value": 2
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Ne katılıyorum ne katılmıyorum",
+        "value": 3
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Katılıyorum",
+        "value": 4
+      },
+      {
+        "id": "e",
+        "label": "E",
+        "text": "Kesinlikle katılıyorum",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "id": "bf-27",
+    "text": "Eleştiri aldığımda içten içe uzun süre etkilenebilirim.",
+    "type": "choice",
+    "bigFiveItem": {
+      "trait": "N",
+      "reverse": false
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Kesinlikle katılmıyorum",
+        "value": 1
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Katılmıyorum",
+        "value": 2
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Ne katılıyorum ne katılmıyorum",
+        "value": 3
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Katılıyorum",
+        "value": 4
+      },
+      {
+        "id": "e",
+        "label": "E",
+        "text": "Kesinlikle katılıyorum",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "id": "bf-28",
+    "text": "Zor durumlarda sakin kalmayı başarırım.",
+    "type": "choice",
+    "bigFiveItem": {
+      "trait": "N",
+      "reverse": true
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Kesinlikle katılmıyorum",
+        "value": 1
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Katılmıyorum",
+        "value": 2
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Ne katılıyorum ne katılmıyorum",
+        "value": 3
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Katılıyorum",
+        "value": 4
+      },
+      {
+        "id": "e",
+        "label": "E",
+        "text": "Kesinlikle katılıyorum",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "id": "bf-29",
+    "text": "Gelecek hakkında kötü senaryolar aklıma gelir.",
+    "type": "choice",
+    "bigFiveItem": {
+      "trait": "N",
+      "reverse": false
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Kesinlikle katılmıyorum",
+        "value": 1
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Katılmıyorum",
+        "value": 2
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Ne katılıyorum ne katılmıyorum",
+        "value": 3
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Katılıyorum",
+        "value": 4
+      },
+      {
+        "id": "e",
+        "label": "E",
+        "text": "Kesinlikle katılıyorum",
+        "value": 5
+      }
+    ]
+  },
+  {
+    "id": "bf-30",
+    "text": "Stres altında bile duygularımı kolayca kontrol ederim.",
+    "type": "choice",
+    "bigFiveItem": {
+      "trait": "N",
+      "reverse": true
+    },
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Kesinlikle katılmıyorum",
+        "value": 1
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Katılmıyorum",
+        "value": 2
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Ne katılıyorum ne katılmıyorum",
+        "value": 3
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Katılıyorum",
+        "value": 4
+      },
+      {
+        "id": "e",
+        "label": "E",
+        "text": "Kesinlikle katılıyorum",
+        "value": 5
+      }
+    ]
+  }
+]

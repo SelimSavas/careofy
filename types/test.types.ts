@@ -1,10 +1,13 @@
 export type TestType =
   | "MBTI"
+  | "BIGFIVE"
   | "ENNEAGRAM"
   | "HOLLAND"
   | "VALUES"
   | "VARK"
   | "STRENGTHS";
+
+export type BigFiveTrait = "O" | "C" | "E" | "A" | "N";
 
 export interface Option {
   id: string;
@@ -25,6 +28,8 @@ export interface Question {
   type: "binary" | "likert5" | "choice";
   options: Option[];
   dimension?: string;
+  /** Büyük Beş: her madde tek boyuta gider; reverse ise 1–5 ters çevrilir */
+  bigFiveItem?: { trait: BigFiveTrait; reverse?: boolean };
 }
 
 export interface TestProgress {

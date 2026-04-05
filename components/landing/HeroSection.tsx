@@ -5,7 +5,7 @@ import { HeroCreativeVisual } from "@/components/landing/HeroCreativeVisual";
 
 const stats = [
   { v: "50K+", l: "Kullanıcı", icon: Users },
-  { v: "6", l: "Bilimsel test", icon: FlaskConical },
+  { v: "7", l: "Bilimsel test", icon: FlaskConical },
   { v: "800+", l: "Meslek & bölüm", icon: Briefcase },
 ] as const;
 

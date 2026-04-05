@@ -7,6 +7,7 @@ import { UserContextSummaryCard } from "@/components/dashboard/UserContextSummar
 import { Badge } from "@/components/ui/Badge";
 import { Button } from "@/components/ui/Button";
 import { Card } from "@/components/ui/Card";
+import { BIGFIVE_TRAIT_LABELS } from "@/lib/bigFiveLabels";
 import { useReportStore } from "@/store/reportStore";
 
 export function DashboardHome() {
@@ -19,9 +20,18 @@ export function DashboardHome() {
   const val = pv?.values?.topValues?.[0] ?? "—";
   const vark = pv?.vark?.dominant ?? "—";
   const str = pv?.strengths?.topThemes?.[0] ?? "—";
+  const bf =
+    pv?.bigFive?.topTraits
+      ?.map((k) => BIGFIVE_TRAIT_LABELS[k as keyof typeof BIGFIVE_TRAIT_LABELS] ?? k)
+      .join(" · ") ?? "—";
 
   const testResults = [
     { name: "MBTI", result: mbti, description: pv?.mbti ? "Özet tip" : "Testi tamamla" },
+    {
+      name: "Büyük Beş",
+      result: bf,
+      description: pv?.bigFive ? "Öne çıkan boyutlar" : "Testi tamamla",
+    },
     {
       name: "Enneagram",
       result: ennea,

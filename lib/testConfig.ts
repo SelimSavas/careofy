@@ -1,5 +1,6 @@
 import type { LucideIcon } from "lucide-react";
 import {
+  Brain,
   Circle,
   Eye,
   Heart,
@@ -36,6 +37,15 @@ export const TEST_CENTER_ITEMS: {
     questionsLabel: `${TEST_QUESTION_COUNTS.MBTI} Soru`,
     description: "Tercih temelli maddelerle 16 tipe yakın profil özeti",
     slug: "mbti",
+  },
+  {
+    type: "BIGFIVE",
+    icon: Brain,
+    name: "Büyük Beş",
+    duration: "12–18 dk",
+    questionsLabel: `${TEST_QUESTION_COUNTS.BIGFIVE} Soru`,
+    description: "Araştırmada sık kullanılan beş boyut: açıklık, özdisiplin, dışadönüklük, uyumluluk, duygusal yoğunluk",
+    slug: "bigfive",
   },
   {
     type: "HOLLAND",

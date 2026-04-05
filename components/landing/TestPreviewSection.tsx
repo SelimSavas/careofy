@@ -1,4 +1,4 @@
-import { Circle, Eye, Heart, Hexagon, Star, Zap } from "lucide-react";
+import { Brain, Circle, Eye, Heart, Hexagon, Star, Zap } from "lucide-react";
 import Link from "next/link";
 import { Card } from "@/components/ui/Card";
 import { TEST_CENTER_ITEMS } from "@/lib/testConfig";
@@ -6,6 +6,7 @@ import { TEST_CENTER_ITEMS } from "@/lib/testConfig";
 const iconMap = {
   ENNEAGRAM: Star,
   MBTI: Circle,
+  BIGFIVE: Brain,
   HOLLAND: Hexagon,
   VALUES: Heart,
   VARK: Eye,
@@ -29,7 +30,7 @@ export function TestPreviewSection() {
     >
       <div className="pointer-events-none absolute inset-0 bg-dot-subtle opacity-[0.35]" />
       <div className="relative mx-auto max-w-figma">
-        <h2 className="mb-4 text-center text-navy-800">6 Bilimsel Test, 1 Kapsamlı Analiz</h2>
+        <h2 className="mb-4 text-center text-navy-800">7 Bilimsel Test, 1 Kapsamlı Analiz</h2>
         <p className="mx-auto mb-16 max-w-2xl text-center text-lg leading-relaxed text-gray-500">
           Her test farklı bir açıdan seni tanıyor. Birlikte, benzersiz profilini oluşturuyorlar.
         </p>

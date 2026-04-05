@@ -1,10 +1,19 @@
+import type { BigFiveTrait } from "@/types/test.types";
+
 export interface ProfileVector {
   mbti?: MBTIResult;
+  bigFive?: BigFiveResult;
   enneagram?: EnneagramResult;
   holland?: HollandResult;
   values?: ValuesResult;
   vark?: VARKResult;
   strengths?: StrengthsResult;
+}
+
+/** Büyük Beş (OCEAN): skorlar 0–100 ölçeğinde; N yüksek = daha fazla duygusal yoğunluk/stres eğilimi */
+export interface BigFiveResult {
+  scores: { O: number; C: number; E: number; A: number; N: number };
+  topTraits: BigFiveTrait[];
 }
 
 export interface MBTIResult {

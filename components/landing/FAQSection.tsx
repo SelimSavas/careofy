@@ -7,12 +7,12 @@ const faqs = [
   {
     question: "Testlerin tamamlanması ne kadar sürer?",
     answer:
-      "Tüm testleri tamamlamak ortalama 30-45 dakika sürer. İstediğin zaman ara verip kaldığın yerden devam edebilirsin.",
+      "Tüm testleri tamamlamak ortalama 40–55 dakika sürer. İstediğin zaman ara verip kaldığın yerden devam edebilirsin.",
   },
   {
     question: "Test sonuçları ne kadar güvenilir?",
     answer:
-      "MBTI, Enneagram, Holland RIASEC gibi yaygın kabul görmüş çerçeveler kullanıyoruz; yapay zeka analizi bu sonuçları senin bağlamına göre yorumlar.",
+      "MBTI, Büyük Beş (OCEAN), Enneagram, Holland RIASEC ve diğer modüller kullanıyoruz; yapay zeka analizi bu sonuçları senin bağlamına göre yorumlar. Bu çıktılar tıbbi tanı veya resmi seçme-sınava eşdeğer değildir.",
   },
   {
     question: "Testleri tekrar yapabilir miyim?",

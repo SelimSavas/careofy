@@ -1,3 +1,5 @@
+import { BIGFIVE_TRAIT_LABELS } from "@/lib/bigFiveLabels";
+import { inferCatalogBigFour } from "@/lib/careerMatch/inferBigFourFromCatalog";
 import type { ProfileVector } from "@/types/report.types";
 import type {
   CatalogWeights,
@@ -9,24 +11,27 @@ import type {
 } from "@/lib/careerMatch/types";
 
 const H_KEYS = ["R", "I", "A", "S", "E", "C"] as const;
+const BF4_KEYS = ["O", "C", "E", "A"] as const;
 
 const WEIGHTS = {
-  holland: 0.36,
-  mbti: 0.22,
-  values: 0.14,
-  vark: 0.12,
-  strengths: 0.11,
-  enneagram: 0.05,
+  holland: 0.32,
+  mbti: 0.18,
+  bigFive: 0.08,
+  values: 0.13,
+  vark: 0.11,
+  strengths: 0.1,
+  enneagram: 0.08,
 } as const;
 
 /** Kullanıcıya gösterilecek eşleşme yüzdesi bileşenleri (WEIGHTS ile senkron). */
 export const MATCH_SCORE_WEIGHTS_DISPLAY = [
-  { id: "holland", percent: 36, title: "Holland ilgi kodu (RIASEC)" },
-  { id: "mbti", percent: 22, title: "MBTI çalışma tercihleri" },
-  { id: "values", percent: 14, title: "Kariyer değerleri" },
-  { id: "vark", percent: 12, title: "VARK öğrenme stili" },
-  { id: "strengths", percent: 11, title: "Güçlü yönler temaları" },
-  { id: "enneagram", percent: 5, title: "Enneagram motivasyonları" },
+  { id: "holland", percent: 32, title: "Holland ilgi kodu (RIASEC)" },
+  { id: "mbti", percent: 18, title: "MBTI çalışma tercihleri" },
+  { id: "bigFive", percent: 8, title: "Büyük Beş (O·C·E·A) uyumu" },
+  { id: "values", percent: 13, title: "Kariyer değerleri" },
+  { id: "vark", percent: 11, title: "VARK öğrenme stili" },
+  { id: "strengths", percent: 10, title: "Güçlü yönler temaları" },
+  { id: "enneagram", percent: 8, title: "Enneagram motivasyonları" },
 ] as const;
 
 function clamp(n: number, lo: number, hi: number) {
@@ -215,12 +220,32 @@ function scoreEnneagram(profile: ProfileVector, item: CatalogWeights): number {
   return clamp(50 + w * 50, 0, 100);
 }
 
+/** Kullanıcı Büyük Beş skoru ile katalogdan türetilen O·C·E·A vektörünün kosinüs benzerliği. */
+function scoreBigFourCatalog(profile: ProfileVector, item: CatalogWeights): number {
+  const u = profile.bigFive?.scores;
+  if (!u) return 52;
+  const c = inferCatalogBigFour(item);
+  let dot = 0,
+    nu = 0,
+    ni = 0;
+  for (const k of BF4_KEYS) {
+    const a = u[k] ?? 50;
+    const b = c[k];
+    dot += a * b;
+    nu += a * a;
+    ni += b * b;
+  }
+  if (nu < 1e-9 || ni < 1e-9) return 52;
+  return clamp((dot / (Math.sqrt(nu) * Math.sqrt(ni))) * 100, 0, 100);
+}
+
 export function computeCatalogMatchPercent(
   profile: ProfileVector,
   item: CatalogWeights
 ): number {
   const h = scoreHolland(profile, item);
   const m = scoreMbti(profile, item.mbtiIdeal);
+  const bf = scoreBigFourCatalog(profile, item);
   const v = scoreValues(profile, item);
   const vk = scoreVark(profile, item);
   const st = scoreStrengths(profile, item);
@@ -228,6 +253,7 @@ export function computeCatalogMatchPercent(
   const raw =
     WEIGHTS.holland * h +
     WEIGHTS.mbti * m +
+    WEIGHTS.bigFive * bf +
     WEIGHTS.values * v +
     WEIGHTS.vark * vk +
     WEIGHTS.strengths * st +
@@ -274,6 +300,12 @@ export function buildMatchReason(
   }
   if (profile.mbti?.type && item.mbtiIdeal) {
     parts.push(`${profile.mbti.type} tercih düzenin görevin gerektirdiği çalışma biçimiyle uyumlu`);
+  }
+  if (profile.bigFive?.topTraits?.length) {
+    const labels = profile.bigFive.topTraits
+      .map((k) => BIGFIVE_TRAIT_LABELS[k as keyof typeof BIGFIVE_TRAIT_LABELS] ?? k)
+      .join(", ");
+    parts.push(`Büyük Beş’te öne çıkan boyutların (${labels}) rolün kişilik ihtiyaçlarıyla örtüşüyor`);
   }
   if (profile.values?.topValues?.length) {
     parts.push(`Öne çıkan değerlerin (${profile.values.topValues.slice(0, 2).join(", ")}) rolün nitelikleriyle örtüşüyor`);

@@ -1,6 +1,8 @@
 import { getQuestions } from "@/lib/questions";
-import type { TestType } from "@/types/test.types";
+import type { BigFiveTrait, TestType } from "@/types/test.types";
+import { BIGFIVE_TRAIT_LABELS } from "@/lib/bigFiveLabels";
 import {
+  scoreBigFive,
   scoreEnneagram,
   scoreHolland,
   scoreMBTI,
@@ -22,6 +24,20 @@ export function buildTestResultPayload(
         normalizedProfile: JSON.stringify({ mbti: { type: r.type, scores: r.scores } }),
         primaryResult: r.type,
         secondaryResult: null as string | null,
+      };
+    }
+    case "BIGFIVE": {
+      const r = scoreBigFive(answers, qs);
+      const primary =
+        r.topTraits.map((k) => BIGFIVE_TRAIT_LABELS[k]).join(" · ") || "Özet";
+      const secondary = (Object.entries(r.scores) as [BigFiveTrait, number][])
+        .map(([k, v]) => `${BIGFIVE_TRAIT_LABELS[k]}:${Math.round(v)}`)
+        .join(", ");
+      return {
+        rawScores: JSON.stringify(r),
+        normalizedProfile: JSON.stringify({ bigFive: { scores: r.scores, topTraits: r.topTraits } }),
+        primaryResult: primary,
+        secondaryResult: secondary,
       };
     }
     case "ENNEAGRAM": {

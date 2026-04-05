@@ -1,5 +1,6 @@
 export {
   scoreMBTI,
+  scoreBigFive,
   scoreEnneagram,
   scoreHolland,
   scoreValues,

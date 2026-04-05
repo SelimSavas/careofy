@@ -74,6 +74,7 @@ ${userContext.role === "WORKER" ? `- İş unvanı: ${userContext.jobTitle ?? "Be
 
 Test Sonuçları:
 ${profile.mbti ? `- MBTI Tipi: ${profile.mbti.type}\n  Boyut Skorları: E:${profile.mbti.scores.E} I:${profile.mbti.scores.I} S:${profile.mbti.scores.S} N:${profile.mbti.scores.N} T:${profile.mbti.scores.T} F:${profile.mbti.scores.F} J:${profile.mbti.scores.J} P:${profile.mbti.scores.P}` : ""}
+${profile.bigFive ? `- Büyük Beş (0–100): Açıklık ${Math.round(profile.bigFive.scores.O)}, Özdisiplin ${Math.round(profile.bigFive.scores.C)}, Dışadönüklük ${Math.round(profile.bigFive.scores.E)}, Uyumluluk ${Math.round(profile.bigFive.scores.A)}, Duygusal yoğunluk ${Math.round(profile.bigFive.scores.N)} (yüksek = stres/reaktiflik eğilimi daha belirgin olabilir; tıbbi tanı değildir)` : ""}
 ${profile.enneagram ? `- Enneagram: Tip ${profile.enneagram.type}w${profile.enneagram.wing}` : ""}
 ${profile.holland ? `- Holland Kodu: ${profile.holland.code}\n  Skorlar: R:${profile.holland.scores.R} I:${profile.holland.scores.I} A:${profile.holland.scores.A} S:${profile.holland.scores.S} E:${profile.holland.scores.E} C:${profile.holland.scores.C}` : ""}
 ${profile.values ? `- Kişisel Değerler: ${JSON.stringify(profile.values)}` : ""}

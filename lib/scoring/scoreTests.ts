@@ -1,4 +1,5 @@
-import type { Question } from "@/types/test.types";
+import type { BigFiveTrait, Question } from "@/types/test.types";
+import type { BigFiveResult } from "@/types/report.types";
 
 function findOption(q: Question, answerId: string) {
   return q.options.find((o) => o.id === answerId);
@@ -171,4 +172,42 @@ export function scoreStrengths(
     .slice(0, 5)
     .map(([k]) => STRENGTH_LABELS[k] ?? k);
   return { topThemes, scores: acc };
+}
+
+const BF_KEYS: BigFiveTrait[] = ["O", "C", "E", "A", "N"];
+
+function clampBf(n: number, lo: number, hi: number) {
+  return Math.max(lo, Math.min(hi, n));
+}
+
+/** Likert 1–5; ters maddelerde 6−değer. Çıktı skorları 0–100. */
+export function scoreBigFive(
+  answers: Record<string, string | number>,
+  questions: Question[]
+): BigFiveResult {
+  const sum: Record<BigFiveTrait, number> = { O: 0, C: 0, E: 0, A: 0, N: 0 };
+  const cnt: Record<BigFiveTrait, number> = { O: 0, C: 0, E: 0, A: 0, N: 0 };
+  for (const q of questions) {
+    const item = q.bigFiveItem;
+    if (!item) continue;
+    const aid = String(answers[q.id] ?? "");
+    const opt = findOption(q, aid);
+    if (typeof opt?.value !== "number") continue;
+    let v = opt.value;
+    if (item.reverse) v = 6 - v;
+    const t = item.trait;
+    sum[t] += v;
+    cnt[t] += 1;
+  }
+  const scores = {} as BigFiveResult["scores"];
+  for (const k of BF_KEYS) {
+    const c = cnt[k];
+    const avg = c > 0 ? sum[k] / c : 3;
+    scores[k] = clampBf(((avg - 1) / 4) * 100, 0, 100);
+  }
+  const topTraits = (Object.entries(scores) as [BigFiveTrait, number][])
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 2)
+    .map(([k]) => k);
+  return { scores, topTraits };
 }

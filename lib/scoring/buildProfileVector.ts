@@ -3,6 +3,7 @@ import { ALL_TEST_TYPES } from "@/lib/testMeta";
 import type { TestType } from "@/types/test.types";
 import type { ProfileVector } from "@/types/report.types";
 import {
+  scoreBigFive,
   scoreEnneagram,
   scoreHolland,
   scoreMBTI,
@@ -28,6 +29,11 @@ export function buildProfileVector(
       case "MBTI": {
         const r = scoreMBTI(s.answers, qs);
         out.mbti = { type: r.type, scores: r.scores };
+        break;
+      }
+      case "BIGFIVE": {
+        const r = scoreBigFive(s.answers, qs);
+        out.bigFive = { scores: r.scores, topTraits: r.topTraits };
         break;
       }
       case "ENNEAGRAM": {

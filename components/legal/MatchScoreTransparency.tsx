@@ -41,9 +41,10 @@ export function MatchScoreTransparency({ className }: { className?: string }) {
             ))}
           </ul>
           <p className="text-xs text-gray-500">
-            Holland kodu için vektörler arasında kosinüs benzerliği; MBTI için eksen uyumu; değerler, VARK ve güçlü
-            yönler için ağırlıklı vektör örtüşmesi; Enneagram için tipe özgü uyum katsayısı kullanılır. Bu bir resmi
-            sınav veya kurum puanı değildir.
+            Holland kodu için vektörler arasında kosinüs benzerliği; MBTI için eksen uyumu; Büyük Beş için dört boyut
+            (açıklık, özdisiplin, dışadönüklük, uyumluluk) kullanıcı skoru ile katalogdan türetilen tahmini rol profili
+            arasında kosinüs benzerliği; değerler, VARK ve güçlü yönler için ağırlıklı vektör örtüşmesi; Enneagram için
+            tipe özgü uyum katsayısı kullanılır. Bu bir resmi sınav veya kurum puanı değildir.
           </p>
         </div>
       )}
