@@ -18,9 +18,9 @@ const jakarta = Plus_Jakarta_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Careofy — Seni tanıyan kariyer mentörü",
+  title: "Careofy — Kendini tanı, doğru adımı at",
   description:
-    "Bilimsel testler ve yapay zeka ile kişisel kariyer ve eğitim yol haritanı keşfet.",
+    "Bilimsel testler ve yapay zeka ile kişisel kariyer ve eğitim yol haritanı keşfet; meslek ve bölüm eşleşmende netlik.",
 };
 
 export default async function RootLayout({
