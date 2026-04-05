@@ -1,7 +1,6 @@
 "use client";
 
 import Link from "next/link";
-import { useRouter } from "next/navigation";
 import { signIn } from "next-auth/react";
 import { useState } from "react";
 import { Button } from "@/components/ui/Button";
@@ -11,7 +10,6 @@ const inputClass =
   "w-full rounded-xl border border-gray-200 bg-white px-4 py-3 font-body text-[15px] text-navy-800 outline-none transition placeholder:text-gray-400 focus:border-brand-500 focus:ring-2 focus:ring-brand-500/20";
 
 export function SignupForm() {
-  const router = useRouter();
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
@@ -46,7 +44,6 @@ export function SignupForm() {
       const data = await res.json().catch(() => ({}));
       if (!res.ok) {
         setError(typeof data.error === "string" ? data.error : "Kayıt başarısız.");
-        setLoading(false);
         return;
       }
       const sign = await signIn("credentials", {
@@ -54,15 +51,14 @@ export function SignupForm() {
         password,
         redirect: false,
       });
-      if (sign?.error) {
+      if (!sign || sign.error || sign.ok === false) {
         setError("Hesap oluşturuldu ancak giriş yapılamadı. Lütfen giriş sayfasından deneyin.");
-        setLoading(false);
         return;
       }
-      router.push("/onboarding/role");
-      router.refresh();
+      window.location.assign("/onboarding/role");
     } catch {
       setError("Bir hata oluştu. Tekrar deneyin.");
+    } finally {
       setLoading(false);
     }
   }

@@ -2,6 +2,7 @@ import type { ProfileVector } from "@/types/report.types";
 import type {
   CatalogWeights,
   DepartmentCatalogEntry,
+  HollandWeights,
   ProfessionCatalogEntry,
   RankedDepartment,
   RankedProfession,
@@ -50,11 +51,37 @@ function cosineSim6(
   return dot / (Math.sqrt(na) * Math.sqrt(nb));
 }
 
+function userLeadsHollandLetter(
+  scores: Record<string, number>,
+  letter: (typeof H_KEYS)[number]
+): boolean {
+  const ranked = H_KEYS.map((k) => ({ k, v: scores[k] ?? 0 })).sort((a, b) => b.v - a.v);
+  return ranked[0].k === letter && ranked[0].v > (ranked[1]?.v ?? 0);
+}
+
+/**
+ * Holland’da net “Uygulama/teknik (R)” öne çıkan kullanıcılar için, yüksek R ağırlıklı
+ * katalog öğelerine (zanaat, tarım, saha) hafif bonus — meslek listesi genişledikçe ayrışmayı korur.
+ */
+function hollandRealisticAlignmentBonus(
+  profile: ProfileVector,
+  itemHolland: HollandWeights
+): number {
+  const u = profile.holland?.scores as Record<string, number> | undefined;
+  if (!u) return 0;
+  if ((itemHolland.R ?? 0) < 4) return 0;
+  if (!userLeadsHollandLetter(u, "R")) return 0;
+  return 4;
+}
+
 function scoreHolland(profile: ProfileVector, w: CatalogWeights): number {
   const u = profile.holland?.scores;
   if (!u) return 55;
-  const cos = cosineSim6(u as Record<string, number>, w.holland as Record<string, number>);
-  return clamp(cos * 100, 0, 100);
+  const ih = w.holland as HollandWeights;
+  const cos = cosineSim6(u as Record<string, number>, ih as Record<string, number>);
+  const base = clamp(cos * 100, 0, 100);
+  const bonus = hollandRealisticAlignmentBonus(profile, ih);
+  return clamp(base + bonus, 0, 100);
 }
 
 function mbtiAxesFromProfile(profile: ProfileVector): {

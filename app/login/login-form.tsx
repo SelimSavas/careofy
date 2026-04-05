@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { useRouter, useSearchParams } from "next/navigation";
+import { useSearchParams } from "next/navigation";
 import { signIn } from "next-auth/react";
 import { useState } from "react";
 import { Button } from "@/components/ui/Button";
@@ -10,10 +10,14 @@ import { Logo } from "@/components/ui/Logo";
 const inputClass =
   "w-full rounded-xl border border-gray-200 bg-white px-4 py-3 font-body text-[15px] text-navy-800 outline-none transition placeholder:text-gray-400 focus:border-brand-500 focus:ring-2 focus:ring-brand-500/20";
 
+function safeCallbackPath(raw: string | null): string {
+  if (!raw || !raw.startsWith("/") || raw.startsWith("//")) return "/tests/overview";
+  return raw;
+}
+
 export function LoginForm() {
-  const router = useRouter();
   const searchParams = useSearchParams();
-  const callbackUrl = searchParams.get("callbackUrl") ?? "/tests/overview";
+  const callbackUrl = safeCallbackPath(searchParams.get("callbackUrl"));
 
   const [email, setEmail] = useState("");
   const [password, setPassword] = useState("");
@@ -30,15 +34,21 @@ export function LoginForm() {
         password,
         redirect: false,
       });
-      if (res?.error) {
-        setError("E-posta veya şifre hatalı.");
-        setLoading(false);
+
+      if (!res || res.error || res.ok === false) {
+        setError(
+          res?.error === "CredentialsSignin"
+            ? "E-posta veya şifre hatalı."
+            : "Giriş yapılamadı. Bağlantını veya sunucuyu kontrol edip tekrar deneyin."
+        );
         return;
       }
-      router.push(callbackUrl);
-      router.refresh();
+
+      // Tam sayfa geçiş: JWT oturum çerezi bazen client router ile hemen görünmez; middleware güvenilir çalışır.
+      window.location.assign(callbackUrl);
     } catch {
       setError("Bir hata oluştu. Tekrar deneyin.");
+    } finally {
       setLoading(false);
     }
   }

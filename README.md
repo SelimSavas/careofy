@@ -39,7 +39,8 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 | Değişken | Açıklama |
 |----------|----------|
-| `DATABASE_URL` | PostgreSQL connection string |
+| `DATABASE_URL` | Havuzlu PostgreSQL dizesi (Neon `-pooler`; sonuna `&pgbouncer=true` ekleyin) |
+| `DIRECT_URL` | Doğrudan PostgreSQL dizesi (migration’lar için; Neon’daki non-pooler bağlantı) |
 | `NEXTAUTH_URL` | Dağıtım URL’in, örn. `https://proje-adi.vercel.app` |
 | `NEXTAUTH_SECRET` | `openssl rand -base64 32` ile üret |
 | `ANTHROPIC_API_KEY` | İsteğe bağlı; yoksa analiz mock rapora düşer |
@@ -47,4 +48,4 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 4. **İlk deploy**: `npm run build` sırasında `prisma migrate deploy` çalışır; tablolar oluşur.
 
-Yerel geliştirme: `.env` içinde `DATABASE_URL`’i PostgreSQL’e çevir, sonra `npx prisma migrate dev` (veya `deploy`) çalıştır. Eski SQLite `dev.db` artık kullanılmıyor.
+Yerel geliştirme: `.env` içinde `DATABASE_URL` ve `DIRECT_URL` tanımlayın (yalnızca tek Neon dizeniz varsa ikisine de aynı doğrudan URL’yi verin), sonra `npx prisma migrate dev` (veya `deploy`) çalıştırın. Eski SQLite `dev.db` artık kullanılmıyor.

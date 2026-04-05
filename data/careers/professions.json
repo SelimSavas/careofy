@@ -8185,5 +8185,4139 @@
       "5": 0.3,
       "6": 0.2
     }
+  },
+  {
+    "id": "prof-201",
+    "title": "Çiftçi (bitkisel üretim)",
+    "category": "Tarım ve doğa",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 5,
+      "I": 2,
+      "A": 0,
+      "S": 1,
+      "E": 1,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": -0.25,
+      "sn": -0.25,
+      "tf": 0.38,
+      "jp": 0.22
+    },
+    "values": {
+      "purpose": 0.28,
+      "autonomy": 0.32,
+      "security": 0.22,
+      "balance": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "R": 3,
+      "V": 2,
+      "A": 1
+    },
+    "strengths": {
+      "execution": 0.34,
+      "discipline": 0.26,
+      "adaptability": 0.22
+    },
+    "enneagram": {
+      "6": 0.32,
+      "9": 0.22,
+      "1": 0.2
+    }
+  },
+  {
+    "id": "prof-202",
+    "title": "Hayvancılık işletmecisi",
+    "category": "Tarım ve doğa",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 5,
+      "I": 1,
+      "A": 0,
+      "S": 2,
+      "E": 1,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": -0.22,
+      "sn": -0.18,
+      "tf": -0.28,
+      "jp": 0.18
+    },
+    "values": {
+      "purpose": 0.28,
+      "autonomy": 0.32,
+      "security": 0.22,
+      "balance": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "R": 3,
+      "V": 2,
+      "A": 1
+    },
+    "strengths": {
+      "execution": 0.34,
+      "discipline": 0.26,
+      "adaptability": 0.22
+    },
+    "enneagram": {
+      "6": 0.32,
+      "9": 0.22,
+      "1": 0.2
+    }
+  },
+  {
+    "id": "prof-203",
+    "title": "Seracılık ve örtü altı üretim teknisyeni",
+    "category": "Tarım ve doğa",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 5,
+      "I": 2,
+      "A": 1,
+      "S": 1,
+      "E": 0,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": -0.25,
+      "sn": -0.25,
+      "tf": 0.38,
+      "jp": 0.22
+    },
+    "values": {
+      "purpose": 0.28,
+      "autonomy": 0.32,
+      "security": 0.22,
+      "balance": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "R": 3,
+      "V": 2,
+      "A": 1
+    },
+    "strengths": {
+      "execution": 0.34,
+      "discipline": 0.26,
+      "adaptability": 0.22
+    },
+    "enneagram": {
+      "6": 0.32,
+      "9": 0.22,
+      "1": 0.2
+    }
+  },
+  {
+    "id": "prof-204",
+    "title": "Arıcı",
+    "category": "Tarım ve doğa",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 4,
+      "I": 2,
+      "A": 1,
+      "S": 1,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": -0.38,
+      "tf": 0.42,
+      "jp": -0.38
+    },
+    "values": {
+      "purpose": 0.28,
+      "autonomy": 0.32,
+      "security": 0.22,
+      "balance": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "R": 3,
+      "V": 2,
+      "A": 1
+    },
+    "strengths": {
+      "execution": 0.34,
+      "discipline": 0.26,
+      "adaptability": 0.22
+    },
+    "enneagram": {
+      "6": 0.32,
+      "9": 0.22,
+      "1": 0.2
+    }
+  },
+  {
+    "id": "prof-205",
+    "title": "Meyvecilik ve bağ işletmeciliği teknisyeni",
+    "category": "Tarım ve doğa",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 5,
+      "I": 2,
+      "A": 1,
+      "S": 1,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.25,
+      "sn": -0.25,
+      "tf": 0.38,
+      "jp": 0.22
+    },
+    "values": {
+      "purpose": 0.28,
+      "autonomy": 0.32,
+      "security": 0.22,
+      "balance": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "R": 3,
+      "V": 2,
+      "A": 1
+    },
+    "strengths": {
+      "execution": 0.34,
+      "discipline": 0.26,
+      "adaptability": 0.22
+    },
+    "enneagram": {
+      "6": 0.32,
+      "9": 0.22,
+      "1": 0.2
+    }
+  },
+  {
+    "id": "prof-206",
+    "title": "Süt ve besi işletmesi bakım elemanı",
+    "category": "Tarım ve doğa",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 5,
+      "I": 1,
+      "A": 0,
+      "S": 2,
+      "E": 0,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": -0.22,
+      "sn": -0.18,
+      "tf": -0.28,
+      "jp": 0.18
+    },
+    "values": {
+      "purpose": 0.28,
+      "autonomy": 0.32,
+      "security": 0.22,
+      "balance": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "R": 3,
+      "V": 2,
+      "A": 1
+    },
+    "strengths": {
+      "execution": 0.34,
+      "discipline": 0.26,
+      "adaptability": 0.22
+    },
+    "enneagram": {
+      "6": 0.32,
+      "9": 0.22,
+      "1": 0.2
+    }
+  },
+  {
+    "id": "prof-207",
+    "title": "Traktör ve tarım makinesi operatörü",
+    "category": "Tarım ve doğa",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 5,
+      "I": 1,
+      "A": 0,
+      "S": 0,
+      "E": 0,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": -0.38,
+      "tf": 0.42,
+      "jp": -0.38
+    },
+    "values": {
+      "purpose": 0.28,
+      "autonomy": 0.32,
+      "security": 0.22,
+      "balance": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "R": 3,
+      "V": 2,
+      "A": 1
+    },
+    "strengths": {
+      "execution": 0.34,
+      "discipline": 0.26,
+      "adaptability": 0.22
+    },
+    "enneagram": {
+      "6": 0.32,
+      "9": 0.22,
+      "1": 0.2
+    }
+  },
+  {
+    "id": "prof-208",
+    "title": "Orman işçisi / ağaç kesim ve bakım",
+    "category": "Tarım ve doğa",
+    "futureOutlook": 5,
+    "holland": {
+      "R": 5,
+      "I": 1,
+      "A": 0,
+      "S": 0,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": -0.38,
+      "tf": 0.42,
+      "jp": -0.38
+    },
+    "values": {
+      "purpose": 0.28,
+      "autonomy": 0.32,
+      "security": 0.22,
+      "balance": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "R": 3,
+      "V": 2,
+      "A": 1
+    },
+    "strengths": {
+      "execution": 0.34,
+      "discipline": 0.26,
+      "adaptability": 0.22
+    },
+    "enneagram": {
+      "6": 0.32,
+      "9": 0.22,
+      "1": 0.2
+    }
+  },
+  {
+    "id": "prof-209",
+    "title": "Bahçıvan ve peyzaj bakım elemanı",
+    "category": "Tarım ve doğa",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 4,
+      "I": 1,
+      "A": 3,
+      "S": 1,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.18,
+      "sn": -0.22,
+      "tf": -0.15,
+      "jp": -0.25
+    },
+    "values": {
+      "purpose": 0.28,
+      "autonomy": 0.32,
+      "security": 0.22,
+      "balance": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "R": 3,
+      "V": 2,
+      "A": 1
+    },
+    "strengths": {
+      "execution": 0.34,
+      "discipline": 0.26,
+      "adaptability": 0.22
+    },
+    "enneagram": {
+      "6": 0.32,
+      "9": 0.22,
+      "1": 0.2
+    }
+  },
+  {
+    "id": "prof-210",
+    "title": "İç ve dış mekan bitkileri yetiştiricisi",
+    "category": "Tarım ve doğa",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 4,
+      "I": 2,
+      "A": 2,
+      "S": 1,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.22,
+      "sn": -0.18,
+      "tf": -0.28,
+      "jp": 0.18
+    },
+    "values": {
+      "purpose": 0.28,
+      "autonomy": 0.32,
+      "security": 0.22,
+      "balance": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "R": 3,
+      "V": 2,
+      "A": 1
+    },
+    "strengths": {
+      "execution": 0.34,
+      "discipline": 0.26,
+      "adaptability": 0.22
+    },
+    "enneagram": {
+      "6": 0.32,
+      "9": 0.22,
+      "1": 0.2
+    }
+  },
+  {
+    "id": "prof-211",
+    "title": "Su ürünleri yetiştiriciliği teknisyeni",
+    "category": "Tarım ve doğa",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 1,
+      "S": 1,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.25,
+      "sn": -0.25,
+      "tf": 0.38,
+      "jp": 0.22
+    },
+    "values": {
+      "purpose": 0.28,
+      "autonomy": 0.32,
+      "security": 0.22,
+      "balance": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "R": 3,
+      "V": 2,
+      "A": 1
+    },
+    "strengths": {
+      "execution": 0.34,
+      "discipline": 0.26,
+      "adaptability": 0.22
+    },
+    "enneagram": {
+      "6": 0.32,
+      "9": 0.22,
+      "1": 0.2
+    }
+  },
+  {
+    "id": "prof-212",
+    "title": "Zirai ilaçlama ve gübreleme operatörü",
+    "category": "Tarım ve doğa",
+    "futureOutlook": 5,
+    "holland": {
+      "R": 5,
+      "I": 1,
+      "A": 0,
+      "S": 0,
+      "E": 0,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": -0.25,
+      "sn": -0.25,
+      "tf": 0.38,
+      "jp": 0.22
+    },
+    "values": {
+      "purpose": 0.28,
+      "autonomy": 0.32,
+      "security": 0.22,
+      "balance": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "R": 3,
+      "V": 2,
+      "A": 1
+    },
+    "strengths": {
+      "execution": 0.34,
+      "discipline": 0.26,
+      "adaptability": 0.22
+    },
+    "enneagram": {
+      "6": 0.32,
+      "9": 0.22,
+      "1": 0.2
+    }
+  },
+  {
+    "id": "prof-213",
+    "title": "Oto mekaniği ve motor teknisyeni",
+    "category": "Motor ve taşıt",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 5,
+      "I": 2,
+      "A": 0,
+      "S": 1,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": -0.38,
+      "tf": 0.42,
+      "jp": -0.38
+    },
+    "values": {
+      "achievement": 0.26,
+      "growth": 0.22,
+      "security": 0.24,
+      "variety": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "V": 3,
+      "R": 2,
+      "A": 1
+    },
+    "strengths": {
+      "analytical": 0.36,
+      "execution": 0.28,
+      "focus": 0.22
+    },
+    "enneagram": {
+      "5": 0.28,
+      "6": 0.26,
+      "8": 0.18
+    }
+  },
+  {
+    "id": "prof-214",
+    "title": "Oto elektrik ve elektronik teknisyeni",
+    "category": "Motor ve taşıt",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 0,
+      "S": 1,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": -0.38,
+      "tf": 0.42,
+      "jp": -0.38
+    },
+    "values": {
+      "achievement": 0.26,
+      "growth": 0.24,
+      "security": 0.22
+    },
+    "vark": {
+      "K": 3,
+      "R": 3,
+      "V": 3,
+      "A": 1
+    },
+    "strengths": {
+      "analytical": 0.38,
+      "focus": 0.28,
+      "discipline": 0.22
+    },
+    "enneagram": {
+      "5": 0.3,
+      "1": 0.24,
+      "6": 0.22
+    }
+  },
+  {
+    "id": "prof-215",
+    "title": "Kaporta ve boya ustası",
+    "category": "Motor ve taşıt",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 4,
+      "I": 1,
+      "A": 3,
+      "S": 1,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.18,
+      "sn": -0.22,
+      "tf": -0.15,
+      "jp": -0.25
+    },
+    "values": {
+      "achievement": 0.26,
+      "growth": 0.22,
+      "security": 0.24,
+      "variety": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "V": 3,
+      "R": 2,
+      "A": 1
+    },
+    "strengths": {
+      "analytical": 0.36,
+      "execution": 0.28,
+      "focus": 0.22
+    },
+    "enneagram": {
+      "5": 0.28,
+      "6": 0.26,
+      "8": 0.18
+    }
+  },
+  {
+    "id": "prof-216",
+    "title": "Lastik ve balans teknisyeni",
+    "category": "Motor ve taşıt",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 5,
+      "I": 1,
+      "A": 0,
+      "S": 1,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.38,
+      "sn": -0.32,
+      "tf": 0.32,
+      "jp": -0.28
+    },
+    "values": {
+      "achievement": 0.26,
+      "growth": 0.22,
+      "security": 0.24,
+      "variety": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "V": 3,
+      "R": 2,
+      "A": 1
+    },
+    "strengths": {
+      "analytical": 0.36,
+      "execution": 0.28,
+      "focus": 0.22
+    },
+    "enneagram": {
+      "5": 0.28,
+      "6": 0.26,
+      "8": 0.18
+    }
+  },
+  {
+    "id": "prof-217",
+    "title": "Ağır vasıta ve iş makinesi mekaniği",
+    "category": "Motor ve taşıt",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 5,
+      "I": 2,
+      "A": 0,
+      "S": 0,
+      "E": 0,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": -0.38,
+      "tf": 0.42,
+      "jp": -0.38
+    },
+    "values": {
+      "achievement": 0.26,
+      "growth": 0.22,
+      "security": 0.24,
+      "variety": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "V": 3,
+      "R": 2,
+      "A": 1
+    },
+    "strengths": {
+      "analytical": 0.36,
+      "execution": 0.28,
+      "focus": 0.22
+    },
+    "enneagram": {
+      "5": 0.28,
+      "6": 0.26,
+      "8": 0.18
+    }
+  },
+  {
+    "id": "prof-218",
+    "title": "Motosiklet ve küçük motor tamircisi",
+    "category": "Motor ve taşıt",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 5,
+      "I": 2,
+      "A": 0,
+      "S": 1,
+      "E": 1,
+      "C": 1
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": -0.38,
+      "tf": 0.42,
+      "jp": -0.38
+    },
+    "values": {
+      "achievement": 0.26,
+      "growth": 0.22,
+      "security": 0.24,
+      "variety": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "V": 3,
+      "R": 2,
+      "A": 1
+    },
+    "strengths": {
+      "analytical": 0.36,
+      "execution": 0.28,
+      "focus": 0.22
+    },
+    "enneagram": {
+      "5": 0.28,
+      "6": 0.26,
+      "8": 0.18
+    }
+  },
+  {
+    "id": "prof-219",
+    "title": "Bisiklet tamircısı",
+    "category": "Motor ve taşıt",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 5,
+      "I": 1,
+      "A": 1,
+      "S": 1,
+      "E": 0,
+      "C": 1
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": -0.38,
+      "tf": 0.42,
+      "jp": -0.38
+    },
+    "values": {
+      "achievement": 0.26,
+      "growth": 0.22,
+      "security": 0.24,
+      "variety": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "V": 3,
+      "R": 2,
+      "A": 1
+    },
+    "strengths": {
+      "analytical": 0.36,
+      "execution": 0.28,
+      "focus": 0.22
+    },
+    "enneagram": {
+      "5": 0.28,
+      "6": 0.26,
+      "8": 0.18
+    }
+  },
+  {
+    "id": "prof-220",
+    "title": "Dizel enjeksiyon ve pompa teknisyeni",
+    "category": "Motor ve taşıt",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 0,
+      "S": 0,
+      "E": 0,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": -0.28,
+      "sn": 0.25,
+      "tf": 0.35,
+      "jp": 0.15
+    },
+    "values": {
+      "achievement": 0.26,
+      "growth": 0.22,
+      "security": 0.24,
+      "variety": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "V": 3,
+      "R": 2,
+      "A": 1
+    },
+    "strengths": {
+      "analytical": 0.36,
+      "execution": 0.28,
+      "focus": 0.22
+    },
+    "enneagram": {
+      "5": 0.28,
+      "6": 0.26,
+      "8": 0.18
+    }
+  },
+  {
+    "id": "prof-221",
+    "title": "Kaynakçı (MAG/MIG/TIG)",
+    "category": "Metal ve makine",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 5,
+      "I": 1,
+      "A": 1,
+      "S": 0,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": -0.38,
+      "tf": 0.42,
+      "jp": -0.38
+    },
+    "values": {
+      "achievement": 0.3,
+      "security": 0.24,
+      "growth": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "V": 3,
+      "R": 2,
+      "A": 1
+    },
+    "strengths": {
+      "execution": 0.34,
+      "focus": 0.28,
+      "discipline": 0.24
+    },
+    "enneagram": {
+      "8": 0.24,
+      "1": 0.28,
+      "6": 0.22
+    }
+  },
+  {
+    "id": "prof-222",
+    "title": "CNC torna-freze operatörü",
+    "category": "Metal ve makine",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 5,
+      "I": 2,
+      "A": 0,
+      "S": 0,
+      "E": 0,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": -0.25,
+      "sn": -0.25,
+      "tf": 0.38,
+      "jp": 0.22
+    },
+    "values": {
+      "achievement": 0.3,
+      "security": 0.24,
+      "growth": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "V": 3,
+      "R": 2,
+      "A": 1
+    },
+    "strengths": {
+      "execution": 0.34,
+      "focus": 0.28,
+      "discipline": 0.24
+    },
+    "enneagram": {
+      "8": 0.24,
+      "1": 0.28,
+      "6": 0.22
+    }
+  },
+  {
+    "id": "prof-223",
+    "title": "Kalıpçı ve metal şekillendirme",
+    "category": "Metal ve makine",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 5,
+      "I": 1,
+      "A": 0,
+      "S": 0,
+      "E": 0,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": -0.25,
+      "sn": -0.25,
+      "tf": 0.38,
+      "jp": 0.22
+    },
+    "values": {
+      "achievement": 0.3,
+      "security": 0.24,
+      "growth": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "V": 3,
+      "R": 2,
+      "A": 1
+    },
+    "strengths": {
+      "execution": 0.34,
+      "focus": 0.28,
+      "discipline": 0.24
+    },
+    "enneagram": {
+      "8": 0.24,
+      "1": 0.28,
+      "6": 0.22
+    }
+  },
+  {
+    "id": "prof-224",
+    "title": "Sac işleme ve pres operatörü",
+    "category": "Metal ve makine",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 5,
+      "I": 1,
+      "A": 0,
+      "S": 0,
+      "E": 0,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": 0.35,
+      "sn": -0.22,
+      "tf": 0.35,
+      "jp": 0.28
+    },
+    "values": {
+      "achievement": 0.3,
+      "security": 0.24,
+      "growth": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "V": 3,
+      "R": 2,
+      "A": 1
+    },
+    "strengths": {
+      "execution": 0.34,
+      "focus": 0.28,
+      "discipline": 0.24
+    },
+    "enneagram": {
+      "8": 0.24,
+      "1": 0.28,
+      "6": 0.22
+    }
+  },
+  {
+    "id": "prof-225",
+    "title": "Endüstriyel bakım-onarım teknisyeni",
+    "category": "Metal ve makine",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 4,
+      "I": 2,
+      "A": 0,
+      "S": 1,
+      "E": 0,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": -0.38,
+      "tf": 0.42,
+      "jp": -0.38
+    },
+    "values": {
+      "achievement": 0.26,
+      "growth": 0.22,
+      "security": 0.24,
+      "variety": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "V": 3,
+      "R": 2,
+      "A": 1
+    },
+    "strengths": {
+      "analytical": 0.36,
+      "execution": 0.28,
+      "focus": 0.22
+    },
+    "enneagram": {
+      "5": 0.28,
+      "6": 0.26,
+      "8": 0.18
+    }
+  },
+  {
+    "id": "prof-226",
+    "title": "Hidrolik-pnömatik sistem teknisyeni",
+    "category": "Metal ve makine",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 0,
+      "S": 0,
+      "E": 0,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": -0.22,
+      "sn": 0.32,
+      "tf": 0.28,
+      "jp": -0.18
+    },
+    "values": {
+      "achievement": 0.26,
+      "growth": 0.24,
+      "security": 0.22
+    },
+    "vark": {
+      "K": 3,
+      "R": 3,
+      "V": 3,
+      "A": 1
+    },
+    "strengths": {
+      "analytical": 0.38,
+      "focus": 0.28,
+      "discipline": 0.22
+    },
+    "enneagram": {
+      "5": 0.3,
+      "1": 0.24,
+      "6": 0.22
+    }
+  },
+  {
+    "id": "prof-227",
+    "title": "Elektrik tesisatçısı (konut ve işyeri)",
+    "category": "Elektrik ve enerji",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 4,
+      "I": 2,
+      "A": 0,
+      "S": 1,
+      "E": 0,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": -0.38,
+      "tf": 0.42,
+      "jp": -0.38
+    },
+    "values": {
+      "achievement": 0.26,
+      "growth": 0.24,
+      "security": 0.22
+    },
+    "vark": {
+      "K": 3,
+      "R": 3,
+      "V": 3,
+      "A": 1
+    },
+    "strengths": {
+      "analytical": 0.38,
+      "focus": 0.28,
+      "discipline": 0.22
+    },
+    "enneagram": {
+      "5": 0.3,
+      "1": 0.24,
+      "6": 0.22
+    }
+  },
+  {
+    "id": "prof-228",
+    "title": "Elektronik cihaz tamircisi",
+    "category": "Elektrik ve enerji",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 0,
+      "S": 1,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.22,
+      "sn": 0.32,
+      "tf": 0.28,
+      "jp": -0.18
+    },
+    "values": {
+      "achievement": 0.26,
+      "growth": 0.24,
+      "security": 0.22
+    },
+    "vark": {
+      "K": 3,
+      "R": 3,
+      "V": 3,
+      "A": 1
+    },
+    "strengths": {
+      "analytical": 0.38,
+      "focus": 0.28,
+      "discipline": 0.22
+    },
+    "enneagram": {
+      "5": 0.3,
+      "1": 0.24,
+      "6": 0.22
+    }
+  },
+  {
+    "id": "prof-229",
+    "title": "Beyaz eşya servis teknisyeni",
+    "category": "Elektrik ve enerji",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 4,
+      "I": 2,
+      "A": 0,
+      "S": 2,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": -0.38,
+      "tf": 0.42,
+      "jp": -0.38
+    },
+    "values": {
+      "achievement": 0.26,
+      "growth": 0.24,
+      "security": 0.22
+    },
+    "vark": {
+      "K": 3,
+      "R": 3,
+      "V": 3,
+      "A": 1
+    },
+    "strengths": {
+      "analytical": 0.38,
+      "focus": 0.28,
+      "discipline": 0.22
+    },
+    "enneagram": {
+      "5": 0.3,
+      "1": 0.24,
+      "6": 0.22
+    }
+  },
+  {
+    "id": "prof-230",
+    "title": "Güneş enerjisi saha montajcısı",
+    "category": "Elektrik ve enerji",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 4,
+      "I": 2,
+      "A": 0,
+      "S": 1,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.38,
+      "sn": -0.32,
+      "tf": 0.32,
+      "jp": -0.28
+    },
+    "values": {
+      "achievement": 0.28,
+      "security": 0.24,
+      "autonomy": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "V": 3,
+      "R": 2,
+      "A": 1
+    },
+    "strengths": {
+      "execution": 0.38,
+      "discipline": 0.26,
+      "adaptability": 0.2
+    },
+    "enneagram": {
+      "1": 0.28,
+      "6": 0.26,
+      "8": 0.2
+    }
+  },
+  {
+    "id": "prof-231",
+    "title": "Altyapı ve fiber kablo teknisyeni",
+    "category": "Elektrik ve enerji",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 4,
+      "I": 2,
+      "A": 0,
+      "S": 1,
+      "E": 0,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": -0.25,
+      "sn": -0.25,
+      "tf": 0.38,
+      "jp": 0.22
+    },
+    "values": {
+      "achievement": 0.26,
+      "growth": 0.24,
+      "security": 0.22
+    },
+    "vark": {
+      "K": 3,
+      "R": 3,
+      "V": 3,
+      "A": 1
+    },
+    "strengths": {
+      "analytical": 0.38,
+      "focus": 0.28,
+      "discipline": 0.22
+    },
+    "enneagram": {
+      "5": 0.3,
+      "1": 0.24,
+      "6": 0.22
+    }
+  },
+  {
+    "id": "prof-232",
+    "title": "Yangın algılama ve güvenlik sistemleri teknisyeni",
+    "category": "Elektrik ve enerji",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 4,
+      "I": 2,
+      "A": 0,
+      "S": 1,
+      "E": 0,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": -0.25,
+      "sn": -0.25,
+      "tf": 0.38,
+      "jp": 0.22
+    },
+    "values": {
+      "achievement": 0.26,
+      "growth": 0.24,
+      "security": 0.22
+    },
+    "vark": {
+      "K": 3,
+      "R": 3,
+      "V": 3,
+      "A": 1
+    },
+    "strengths": {
+      "analytical": 0.38,
+      "focus": 0.28,
+      "discipline": 0.22
+    },
+    "enneagram": {
+      "5": 0.3,
+      "1": 0.24,
+      "6": 0.22
+    }
+  },
+  {
+    "id": "prof-233",
+    "title": "Endüstriyel otomasyon elektrikçisi",
+    "category": "Elektrik ve enerji",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 0,
+      "S": 0,
+      "E": 0,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": -0.28,
+      "sn": 0.25,
+      "tf": 0.35,
+      "jp": 0.15
+    },
+    "values": {
+      "achievement": 0.26,
+      "growth": 0.24,
+      "security": 0.22
+    },
+    "vark": {
+      "K": 3,
+      "R": 3,
+      "V": 3,
+      "A": 1
+    },
+    "strengths": {
+      "analytical": 0.38,
+      "focus": 0.28,
+      "discipline": 0.22
+    },
+    "enneagram": {
+      "5": 0.3,
+      "1": 0.24,
+      "6": 0.22
+    }
+  },
+  {
+    "id": "prof-234",
+    "title": "Sıhhi tesisat ve kanalizasyon ustası",
+    "category": "İnşaat ve yapı",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 5,
+      "I": 1,
+      "A": 0,
+      "S": 1,
+      "E": 0,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": 0.38,
+      "sn": -0.32,
+      "tf": 0.32,
+      "jp": -0.28
+    },
+    "values": {
+      "achievement": 0.28,
+      "security": 0.24,
+      "autonomy": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "V": 3,
+      "R": 2,
+      "A": 1
+    },
+    "strengths": {
+      "execution": 0.38,
+      "discipline": 0.26,
+      "adaptability": 0.2
+    },
+    "enneagram": {
+      "1": 0.28,
+      "6": 0.26,
+      "8": 0.2
+    }
+  },
+  {
+    "id": "prof-235",
+    "title": "Doğalgaz tesisatçısı",
+    "category": "İnşaat ve yapı",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 4,
+      "I": 2,
+      "A": 0,
+      "S": 1,
+      "E": 0,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": -0.25,
+      "sn": -0.25,
+      "tf": 0.38,
+      "jp": 0.22
+    },
+    "values": {
+      "achievement": 0.28,
+      "security": 0.24,
+      "autonomy": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "V": 3,
+      "R": 2,
+      "A": 1
+    },
+    "strengths": {
+      "execution": 0.38,
+      "discipline": 0.26,
+      "adaptability": 0.2
+    },
+    "enneagram": {
+      "1": 0.28,
+      "6": 0.26,
+      "8": 0.2
+    }
+  },
+  {
+    "id": "prof-236",
+    "title": "Isıtma-soğutma (klima) teknisyeni",
+    "category": "İnşaat ve yapı",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 4,
+      "I": 2,
+      "A": 0,
+      "S": 1,
+      "E": 0,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": -0.38,
+      "tf": 0.42,
+      "jp": -0.38
+    },
+    "values": {
+      "achievement": 0.28,
+      "security": 0.24,
+      "autonomy": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "V": 3,
+      "R": 2,
+      "A": 1
+    },
+    "strengths": {
+      "execution": 0.38,
+      "discipline": 0.26,
+      "adaptability": 0.2
+    },
+    "enneagram": {
+      "1": 0.28,
+      "6": 0.26,
+      "8": 0.2
+    }
+  },
+  {
+    "id": "prof-237",
+    "title": "Yalıtım ve çatı ustası",
+    "category": "İnşaat ve yapı",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 5,
+      "I": 1,
+      "A": 0,
+      "S": 0,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": -0.38,
+      "tf": 0.42,
+      "jp": -0.38
+    },
+    "values": {
+      "achievement": 0.28,
+      "security": 0.24,
+      "autonomy": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "V": 3,
+      "R": 2,
+      "A": 1
+    },
+    "strengths": {
+      "execution": 0.38,
+      "discipline": 0.26,
+      "adaptability": 0.2
+    },
+    "enneagram": {
+      "1": 0.28,
+      "6": 0.26,
+      "8": 0.2
+    }
+  },
+  {
+    "id": "prof-238",
+    "title": "Duvarcı ve sıvacı",
+    "category": "İnşaat ve yapı",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 5,
+      "I": 0,
+      "A": 1,
+      "S": 0,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.38,
+      "sn": -0.32,
+      "tf": 0.32,
+      "jp": -0.28
+    },
+    "values": {
+      "achievement": 0.28,
+      "security": 0.24,
+      "autonomy": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "V": 3,
+      "R": 2,
+      "A": 1
+    },
+    "strengths": {
+      "execution": 0.38,
+      "discipline": 0.26,
+      "adaptability": 0.2
+    },
+    "enneagram": {
+      "1": 0.28,
+      "6": 0.26,
+      "8": 0.2
+    }
+  },
+  {
+    "id": "prof-239",
+    "title": "Fayans-seramik döşeyici",
+    "category": "İnşaat ve yapı",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 4,
+      "I": 1,
+      "A": 3,
+      "S": 0,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.18,
+      "sn": -0.22,
+      "tf": -0.15,
+      "jp": -0.25
+    },
+    "values": {
+      "achievement": 0.28,
+      "security": 0.24,
+      "autonomy": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "V": 3,
+      "R": 2,
+      "A": 1
+    },
+    "strengths": {
+      "execution": 0.38,
+      "discipline": 0.26,
+      "adaptability": 0.2
+    },
+    "enneagram": {
+      "1": 0.28,
+      "6": 0.26,
+      "8": 0.2
+    }
+  },
+  {
+    "id": "prof-240",
+    "title": "İnşaat demircisi ve kaynak montajcısı",
+    "category": "İnşaat ve yapı",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 5,
+      "I": 1,
+      "A": 0,
+      "S": 0,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": -0.38,
+      "tf": 0.42,
+      "jp": -0.38
+    },
+    "values": {
+      "achievement": 0.28,
+      "security": 0.24,
+      "autonomy": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "V": 3,
+      "R": 2,
+      "A": 1
+    },
+    "strengths": {
+      "execution": 0.38,
+      "discipline": 0.26,
+      "adaptability": 0.2
+    },
+    "enneagram": {
+      "1": 0.28,
+      "6": 0.26,
+      "8": 0.2
+    }
+  },
+  {
+    "id": "prof-241",
+    "title": "Camcı ve doğrama montajcısı",
+    "category": "İnşaat ve yapı",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 4,
+      "I": 1,
+      "A": 2,
+      "S": 1,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.18,
+      "sn": -0.22,
+      "tf": -0.15,
+      "jp": -0.25
+    },
+    "values": {
+      "achievement": 0.28,
+      "security": 0.24,
+      "autonomy": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "V": 3,
+      "R": 2,
+      "A": 1
+    },
+    "strengths": {
+      "execution": 0.38,
+      "discipline": 0.26,
+      "adaptability": 0.2
+    },
+    "enneagram": {
+      "1": 0.28,
+      "6": 0.26,
+      "8": 0.2
+    }
+  },
+  {
+    "id": "prof-242",
+    "title": "Asansör bakım ve servis teknisyeni",
+    "category": "İnşaat ve yapı",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 4,
+      "I": 2,
+      "A": 0,
+      "S": 1,
+      "E": 0,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": -0.25,
+      "sn": -0.25,
+      "tf": 0.38,
+      "jp": 0.22
+    },
+    "values": {
+      "achievement": 0.26,
+      "growth": 0.24,
+      "security": 0.22
+    },
+    "vark": {
+      "K": 3,
+      "R": 3,
+      "V": 3,
+      "A": 1
+    },
+    "strengths": {
+      "analytical": 0.38,
+      "focus": 0.28,
+      "discipline": 0.22
+    },
+    "enneagram": {
+      "5": 0.3,
+      "1": 0.24,
+      "6": 0.22
+    }
+  },
+  {
+    "id": "prof-243",
+    "title": "Marangoz ve doğrama ustası",
+    "category": "Ahşap ve mobilya",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 5,
+      "I": 1,
+      "A": 2,
+      "S": 0,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": -0.38,
+      "tf": 0.42,
+      "jp": -0.38
+    },
+    "values": {
+      "creativity": 0.28,
+      "autonomy": 0.26,
+      "achievement": 0.22
+    },
+    "vark": {
+      "K": 4,
+      "V": 3,
+      "R": 2,
+      "A": 2
+    },
+    "strengths": {
+      "creative": 0.3,
+      "execution": 0.3,
+      "focus": 0.22
+    },
+    "enneagram": {
+      "4": 0.22,
+      "5": 0.22,
+      "1": 0.24
+    }
+  },
+  {
+    "id": "prof-244",
+    "title": "Mobilya imalat ve montaj ustası",
+    "category": "Ahşap ve mobilya",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 4,
+      "I": 1,
+      "A": 3,
+      "S": 0,
+      "E": 0,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": -0.18,
+      "sn": -0.22,
+      "tf": -0.15,
+      "jp": -0.25
+    },
+    "values": {
+      "creativity": 0.28,
+      "autonomy": 0.26,
+      "achievement": 0.22
+    },
+    "vark": {
+      "K": 4,
+      "V": 3,
+      "R": 2,
+      "A": 2
+    },
+    "strengths": {
+      "creative": 0.3,
+      "execution": 0.3,
+      "focus": 0.22
+    },
+    "enneagram": {
+      "4": 0.22,
+      "5": 0.22,
+      "1": 0.24
+    }
+  },
+  {
+    "id": "prof-245",
+    "title": "Parke ve döşeme ustası",
+    "category": "Ahşap ve mobilya",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 5,
+      "I": 0,
+      "A": 1,
+      "S": 0,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.25,
+      "sn": -0.25,
+      "tf": 0.38,
+      "jp": 0.22
+    },
+    "values": {
+      "creativity": 0.28,
+      "autonomy": 0.26,
+      "achievement": 0.22
+    },
+    "vark": {
+      "K": 4,
+      "V": 3,
+      "R": 2,
+      "A": 2
+    },
+    "strengths": {
+      "creative": 0.3,
+      "execution": 0.3,
+      "focus": 0.22
+    },
+    "enneagram": {
+      "4": 0.22,
+      "5": 0.22,
+      "1": 0.24
+    }
+  },
+  {
+    "id": "prof-246",
+    "title": "Aşçı ve mutfak elemanı",
+    "category": "Gıda ve içecek",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 4,
+      "I": 1,
+      "A": 3,
+      "S": 2,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.32,
+      "sn": -0.12,
+      "tf": -0.22,
+      "jp": 0.12
+    },
+    "values": {
+      "creativity": 0.3,
+      "variety": 0.24,
+      "achievement": 0.2,
+      "service": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "V": 2,
+      "A": 2,
+      "R": 2
+    },
+    "strengths": {
+      "execution": 0.32,
+      "creative": 0.26,
+      "discipline": 0.22
+    },
+    "enneagram": {
+      "2": 0.22,
+      "7": 0.24,
+      "1": 0.22
+    }
+  },
+  {
+    "id": "prof-247",
+    "title": "Pastacı ve fırıncı",
+    "category": "Gıda ve içecek",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 4,
+      "I": 1,
+      "A": 4,
+      "S": 1,
+      "E": 0,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": -0.18,
+      "sn": -0.22,
+      "tf": -0.15,
+      "jp": -0.25
+    },
+    "values": {
+      "creativity": 0.3,
+      "variety": 0.24,
+      "achievement": 0.2,
+      "service": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "V": 2,
+      "A": 2,
+      "R": 2
+    },
+    "strengths": {
+      "execution": 0.32,
+      "creative": 0.26,
+      "discipline": 0.22
+    },
+    "enneagram": {
+      "2": 0.22,
+      "7": 0.24,
+      "1": 0.22
+    }
+  },
+  {
+    "id": "prof-248",
+    "title": "Kasap ve şarküteri elemanı",
+    "category": "Gıda ve içecek",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 4,
+      "I": 1,
+      "A": 0,
+      "S": 2,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.35,
+      "sn": -0.22,
+      "tf": 0.35,
+      "jp": 0.28
+    },
+    "values": {
+      "creativity": 0.3,
+      "variety": 0.24,
+      "achievement": 0.2,
+      "service": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "V": 2,
+      "A": 2,
+      "R": 2
+    },
+    "strengths": {
+      "execution": 0.32,
+      "creative": 0.26,
+      "discipline": 0.22
+    },
+    "enneagram": {
+      "2": 0.22,
+      "7": 0.24,
+      "1": 0.22
+    }
+  },
+  {
+    "id": "prof-249",
+    "title": "Gıda üretim hattı operatörü",
+    "category": "Gıda ve içecek",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 4,
+      "I": 1,
+      "A": 0,
+      "S": 0,
+      "E": 0,
+      "C": 4
+    },
+    "mbtiIdeal": {
+      "ei": -0.25,
+      "sn": -0.25,
+      "tf": 0.38,
+      "jp": 0.22
+    },
+    "values": {
+      "creativity": 0.3,
+      "variety": 0.24,
+      "achievement": 0.2,
+      "service": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "V": 2,
+      "A": 2,
+      "R": 2
+    },
+    "strengths": {
+      "execution": 0.32,
+      "creative": 0.26,
+      "discipline": 0.22
+    },
+    "enneagram": {
+      "2": 0.22,
+      "7": 0.24,
+      "1": 0.22
+    }
+  },
+  {
+    "id": "prof-250",
+    "title": "İçecek ve barista",
+    "category": "Gıda ve içecek",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 3,
+      "I": 0,
+      "A": 2,
+      "S": 3,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.35,
+      "sn": -0.2,
+      "tf": -0.1,
+      "jp": -0.2
+    },
+    "values": {
+      "creativity": 0.3,
+      "variety": 0.24,
+      "achievement": 0.2,
+      "service": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "V": 2,
+      "A": 2,
+      "R": 2
+    },
+    "strengths": {
+      "execution": 0.32,
+      "creative": 0.26,
+      "discipline": 0.22
+    },
+    "enneagram": {
+      "2": 0.22,
+      "7": 0.24,
+      "1": 0.22
+    }
+  },
+  {
+    "id": "prof-251",
+    "title": "Endüstriyel mutfak ekipman servisi",
+    "category": "Gıda ve içecek",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 4,
+      "I": 2,
+      "A": 0,
+      "S": 1,
+      "E": 0,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": -0.38,
+      "tf": 0.42,
+      "jp": -0.38
+    },
+    "values": {
+      "achievement": 0.26,
+      "growth": 0.22,
+      "security": 0.24,
+      "variety": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "V": 3,
+      "R": 2,
+      "A": 1
+    },
+    "strengths": {
+      "analytical": 0.36,
+      "execution": 0.28,
+      "focus": 0.22
+    },
+    "enneagram": {
+      "5": 0.28,
+      "6": 0.26,
+      "8": 0.18
+    }
+  },
+  {
+    "id": "prof-252",
+    "title": "Berber",
+    "category": "Kişisel bakım",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 3,
+      "I": 0,
+      "A": 2,
+      "S": 3,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.32,
+      "sn": -0.12,
+      "tf": -0.22,
+      "jp": 0.12
+    },
+    "values": {
+      "service": 0.34,
+      "community": 0.22,
+      "recognition": 0.2
+    },
+    "vark": {
+      "A": 3,
+      "K": 3,
+      "V": 2,
+      "R": 2
+    },
+    "strengths": {
+      "empathy": 0.34,
+      "relationship": 0.28,
+      "communication": 0.22
+    },
+    "enneagram": {
+      "2": 0.35,
+      "6": 0.22,
+      "9": 0.2
+    }
+  },
+  {
+    "id": "prof-253",
+    "title": "Kuaför ve saç tasarımcısı",
+    "category": "Kişisel bakım",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 3,
+      "I": 0,
+      "A": 4,
+      "S": 3,
+      "E": 1,
+      "C": 1
+    },
+    "mbtiIdeal": {
+      "ei": 0.35,
+      "sn": -0.2,
+      "tf": -0.1,
+      "jp": -0.2
+    },
+    "values": {
+      "service": 0.34,
+      "community": 0.22,
+      "recognition": 0.2
+    },
+    "vark": {
+      "A": 3,
+      "K": 3,
+      "V": 2,
+      "R": 2
+    },
+    "strengths": {
+      "empathy": 0.34,
+      "relationship": 0.28,
+      "communication": 0.22
+    },
+    "enneagram": {
+      "2": 0.35,
+      "6": 0.22,
+      "9": 0.2
+    }
+  },
+  {
+    "id": "prof-254",
+    "title": "Güzellik ve cilt bakım uzmanı",
+    "category": "Kişisel bakım",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 2,
+      "I": 1,
+      "A": 3,
+      "S": 4,
+      "E": 1,
+      "C": 1
+    },
+    "mbtiIdeal": {
+      "ei": -0.22,
+      "sn": -0.18,
+      "tf": -0.28,
+      "jp": 0.18
+    },
+    "values": {
+      "service": 0.34,
+      "community": 0.22,
+      "recognition": 0.2
+    },
+    "vark": {
+      "A": 3,
+      "K": 3,
+      "V": 2,
+      "R": 2
+    },
+    "strengths": {
+      "empathy": 0.34,
+      "relationship": 0.28,
+      "communication": 0.22
+    },
+    "enneagram": {
+      "2": 0.35,
+      "6": 0.22,
+      "9": 0.2
+    }
+  },
+  {
+    "id": "prof-255",
+    "title": "Masaj ve spa terapisti (meslek diploması)",
+    "category": "Kişisel bakım",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 2,
+      "I": 1,
+      "A": 1,
+      "S": 4,
+      "E": 0,
+      "C": 1
+    },
+    "mbtiIdeal": {
+      "ei": -0.22,
+      "sn": -0.18,
+      "tf": -0.28,
+      "jp": 0.18
+    },
+    "values": {
+      "service": 0.34,
+      "community": 0.22,
+      "recognition": 0.2
+    },
+    "vark": {
+      "A": 3,
+      "K": 3,
+      "V": 2,
+      "R": 2
+    },
+    "strengths": {
+      "empathy": 0.34,
+      "relationship": 0.28,
+      "communication": 0.22
+    },
+    "enneagram": {
+      "2": 0.35,
+      "6": 0.22,
+      "9": 0.2
+    }
+  },
+  {
+    "id": "prof-256",
+    "title": "Tırnak ve protez tırnak teknisyeni",
+    "category": "Kişisel bakım",
+    "futureOutlook": 5,
+    "holland": {
+      "R": 3,
+      "I": 0,
+      "A": 4,
+      "S": 3,
+      "E": 1,
+      "C": 1
+    },
+    "mbtiIdeal": {
+      "ei": 0.35,
+      "sn": -0.2,
+      "tf": -0.1,
+      "jp": -0.2
+    },
+    "values": {
+      "service": 0.34,
+      "community": 0.22,
+      "recognition": 0.2
+    },
+    "vark": {
+      "A": 3,
+      "K": 3,
+      "V": 2,
+      "R": 2
+    },
+    "strengths": {
+      "empathy": 0.34,
+      "relationship": 0.28,
+      "communication": 0.22
+    },
+    "enneagram": {
+      "2": 0.35,
+      "6": 0.22,
+      "9": 0.2
+    }
+  },
+  {
+    "id": "prof-257",
+    "title": "Dövmeci ve piercing uzmanı",
+    "category": "Kişisel bakım",
+    "futureOutlook": 5,
+    "holland": {
+      "R": 3,
+      "I": 1,
+      "A": 4,
+      "S": 2,
+      "E": 1,
+      "C": 1
+    },
+    "mbtiIdeal": {
+      "ei": -0.18,
+      "sn": -0.22,
+      "tf": -0.15,
+      "jp": -0.25
+    },
+    "values": {
+      "service": 0.34,
+      "community": 0.22,
+      "recognition": 0.2
+    },
+    "vark": {
+      "A": 3,
+      "K": 3,
+      "V": 2,
+      "R": 2
+    },
+    "strengths": {
+      "empathy": 0.34,
+      "relationship": 0.28,
+      "communication": 0.22
+    },
+    "enneagram": {
+      "2": 0.35,
+      "6": 0.22,
+      "9": 0.2
+    }
+  },
+  {
+    "id": "prof-258",
+    "title": "Terzi ve dikiş ustası",
+    "category": "Tekstil ve deri",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 4,
+      "I": 1,
+      "A": 3,
+      "S": 2,
+      "E": 0,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": -0.22,
+      "sn": -0.18,
+      "tf": -0.28,
+      "jp": 0.18
+    },
+    "values": {
+      "creativity": 0.28,
+      "autonomy": 0.26,
+      "achievement": 0.22
+    },
+    "vark": {
+      "K": 4,
+      "V": 3,
+      "R": 2,
+      "A": 2
+    },
+    "strengths": {
+      "creative": 0.3,
+      "execution": 0.3,
+      "focus": 0.22
+    },
+    "enneagram": {
+      "4": 0.22,
+      "5": 0.22,
+      "1": 0.24
+    }
+  },
+  {
+    "id": "prof-259",
+    "title": "Ayakkabı tamircisi ve tabakçı",
+    "category": "Tekstil ve deri",
+    "futureOutlook": 5,
+    "holland": {
+      "R": 5,
+      "I": 0,
+      "A": 2,
+      "S": 2,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": -0.38,
+      "tf": 0.42,
+      "jp": -0.38
+    },
+    "values": {
+      "creativity": 0.28,
+      "autonomy": 0.26,
+      "achievement": 0.22
+    },
+    "vark": {
+      "K": 4,
+      "V": 3,
+      "R": 2,
+      "A": 2
+    },
+    "strengths": {
+      "creative": 0.3,
+      "execution": 0.3,
+      "focus": 0.22
+    },
+    "enneagram": {
+      "4": 0.22,
+      "5": 0.22,
+      "1": 0.24
+    }
+  },
+  {
+    "id": "prof-260",
+    "title": "Deri işleme ve saraciye",
+    "category": "Tekstil ve deri",
+    "futureOutlook": 5,
+    "holland": {
+      "R": 4,
+      "I": 1,
+      "A": 3,
+      "S": 1,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.18,
+      "sn": -0.22,
+      "tf": -0.15,
+      "jp": -0.25
+    },
+    "values": {
+      "creativity": 0.28,
+      "autonomy": 0.26,
+      "achievement": 0.22
+    },
+    "vark": {
+      "K": 4,
+      "V": 3,
+      "R": 2,
+      "A": 2
+    },
+    "strengths": {
+      "creative": 0.3,
+      "execution": 0.3,
+      "focus": 0.22
+    },
+    "enneagram": {
+      "4": 0.22,
+      "5": 0.22,
+      "1": 0.24
+    }
+  },
+  {
+    "id": "prof-261",
+    "title": "Halı ve koltuk yıkama teknisyeni",
+    "category": "Teknik hizmet",
+    "futureOutlook": 5,
+    "holland": {
+      "R": 4,
+      "I": 0,
+      "A": 0,
+      "S": 2,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.38,
+      "sn": -0.32,
+      "tf": 0.32,
+      "jp": -0.28
+    },
+    "values": {
+      "service": 0.28,
+      "security": 0.22,
+      "community": 0.2
+    },
+    "vark": {
+      "K": 3,
+      "R": 2,
+      "V": 2,
+      "A": 3
+    },
+    "strengths": {
+      "communication": 0.28,
+      "execution": 0.26,
+      "adaptability": 0.22
+    },
+    "enneagram": {
+      "6": 0.28,
+      "9": 0.22,
+      "3": 0.2
+    }
+  },
+  {
+    "id": "prof-262",
+    "title": "Genel tesis bakım ve onarım görevlisi",
+    "category": "Teknik hizmet",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 4,
+      "I": 1,
+      "A": 0,
+      "S": 2,
+      "E": 0,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": -0.25,
+      "sn": -0.25,
+      "tf": 0.38,
+      "jp": 0.22
+    },
+    "values": {
+      "service": 0.28,
+      "security": 0.22,
+      "community": 0.2
+    },
+    "vark": {
+      "K": 3,
+      "R": 2,
+      "V": 2,
+      "A": 3
+    },
+    "strengths": {
+      "communication": 0.28,
+      "execution": 0.26,
+      "adaptability": 0.22
+    },
+    "enneagram": {
+      "6": 0.28,
+      "9": 0.22,
+      "3": 0.2
+    }
+  },
+  {
+    "id": "prof-263",
+    "title": "Çilingir ve anahtarcı",
+    "category": "Teknik hizmet",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 4,
+      "I": 2,
+      "A": 0,
+      "S": 2,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": -0.38,
+      "tf": 0.42,
+      "jp": -0.38
+    },
+    "values": {
+      "achievement": 0.26,
+      "growth": 0.22,
+      "security": 0.24,
+      "variety": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "V": 3,
+      "R": 2,
+      "A": 1
+    },
+    "strengths": {
+      "analytical": 0.36,
+      "execution": 0.28,
+      "focus": 0.22
+    },
+    "enneagram": {
+      "5": 0.28,
+      "6": 0.26,
+      "8": 0.18
+    }
+  },
+  {
+    "id": "prof-264",
+    "title": "Saat tamircisi",
+    "category": "Teknik hizmet",
+    "futureOutlook": 5,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 1,
+      "S": 1,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.22,
+      "sn": 0.32,
+      "tf": 0.28,
+      "jp": -0.18
+    },
+    "values": {
+      "achievement": 0.26,
+      "growth": 0.22,
+      "security": 0.24,
+      "variety": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "V": 3,
+      "R": 2,
+      "A": 1
+    },
+    "strengths": {
+      "analytical": 0.36,
+      "execution": 0.28,
+      "focus": 0.22
+    },
+    "enneagram": {
+      "5": 0.28,
+      "6": 0.26,
+      "8": 0.18
+    }
+  },
+  {
+    "id": "prof-265",
+    "title": "Cam işleme ve vitray ustası",
+    "category": "Teknik hizmet",
+    "futureOutlook": 5,
+    "holland": {
+      "R": 4,
+      "I": 1,
+      "A": 4,
+      "S": 0,
+      "E": 0,
+      "C": 1
+    },
+    "mbtiIdeal": {
+      "ei": -0.18,
+      "sn": -0.22,
+      "tf": -0.15,
+      "jp": -0.25
+    },
+    "values": {
+      "creativity": 0.28,
+      "autonomy": 0.26,
+      "achievement": 0.22
+    },
+    "vark": {
+      "K": 4,
+      "V": 3,
+      "R": 2,
+      "A": 2
+    },
+    "strengths": {
+      "creative": 0.3,
+      "execution": 0.3,
+      "focus": 0.22
+    },
+    "enneagram": {
+      "4": 0.22,
+      "5": 0.22,
+      "1": 0.24
+    }
+  },
+  {
+    "id": "prof-266",
+    "title": "Matbaa ve ofset baskı operatörü",
+    "category": "Teknik hizmet",
+    "futureOutlook": 5,
+    "holland": {
+      "R": 4,
+      "I": 1,
+      "A": 2,
+      "S": 0,
+      "E": 0,
+      "C": 4
+    },
+    "mbtiIdeal": {
+      "ei": -0.25,
+      "sn": -0.25,
+      "tf": 0.38,
+      "jp": 0.22
+    },
+    "values": {
+      "security": 0.28,
+      "achievement": 0.24,
+      "variety": 0.18
+    },
+    "vark": {
+      "K": 3,
+      "V": 3,
+      "R": 3,
+      "A": 1
+    },
+    "strengths": {
+      "execution": 0.34,
+      "discipline": 0.3,
+      "focus": 0.22
+    },
+    "enneagram": {
+      "6": 0.3,
+      "1": 0.24,
+      "3": 0.2
+    }
+  },
+  {
+    "id": "prof-267",
+    "title": "Endüstriyel boya ve yüzey hazırlık ustası",
+    "category": "Metal ve makine",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 5,
+      "I": 1,
+      "A": 1,
+      "S": 0,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.25,
+      "sn": -0.25,
+      "tf": 0.38,
+      "jp": 0.22
+    },
+    "values": {
+      "achievement": 0.3,
+      "security": 0.24,
+      "growth": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "V": 3,
+      "R": 2,
+      "A": 1
+    },
+    "strengths": {
+      "execution": 0.34,
+      "focus": 0.28,
+      "discipline": 0.24
+    },
+    "enneagram": {
+      "8": 0.24,
+      "1": 0.28,
+      "6": 0.22
+    }
+  },
+  {
+    "id": "prof-268",
+    "title": "Vinç operatörü",
+    "category": "Lojistik ve taşıma",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 4,
+      "I": 1,
+      "A": 0,
+      "S": 0,
+      "E": 0,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": 0.38,
+      "sn": -0.32,
+      "tf": 0.32,
+      "jp": -0.28
+    },
+    "values": {
+      "security": 0.28,
+      "achievement": 0.24,
+      "variety": 0.18
+    },
+    "vark": {
+      "K": 3,
+      "V": 3,
+      "R": 3,
+      "A": 1
+    },
+    "strengths": {
+      "execution": 0.34,
+      "discipline": 0.3,
+      "focus": 0.22
+    },
+    "enneagram": {
+      "6": 0.3,
+      "1": 0.24,
+      "3": 0.2
+    }
+  },
+  {
+    "id": "prof-269",
+    "title": "Forklift ve istif makinesi operatörü",
+    "category": "Lojistik ve taşıma",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 4,
+      "I": 0,
+      "A": 0,
+      "S": 0,
+      "E": 0,
+      "C": 4
+    },
+    "mbtiIdeal": {
+      "ei": 0.38,
+      "sn": -0.32,
+      "tf": 0.32,
+      "jp": -0.28
+    },
+    "values": {
+      "security": 0.28,
+      "achievement": 0.24,
+      "variety": 0.18
+    },
+    "vark": {
+      "K": 3,
+      "V": 3,
+      "R": 3,
+      "A": 1
+    },
+    "strengths": {
+      "execution": 0.34,
+      "discipline": 0.3,
+      "focus": 0.22
+    },
+    "enneagram": {
+      "6": 0.3,
+      "1": 0.24,
+      "3": 0.2
+    }
+  },
+  {
+    "id": "prof-270",
+    "title": "Depo ve ambar görevlisi (lojistik)",
+    "category": "Lojistik ve taşıma",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 3,
+      "I": 0,
+      "A": 0,
+      "S": 1,
+      "E": 0,
+      "C": 4
+    },
+    "mbtiIdeal": {
+      "ei": -0.25,
+      "sn": -0.25,
+      "tf": 0.38,
+      "jp": 0.22
+    },
+    "values": {
+      "security": 0.28,
+      "achievement": 0.24,
+      "variety": 0.18
+    },
+    "vark": {
+      "K": 3,
+      "V": 3,
+      "R": 3,
+      "A": 1
+    },
+    "strengths": {
+      "execution": 0.34,
+      "discipline": 0.3,
+      "focus": 0.22
+    },
+    "enneagram": {
+      "6": 0.3,
+      "1": 0.24,
+      "3": 0.2
+    }
+  },
+  {
+    "id": "prof-271",
+    "title": "Kurye ve moto kurye",
+    "category": "Lojistik ve taşıma",
+    "futureOutlook": 5,
+    "holland": {
+      "R": 3,
+      "I": 0,
+      "A": 0,
+      "S": 2,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.38,
+      "sn": -0.32,
+      "tf": 0.32,
+      "jp": -0.28
+    },
+    "values": {
+      "security": 0.28,
+      "achievement": 0.24,
+      "variety": 0.18
+    },
+    "vark": {
+      "K": 3,
+      "V": 3,
+      "R": 3,
+      "A": 1
+    },
+    "strengths": {
+      "execution": 0.34,
+      "discipline": 0.3,
+      "focus": 0.22
+    },
+    "enneagram": {
+      "6": 0.3,
+      "1": 0.24,
+      "3": 0.2
+    }
+  },
+  {
+    "id": "prof-272",
+    "title": "Güvenlik ve özel güvenlik görevlisi",
+    "category": "Hizmet",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 2,
+      "I": 1,
+      "A": 0,
+      "S": 2,
+      "E": 1,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": -0.25,
+      "sn": -0.25,
+      "tf": 0.38,
+      "jp": 0.22
+    },
+    "values": {
+      "service": 0.28,
+      "security": 0.22,
+      "community": 0.2
+    },
+    "vark": {
+      "K": 3,
+      "R": 2,
+      "V": 2,
+      "A": 3
+    },
+    "strengths": {
+      "communication": 0.28,
+      "execution": 0.26,
+      "adaptability": 0.22
+    },
+    "enneagram": {
+      "6": 0.28,
+      "9": 0.22,
+      "3": 0.2
+    }
+  },
+  {
+    "id": "prof-273",
+    "title": "Temizlik ve hijyen sorumlusu",
+    "category": "Hizmet",
+    "futureOutlook": 5,
+    "holland": {
+      "R": 3,
+      "I": 0,
+      "A": 0,
+      "S": 2,
+      "E": 0,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": -0.22,
+      "sn": -0.18,
+      "tf": -0.28,
+      "jp": 0.18
+    },
+    "values": {
+      "service": 0.28,
+      "security": 0.22,
+      "community": 0.2
+    },
+    "vark": {
+      "K": 3,
+      "R": 2,
+      "V": 2,
+      "A": 3
+    },
+    "strengths": {
+      "communication": 0.28,
+      "execution": 0.26,
+      "adaptability": 0.22
+    },
+    "enneagram": {
+      "6": 0.28,
+      "9": 0.22,
+      "3": 0.2
+    }
+  },
+  {
+    "id": "prof-274",
+    "title": "Çöp toplama ve geri dönüşüm operatörü",
+    "category": "Hizmet",
+    "futureOutlook": 4,
+    "holland": {
+      "R": 4,
+      "I": 0,
+      "A": 0,
+      "S": 0,
+      "E": 0,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": -0.25,
+      "sn": -0.25,
+      "tf": 0.38,
+      "jp": 0.22
+    },
+    "values": {
+      "security": 0.28,
+      "achievement": 0.24,
+      "variety": 0.18
+    },
+    "vark": {
+      "K": 3,
+      "V": 3,
+      "R": 3,
+      "A": 1
+    },
+    "strengths": {
+      "execution": 0.34,
+      "discipline": 0.3,
+      "focus": 0.22
+    },
+    "enneagram": {
+      "6": 0.3,
+      "1": 0.24,
+      "3": 0.2
+    }
+  },
+  {
+    "id": "prof-275",
+    "title": "Hastane sterilizasyon ve çamaşırhane teknisyeni",
+    "category": "Sağlık destek",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 4,
+      "I": 1,
+      "A": 0,
+      "S": 2,
+      "E": 0,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": -0.22,
+      "sn": -0.18,
+      "tf": -0.28,
+      "jp": 0.18
+    },
+    "values": {
+      "service": 0.28,
+      "security": 0.22,
+      "community": 0.2
+    },
+    "vark": {
+      "K": 3,
+      "R": 2,
+      "V": 2,
+      "A": 3
+    },
+    "strengths": {
+      "communication": 0.28,
+      "execution": 0.26,
+      "adaptability": 0.22
+    },
+    "enneagram": {
+      "6": 0.28,
+      "9": 0.22,
+      "3": 0.2
+    }
+  },
+  {
+    "id": "prof-276",
+    "title": "Ambulans şoförü ve acil yardım destek elemanı",
+    "category": "Sağlık destek",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 4,
+      "I": 1,
+      "A": 0,
+      "S": 3,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.38,
+      "sn": -0.32,
+      "tf": 0.32,
+      "jp": -0.28
+    },
+    "values": {
+      "service": 0.28,
+      "security": 0.22,
+      "community": 0.2
+    },
+    "vark": {
+      "K": 3,
+      "R": 2,
+      "V": 2,
+      "A": 3
+    },
+    "strengths": {
+      "communication": 0.28,
+      "execution": 0.26,
+      "adaptability": 0.22
+    },
+    "enneagram": {
+      "6": 0.28,
+      "9": 0.22,
+      "3": 0.2
+    }
+  },
+  {
+    "id": "prof-277",
+    "title": "Diş protez laboratuvarı teknisyeni",
+    "category": "Sağlık destek",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 2,
+      "S": 1,
+      "E": 0,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": -0.25,
+      "sn": -0.25,
+      "tf": 0.38,
+      "jp": 0.22
+    },
+    "values": {
+      "service": 0.34,
+      "community": 0.22,
+      "recognition": 0.2
+    },
+    "vark": {
+      "A": 3,
+      "K": 3,
+      "V": 2,
+      "R": 2
+    },
+    "strengths": {
+      "empathy": 0.34,
+      "relationship": 0.28,
+      "communication": 0.22
+    },
+    "enneagram": {
+      "2": 0.35,
+      "6": 0.22,
+      "9": 0.2
+    }
+  },
+  {
+    "id": "prof-278",
+    "title": "Optisyenlik teknisyeni",
+    "category": "Sağlık destek",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 3,
+      "I": 2,
+      "A": 1,
+      "S": 3,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.22,
+      "sn": -0.18,
+      "tf": -0.28,
+      "jp": 0.18
+    },
+    "values": {
+      "service": 0.34,
+      "community": 0.22,
+      "recognition": 0.2
+    },
+    "vark": {
+      "A": 3,
+      "K": 3,
+      "V": 2,
+      "R": 2
+    },
+    "strengths": {
+      "empathy": 0.34,
+      "relationship": 0.28,
+      "communication": 0.22
+    },
+    "enneagram": {
+      "2": 0.35,
+      "6": 0.22,
+      "9": 0.2
+    }
+  },
+  {
+    "id": "prof-279",
+    "title": "Fizyoterapi destek ve rehabilitasyon asistanı",
+    "category": "Sağlık destek",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 3,
+      "I": 2,
+      "A": 1,
+      "S": 4,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.32,
+      "sn": -0.12,
+      "tf": -0.22,
+      "jp": 0.12
+    },
+    "values": {
+      "service": 0.34,
+      "community": 0.22,
+      "recognition": 0.2
+    },
+    "vark": {
+      "A": 3,
+      "K": 3,
+      "V": 2,
+      "R": 2
+    },
+    "strengths": {
+      "empathy": 0.34,
+      "relationship": 0.28,
+      "communication": 0.22
+    },
+    "enneagram": {
+      "2": 0.35,
+      "6": 0.22,
+      "9": 0.2
+    }
+  },
+  {
+    "id": "prof-280",
+    "title": "Hayvan bakım ve pet kuaförü",
+    "category": "Tarım ve doğa",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 4,
+      "I": 1,
+      "A": 1,
+      "S": 3,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.18,
+      "sn": -0.22,
+      "tf": -0.15,
+      "jp": -0.25
+    },
+    "values": {
+      "service": 0.34,
+      "community": 0.22,
+      "recognition": 0.2
+    },
+    "vark": {
+      "A": 3,
+      "K": 3,
+      "V": 2,
+      "R": 2
+    },
+    "strengths": {
+      "empathy": 0.34,
+      "relationship": 0.28,
+      "communication": 0.22
+    },
+    "enneagram": {
+      "2": 0.35,
+      "6": 0.22,
+      "9": 0.2
+    }
+  },
+  {
+    "id": "prof-281",
+    "title": "Dalgıç ve su altı bakım teknisyeni",
+    "category": "Teknik hizmet",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 5,
+      "I": 2,
+      "A": 0,
+      "S": 0,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": -0.38,
+      "tf": 0.42,
+      "jp": -0.38
+    },
+    "values": {
+      "achievement": 0.26,
+      "growth": 0.22,
+      "security": 0.24,
+      "variety": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "V": 3,
+      "R": 2,
+      "A": 1
+    },
+    "strengths": {
+      "analytical": 0.36,
+      "execution": 0.28,
+      "focus": 0.22
+    },
+    "enneagram": {
+      "5": 0.28,
+      "6": 0.26,
+      "8": 0.18
+    }
+  },
+  {
+    "id": "prof-282",
+    "title": "Boyacı-badana ustası (iç-dış mekân)",
+    "category": "İnşaat ve yapı",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 4,
+      "I": 0,
+      "A": 2,
+      "S": 0,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.18,
+      "sn": -0.22,
+      "tf": -0.15,
+      "jp": -0.25
+    },
+    "values": {
+      "achievement": 0.28,
+      "security": 0.24,
+      "autonomy": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "V": 3,
+      "R": 2,
+      "A": 1
+    },
+    "strengths": {
+      "execution": 0.38,
+      "discipline": 0.26,
+      "adaptability": 0.2
+    },
+    "enneagram": {
+      "1": 0.28,
+      "6": 0.26,
+      "8": 0.2
+    }
+  },
+  {
+    "id": "prof-283",
+    "title": "Sıva ve dekoratif sıva ustası",
+    "category": "İnşaat ve yapı",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 4,
+      "I": 0,
+      "A": 3,
+      "S": 0,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.18,
+      "sn": -0.22,
+      "tf": -0.15,
+      "jp": -0.25
+    },
+    "values": {
+      "achievement": 0.28,
+      "security": 0.24,
+      "autonomy": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "V": 3,
+      "R": 2,
+      "A": 1
+    },
+    "strengths": {
+      "execution": 0.38,
+      "discipline": 0.26,
+      "adaptability": 0.2
+    },
+    "enneagram": {
+      "1": 0.28,
+      "6": 0.26,
+      "8": 0.2
+    }
+  },
+  {
+    "id": "prof-284",
+    "title": "Zemin kaplama (epoksi, endüstriyel) teknisyeni",
+    "category": "İnşaat ve yapı",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 4,
+      "I": 1,
+      "A": 1,
+      "S": 0,
+      "E": 0,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": -0.25,
+      "sn": -0.25,
+      "tf": 0.38,
+      "jp": 0.22
+    },
+    "values": {
+      "achievement": 0.28,
+      "security": 0.24,
+      "autonomy": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "V": 3,
+      "R": 2,
+      "A": 1
+    },
+    "strengths": {
+      "execution": 0.38,
+      "discipline": 0.26,
+      "adaptability": 0.2
+    },
+    "enneagram": {
+      "1": 0.28,
+      "6": 0.26,
+      "8": 0.2
+    }
+  },
+  {
+    "id": "prof-285",
+    "title": "Betonarme demir bağlama ustası",
+    "category": "İnşaat ve yapı",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 5,
+      "I": 1,
+      "A": 0,
+      "S": 0,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.35,
+      "sn": -0.22,
+      "tf": 0.35,
+      "jp": 0.28
+    },
+    "values": {
+      "achievement": 0.28,
+      "security": 0.24,
+      "autonomy": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "V": 3,
+      "R": 2,
+      "A": 1
+    },
+    "strengths": {
+      "execution": 0.38,
+      "discipline": 0.26,
+      "adaptability": 0.2
+    },
+    "enneagram": {
+      "1": 0.28,
+      "6": 0.26,
+      "8": 0.2
+    }
+  },
+  {
+    "id": "prof-286",
+    "title": "İskele kurulum ve yüksekte çalışma teknisyeni",
+    "category": "İnşaat ve yapı",
+    "futureOutlook": 5,
+    "holland": {
+      "R": 5,
+      "I": 0,
+      "A": 0,
+      "S": 0,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.38,
+      "sn": -0.32,
+      "tf": 0.32,
+      "jp": -0.28
+    },
+    "values": {
+      "achievement": 0.28,
+      "security": 0.24,
+      "autonomy": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "V": 3,
+      "R": 2,
+      "A": 1
+    },
+    "strengths": {
+      "execution": 0.38,
+      "discipline": 0.26,
+      "adaptability": 0.2
+    },
+    "enneagram": {
+      "1": 0.28,
+      "6": 0.26,
+      "8": 0.2
+    }
+  },
+  {
+    "id": "prof-287",
+    "title": "Yol yapım ve asfalt operatörü",
+    "category": "İnşaat ve yapı",
+    "futureOutlook": 5,
+    "holland": {
+      "R": 5,
+      "I": 1,
+      "A": 0,
+      "S": 0,
+      "E": 0,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": 0.38,
+      "sn": -0.32,
+      "tf": 0.32,
+      "jp": -0.28
+    },
+    "values": {
+      "achievement": 0.28,
+      "security": 0.24,
+      "autonomy": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "V": 3,
+      "R": 2,
+      "A": 1
+    },
+    "strengths": {
+      "execution": 0.38,
+      "discipline": 0.26,
+      "adaptability": 0.2
+    },
+    "enneagram": {
+      "1": 0.28,
+      "6": 0.26,
+      "8": 0.2
+    }
+  },
+  {
+    "id": "prof-288",
+    "title": "Tarımsal sulama sistemleri teknisyeni",
+    "category": "Tarım ve doğa",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 4,
+      "I": 2,
+      "A": 0,
+      "S": 1,
+      "E": 0,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": -0.25,
+      "sn": -0.25,
+      "tf": 0.38,
+      "jp": 0.22
+    },
+    "values": {
+      "purpose": 0.28,
+      "autonomy": 0.32,
+      "security": 0.22,
+      "balance": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "R": 3,
+      "V": 2,
+      "A": 1
+    },
+    "strengths": {
+      "execution": 0.34,
+      "discipline": 0.26,
+      "adaptability": 0.22
+    },
+    "enneagram": {
+      "6": 0.32,
+      "9": 0.22,
+      "1": 0.2
+    }
+  },
+  {
+    "id": "prof-289",
+    "title": "Peyzaj inşaat ve taş döşeme ustası",
+    "category": "Tarım ve doğa",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 5,
+      "I": 0,
+      "A": 2,
+      "S": 0,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.38,
+      "sn": -0.32,
+      "tf": 0.32,
+      "jp": -0.28
+    },
+    "values": {
+      "achievement": 0.28,
+      "security": 0.24,
+      "autonomy": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "V": 3,
+      "R": 2,
+      "A": 1
+    },
+    "strengths": {
+      "execution": 0.38,
+      "discipline": 0.26,
+      "adaptability": 0.2
+    },
+    "enneagram": {
+      "1": 0.28,
+      "6": 0.26,
+      "8": 0.2
+    }
+  },
+  {
+    "id": "prof-290",
+    "title": "Hırdavat ve el aletleri satış danışmanı (teknik)",
+    "category": "Teknik hizmet",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 3,
+      "I": 2,
+      "A": 0,
+      "S": 2,
+      "E": 3,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.38,
+      "sn": -0.32,
+      "tf": 0.32,
+      "jp": -0.28
+    },
+    "values": {
+      "service": 0.28,
+      "security": 0.22,
+      "community": 0.2
+    },
+    "vark": {
+      "K": 3,
+      "R": 2,
+      "V": 2,
+      "A": 3
+    },
+    "strengths": {
+      "communication": 0.28,
+      "execution": 0.26,
+      "adaptability": 0.22
+    },
+    "enneagram": {
+      "6": 0.28,
+      "9": 0.22,
+      "3": 0.2
+    }
+  },
+  {
+    "id": "prof-291",
+    "title": "Bakım-onarım formenliği (saha liderliği)",
+    "category": "Metal ve makine",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 4,
+      "I": 2,
+      "A": 0,
+      "S": 2,
+      "E": 2,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": 0.35,
+      "sn": -0.22,
+      "tf": 0.35,
+      "jp": 0.28
+    },
+    "values": {
+      "achievement": 0.26,
+      "growth": 0.22,
+      "security": 0.24,
+      "variety": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "V": 3,
+      "R": 2,
+      "A": 1
+    },
+    "strengths": {
+      "analytical": 0.36,
+      "execution": 0.28,
+      "focus": 0.22
+    },
+    "enneagram": {
+      "5": 0.28,
+      "6": 0.26,
+      "8": 0.18
+    }
+  },
+  {
+    "id": "prof-292",
+    "title": "Kalite kontrol ölçüm elemanı (imalat)",
+    "category": "Metal ve makine",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 0,
+      "S": 0,
+      "E": 0,
+      "C": 4
+    },
+    "mbtiIdeal": {
+      "ei": -0.25,
+      "sn": -0.25,
+      "tf": 0.38,
+      "jp": 0.22
+    },
+    "values": {
+      "achievement": 0.3,
+      "security": 0.24,
+      "growth": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "V": 3,
+      "R": 2,
+      "A": 1
+    },
+    "strengths": {
+      "execution": 0.34,
+      "focus": 0.28,
+      "discipline": 0.24
+    },
+    "enneagram": {
+      "8": 0.24,
+      "1": 0.28,
+      "6": 0.22
+    }
+  },
+  {
+    "id": "prof-293",
+    "title": "Lazer kesim ve plazma operatörü",
+    "category": "Metal ve makine",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 5,
+      "I": 2,
+      "A": 1,
+      "S": 0,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": -0.38,
+      "tf": 0.42,
+      "jp": -0.38
+    },
+    "values": {
+      "achievement": 0.3,
+      "security": 0.24,
+      "growth": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "V": 3,
+      "R": 2,
+      "A": 1
+    },
+    "strengths": {
+      "execution": 0.34,
+      "focus": 0.28,
+      "discipline": 0.24
+    },
+    "enneagram": {
+      "8": 0.24,
+      "1": 0.28,
+      "6": 0.22
+    }
+  },
+  {
+    "id": "prof-294",
+    "title": "Hırsız alarm ve kamera kurulum teknisyeni",
+    "category": "Elektrik ve enerji",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 4,
+      "I": 2,
+      "A": 0,
+      "S": 1,
+      "E": 0,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": -0.38,
+      "tf": 0.42,
+      "jp": -0.38
+    },
+    "values": {
+      "achievement": 0.26,
+      "growth": 0.24,
+      "security": 0.22
+    },
+    "vark": {
+      "K": 3,
+      "R": 3,
+      "V": 3,
+      "A": 1
+    },
+    "strengths": {
+      "analytical": 0.38,
+      "focus": 0.28,
+      "discipline": 0.22
+    },
+    "enneagram": {
+      "5": 0.3,
+      "1": 0.24,
+      "6": 0.22
+    }
+  },
+  {
+    "id": "prof-295",
+    "title": "Jeneratör bakım teknisyeni",
+    "category": "Elektrik ve enerji",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 4,
+      "I": 2,
+      "A": 0,
+      "S": 1,
+      "E": 0,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": -0.38,
+      "tf": 0.42,
+      "jp": -0.38
+    },
+    "values": {
+      "achievement": 0.26,
+      "growth": 0.24,
+      "security": 0.22
+    },
+    "vark": {
+      "K": 3,
+      "R": 3,
+      "V": 3,
+      "A": 1
+    },
+    "strengths": {
+      "analytical": 0.38,
+      "focus": 0.28,
+      "discipline": 0.22
+    },
+    "enneagram": {
+      "5": 0.3,
+      "1": 0.24,
+      "6": 0.22
+    }
+  },
+  {
+    "id": "prof-296",
+    "title": "Soğuk oda ve endüstriyel soğutma teknisyeni",
+    "category": "İnşaat ve yapı",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 4,
+      "I": 2,
+      "A": 0,
+      "S": 1,
+      "E": 0,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": -0.38,
+      "tf": 0.42,
+      "jp": -0.38
+    },
+    "values": {
+      "achievement": 0.28,
+      "security": 0.24,
+      "autonomy": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "V": 3,
+      "R": 2,
+      "A": 1
+    },
+    "strengths": {
+      "execution": 0.38,
+      "discipline": 0.26,
+      "adaptability": 0.2
+    },
+    "enneagram": {
+      "1": 0.28,
+      "6": 0.26,
+      "8": 0.2
+    }
+  },
+  {
+    "id": "prof-297",
+    "title": "Çikolata ve şekerleme üretim operatörü",
+    "category": "Gıda ve içecek",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 4,
+      "I": 1,
+      "A": 2,
+      "S": 0,
+      "E": 0,
+      "C": 4
+    },
+    "mbtiIdeal": {
+      "ei": -0.22,
+      "sn": -0.18,
+      "tf": -0.28,
+      "jp": 0.18
+    },
+    "values": {
+      "creativity": 0.3,
+      "variety": 0.24,
+      "achievement": 0.2,
+      "service": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "V": 2,
+      "A": 2,
+      "R": 2
+    },
+    "strengths": {
+      "execution": 0.32,
+      "creative": 0.26,
+      "discipline": 0.22
+    },
+    "enneagram": {
+      "2": 0.22,
+      "7": 0.24,
+      "1": 0.22
+    }
+  },
+  {
+    "id": "prof-298",
+    "title": "Et ve şarküteri işleme operatörü",
+    "category": "Gıda ve içecek",
+    "futureOutlook": 5,
+    "holland": {
+      "R": 4,
+      "I": 1,
+      "A": 0,
+      "S": 1,
+      "E": 0,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": -0.25,
+      "sn": -0.25,
+      "tf": 0.38,
+      "jp": 0.22
+    },
+    "values": {
+      "creativity": 0.3,
+      "variety": 0.24,
+      "achievement": 0.2,
+      "service": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "V": 2,
+      "A": 2,
+      "R": 2
+    },
+    "strengths": {
+      "execution": 0.32,
+      "creative": 0.26,
+      "discipline": 0.22
+    },
+    "enneagram": {
+      "2": 0.22,
+      "7": 0.24,
+      "1": 0.22
+    }
+  },
+  {
+    "id": "prof-299",
+    "title": "Otel ve catering mutfak şefi yardımcılığı",
+    "category": "Gıda ve içecek",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 3,
+      "I": 1,
+      "A": 2,
+      "S": 2,
+      "E": 2,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.32,
+      "sn": -0.12,
+      "tf": -0.22,
+      "jp": 0.12
+    },
+    "values": {
+      "creativity": 0.3,
+      "variety": 0.24,
+      "achievement": 0.2,
+      "service": 0.18
+    },
+    "vark": {
+      "K": 4,
+      "V": 2,
+      "A": 2,
+      "R": 2
+    },
+    "strengths": {
+      "execution": 0.32,
+      "creative": 0.26,
+      "discipline": 0.22
+    },
+    "enneagram": {
+      "2": 0.22,
+      "7": 0.24,
+      "1": 0.22
+    }
+  },
+  {
+    "id": "prof-300",
+    "title": "Tıbbi malzeme steril paketleme teknisyeni",
+    "category": "Sağlık destek",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 4,
+      "I": 2,
+      "A": 0,
+      "S": 2,
+      "E": 0,
+      "C": 4
+    },
+    "mbtiIdeal": {
+      "ei": -0.22,
+      "sn": -0.18,
+      "tf": -0.28,
+      "jp": 0.18
+    },
+    "values": {
+      "service": 0.28,
+      "security": 0.22,
+      "community": 0.2
+    },
+    "vark": {
+      "K": 3,
+      "R": 2,
+      "V": 2,
+      "A": 3
+    },
+    "strengths": {
+      "communication": 0.28,
+      "execution": 0.26,
+      "adaptability": 0.22
+    },
+    "enneagram": {
+      "6": 0.28,
+      "9": 0.22,
+      "3": 0.2
+    }
   }
 ]
