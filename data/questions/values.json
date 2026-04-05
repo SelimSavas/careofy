@@ -1,0 +1,622 @@
+[
+  {
+    "id": "v-1",
+    "text": "İş seçerken en yüksek önceliğiniz?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Ücret, statü ve kariyer basamakları",
+        "valueKey": "achievement"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "İşin topluma veya misyona katkısı",
+        "valueKey": "purpose"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Esnek çalışma ve kendi yöntemim",
+        "valueKey": "autonomy"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "İş güvencesi ve öngörülebilirlik",
+        "valueKey": "security"
+      }
+    ]
+  },
+  {
+    "id": "v-2",
+    "text": "Başarıyı nasıl tanımlarsınız?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Tanınmak ve ödüllendirilmek",
+        "valueKey": "recognition"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Sürekli yeni şeyler öğrenmek",
+        "valueKey": "growth"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Başkalarına somut fayda sağlamak",
+        "valueKey": "service"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "İş-yaşam dengesi ve huzur",
+        "valueKey": "balance"
+      }
+    ]
+  },
+  {
+    "id": "v-3",
+    "text": "Risk alma konusunda?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Büyük risk büyük kazanç",
+        "valueKey": "adventure"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Hesaplı ve veriye dayalı risk",
+        "valueKey": "achievement"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Mümkün olduğunca risksiz ilerlemek",
+        "valueKey": "security"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Yaratıcı ve alışılmadık denemeler",
+        "valueKey": "creativity"
+      }
+    ]
+  },
+  {
+    "id": "v-4",
+    "text": "İdeal çalışma ortamı?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Rekabetçi ve hızlı tempolu",
+        "valueKey": "achievement"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "İş birlikçi ve sıcak",
+        "valueKey": "community"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Sessiz ve bağımsız",
+        "valueKey": "autonomy"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Çeşitli görevler ve değişen günler",
+        "valueKey": "variety"
+      }
+    ]
+  },
+  {
+    "id": "v-5",
+    "text": "Motivasyonunuz düştüğünde?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Daha büyük hedef koyarım",
+        "valueKey": "achievement"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Neden yaptığımı hatırlarım",
+        "valueKey": "purpose"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "İnsanlarla konuşur, bağ kurarım",
+        "valueKey": "community"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Yeni ilham kaynağı ararım",
+        "valueKey": "creativity"
+      }
+    ]
+  },
+  {
+    "id": "v-6",
+    "text": "Liderden beklentiniz?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Net talimat ve adil kurallar",
+        "valueKey": "security"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Vizyon ve anlam",
+        "valueKey": "purpose"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Güven ve destek",
+        "valueKey": "service"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Özerklik tanınması",
+        "valueKey": "autonomy"
+      }
+    ]
+  },
+  {
+    "id": "v-7",
+    "text": "Para harcarken?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Deneyim ve seyahat",
+        "valueKey": "adventure"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Eğitim ve gelişim",
+        "valueKey": "growth"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Aile ve topluluk",
+        "valueKey": "community"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Tasarruf ve gelecek güvencesi",
+        "valueKey": "security"
+      }
+    ]
+  },
+  {
+    "id": "v-8",
+    "text": "Hayatta vazgeçilmeziniz?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Bağımsız karar almak",
+        "valueKey": "autonomy"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Yaratıcı üretmek",
+        "valueKey": "creativity"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Aidiyet ve bağlılık",
+        "valueKey": "community"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Başarı hissi ve takdir",
+        "valueKey": "recognition"
+      }
+    ]
+  },
+  {
+    "id": "v-9",
+    "text": "Değişime bakışınız?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Heyecan verici fırsat",
+        "valueKey": "adventure"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Öğrenme ve gelişim kapısı",
+        "valueKey": "growth"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Dikkatli ve kontrollü uyum",
+        "valueKey": "security"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Anlam ve yön sorgulaması",
+        "valueKey": "purpose"
+      }
+    ]
+  },
+  {
+    "id": "v-10",
+    "text": "10 yıl sonrası vizyon?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Sektörde tanınan isim olmak",
+        "valueKey": "recognition"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Dengeli ve sağlıklı yaşam",
+        "valueKey": "balance"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Toplumsal etki yaratmak",
+        "valueKey": "service"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Sürekli öğrenen biri olmak",
+        "valueKey": "growth"
+      }
+    ]
+  },
+  {
+    "id": "v-11",
+    "text": "Mesai saatleri tercihi?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Esnek ve sonuç odaklı",
+        "valueKey": "autonomy"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Net çizgi; iş bittiğinde kapıyı kapatmak",
+        "valueKey": "balance"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Yoğun dönemlerde fazla mesai kabul",
+        "valueKey": "achievement"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Güne göre değişen dinamik tempo",
+        "valueKey": "variety"
+      }
+    ]
+  },
+  {
+    "id": "v-12",
+    "text": "Terfi teklifi iki şehir arasında?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Kariyer fırsatı önde gelir",
+        "valueKey": "achievement"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Aile ve ilişkiler önce gelir",
+        "valueKey": "community"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Yaşam kalitesi ve güvenlik",
+        "valueKey": "security"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Yeni şehir macerası çekici",
+        "valueKey": "adventure"
+      }
+    ]
+  },
+  {
+    "id": "v-13",
+    "text": "Geri bildirim almak?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Doğrudan ve ölçülebilir olsun",
+        "valueKey": "achievement"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Yapıcı ve gelişim odaklı olsun",
+        "valueKey": "growth"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "İnsani ve saygılı olsun",
+        "valueKey": "service"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Özgün ve dürüst olsun",
+        "valueKey": "creativity"
+      }
+    ]
+  },
+  {
+    "id": "v-14",
+    "text": "İş arkadaşlarıyla ilişki?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Profesyonel mesafe",
+        "valueKey": "autonomy"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Yakın dostluklar",
+        "valueKey": "community"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "İş birliği ve yardımlaşma",
+        "valueKey": "service"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Çeşitli tiplerle tanışmak",
+        "valueKey": "variety"
+      }
+    ]
+  },
+  {
+    "id": "v-15",
+    "text": "Hayır demek?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Kariyer hedefime tersse kolayca derim",
+        "valueKey": "achievement"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "İnsanları kırmaktan çekinirim",
+        "valueKey": "service"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Önceliklerime göre seçerim",
+        "valueKey": "autonomy"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Rutin bozulursa zorlanırım",
+        "valueKey": "security"
+      }
+    ]
+  },
+  {
+    "id": "v-16",
+    "text": "Öğrenme biçiminiz?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Sertifika ve unvan kazanmak",
+        "valueKey": "recognition"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Merak ettiğim her şey",
+        "valueKey": "adventure"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Derin uzmanlık",
+        "valueKey": "growth"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Farklı alanlara dokunmak",
+        "valueKey": "variety"
+      }
+    ]
+  },
+  {
+    "id": "v-17",
+    "text": "Başarısızlık?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Bir sonraki denemede daha iyisini yaparım",
+        "valueKey": "achievement"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Anlamını ve dersini ararım",
+        "valueKey": "purpose"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Destek alır, paylaşırım",
+        "valueKey": "community"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Kendime zaman tanırım",
+        "valueKey": "balance"
+      }
+    ]
+  },
+  {
+    "id": "v-18",
+    "text": "Kurallar ve yenilik?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Kurallar güven verir",
+        "valueKey": "security"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Kuralları yaratıcı esnetmek gerekir",
+        "valueKey": "creativity"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Kurallar adil olmalı",
+        "valueKey": "service"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Kurallar verimliliği artırmalı",
+        "valueKey": "achievement"
+      }
+    ]
+  },
+  {
+    "id": "v-19",
+    "text": "İdeal tatil?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Planlı tur ve rezervasyonlar",
+        "valueKey": "security"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Macera ve doğa",
+        "valueKey": "adventure"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Yakınlarla birlikte",
+        "valueKey": "community"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Yalnız kitap ve sessizlik",
+        "valueKey": "balance"
+      }
+    ]
+  },
+  {
+    "id": "v-20",
+    "text": "Hayatınızın anlamı sorusu?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Potansiyelimi gerçekleştirmek",
+        "valueKey": "achievement"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Başkalarına fayda sağlamak",
+        "valueKey": "service"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Özgür ve otantik olmak",
+        "valueKey": "autonomy"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Denge ve iç huzur",
+        "valueKey": "balance"
+      }
+    ]
+  }
+]

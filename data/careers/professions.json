@@ -1,0 +1,8189 @@
+[
+  {
+    "id": "prof-001",
+    "title": "Yazılım Geliştirici",
+    "category": "Dijital",
+    "futureOutlook": 9,
+    "holland": {
+      "R": 2,
+      "I": 4,
+      "A": 1,
+      "S": 0,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.15,
+      "sn": 0.4,
+      "tf": 0.5,
+      "jp": -0.2
+    },
+    "values": {
+      "growth": 0.35,
+      "autonomy": 0.3,
+      "achievement": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 3,
+      "K": 2
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "learning": 0.25,
+      "focus": 0.25
+    },
+    "enneagram": {
+      "5": 0.45,
+      "1": 0.15,
+      "6": 0.12
+    }
+  },
+  {
+    "id": "prof-002",
+    "title": "Backend Geliştirici",
+    "category": "Dijital",
+    "futureOutlook": 9,
+    "holland": {
+      "R": 2,
+      "I": 4,
+      "A": 1,
+      "S": 0,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.15,
+      "sn": 0.4,
+      "tf": 0.5,
+      "jp": -0.2
+    },
+    "values": {
+      "growth": 0.35,
+      "autonomy": 0.3,
+      "achievement": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 3,
+      "K": 2
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "learning": 0.25,
+      "focus": 0.25
+    },
+    "enneagram": {
+      "5": 0.45,
+      "1": 0.15,
+      "6": 0.12
+    }
+  },
+  {
+    "id": "prof-003",
+    "title": "Frontend Geliştirici",
+    "category": "Dijital",
+    "futureOutlook": 9,
+    "holland": {
+      "R": 1,
+      "I": 2,
+      "A": 4,
+      "S": 1,
+      "E": 1,
+      "C": 1
+    },
+    "mbtiIdeal": {
+      "ei": 0.1,
+      "sn": 0.35,
+      "tf": 0.0,
+      "jp": 0.25
+    },
+    "values": {
+      "creativity": 0.35,
+      "autonomy": 0.25,
+      "variety": 0.2
+    },
+    "vark": {
+      "V": 4,
+      "A": 1,
+      "R": 1,
+      "K": 2
+    },
+    "strengths": {
+      "creative": 0.35,
+      "communication": 0.2,
+      "learning": 0.2
+    },
+    "enneagram": {
+      "4": 0.35,
+      "7": 0.25,
+      "3": 0.15
+    }
+  },
+  {
+    "id": "prof-004",
+    "title": "Full Stack Geliştirici",
+    "category": "Dijital",
+    "futureOutlook": 9,
+    "holland": {
+      "R": 2,
+      "I": 4,
+      "A": 1,
+      "S": 0,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.15,
+      "sn": 0.4,
+      "tf": 0.5,
+      "jp": -0.2
+    },
+    "values": {
+      "growth": 0.35,
+      "autonomy": 0.3,
+      "achievement": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 3,
+      "K": 2
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "learning": 0.25,
+      "focus": 0.25
+    },
+    "enneagram": {
+      "5": 0.45,
+      "1": 0.15,
+      "6": 0.12
+    }
+  },
+  {
+    "id": "prof-005",
+    "title": "Mobil Uygulama Geliştirici",
+    "category": "Dijital",
+    "futureOutlook": 9,
+    "holland": {
+      "R": 2,
+      "I": 4,
+      "A": 1,
+      "S": 0,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.15,
+      "sn": 0.4,
+      "tf": 0.5,
+      "jp": -0.2
+    },
+    "values": {
+      "growth": 0.35,
+      "autonomy": 0.3,
+      "achievement": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 3,
+      "K": 2
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "learning": 0.25,
+      "focus": 0.25
+    },
+    "enneagram": {
+      "5": 0.45,
+      "1": 0.15,
+      "6": 0.12
+    }
+  },
+  {
+    "id": "prof-006",
+    "title": "DevOps Mühendisi",
+    "category": "Dijital",
+    "futureOutlook": 9,
+    "holland": {
+      "R": 2,
+      "I": 4,
+      "A": 1,
+      "S": 0,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.15,
+      "sn": 0.4,
+      "tf": 0.5,
+      "jp": -0.2
+    },
+    "values": {
+      "growth": 0.35,
+      "autonomy": 0.3,
+      "achievement": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 3,
+      "K": 2
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "learning": 0.25,
+      "focus": 0.25
+    },
+    "enneagram": {
+      "5": 0.45,
+      "1": 0.15,
+      "6": 0.12
+    }
+  },
+  {
+    "id": "prof-007",
+    "title": "Bulut Mimarı",
+    "category": "Dijital",
+    "futureOutlook": 9,
+    "holland": {
+      "R": 2,
+      "I": 4,
+      "A": 1,
+      "S": 0,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.15,
+      "sn": 0.4,
+      "tf": 0.5,
+      "jp": -0.2
+    },
+    "values": {
+      "growth": 0.35,
+      "autonomy": 0.3,
+      "achievement": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 3,
+      "K": 2
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "learning": 0.25,
+      "focus": 0.25
+    },
+    "enneagram": {
+      "5": 0.45,
+      "1": 0.15,
+      "6": 0.12
+    }
+  },
+  {
+    "id": "prof-008",
+    "title": "Siber Güvenlik Uzmanı",
+    "category": "Dijital",
+    "futureOutlook": 9,
+    "holland": {
+      "R": 2,
+      "I": 4,
+      "A": 1,
+      "S": 0,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.15,
+      "sn": 0.4,
+      "tf": 0.5,
+      "jp": -0.2
+    },
+    "values": {
+      "growth": 0.35,
+      "autonomy": 0.3,
+      "achievement": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 3,
+      "K": 2
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "learning": 0.25,
+      "focus": 0.25
+    },
+    "enneagram": {
+      "5": 0.45,
+      "1": 0.15,
+      "6": 0.12
+    }
+  },
+  {
+    "id": "prof-009",
+    "title": "Veri Bilimci",
+    "category": "Dijital",
+    "futureOutlook": 9,
+    "holland": {
+      "R": 2,
+      "I": 4,
+      "A": 1,
+      "S": 0,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.15,
+      "sn": 0.4,
+      "tf": 0.5,
+      "jp": -0.2
+    },
+    "values": {
+      "growth": 0.35,
+      "autonomy": 0.3,
+      "achievement": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 3,
+      "K": 2
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "learning": 0.25,
+      "focus": 0.25
+    },
+    "enneagram": {
+      "5": 0.45,
+      "1": 0.15,
+      "6": 0.12
+    }
+  },
+  {
+    "id": "prof-010",
+    "title": "Makine Öğrenmesi Mühendisi",
+    "category": "Dijital",
+    "futureOutlook": 9,
+    "holland": {
+      "R": 2,
+      "I": 4,
+      "A": 1,
+      "S": 0,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.15,
+      "sn": 0.4,
+      "tf": 0.5,
+      "jp": -0.2
+    },
+    "values": {
+      "growth": 0.35,
+      "autonomy": 0.3,
+      "achievement": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 3,
+      "K": 2
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "learning": 0.25,
+      "focus": 0.25
+    },
+    "enneagram": {
+      "5": 0.45,
+      "1": 0.15,
+      "6": 0.12
+    }
+  },
+  {
+    "id": "prof-011",
+    "title": "Veri Mühendisi",
+    "category": "Dijital",
+    "futureOutlook": 9,
+    "holland": {
+      "R": 2,
+      "I": 4,
+      "A": 1,
+      "S": 0,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.15,
+      "sn": 0.4,
+      "tf": 0.5,
+      "jp": -0.2
+    },
+    "values": {
+      "growth": 0.35,
+      "autonomy": 0.3,
+      "achievement": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 3,
+      "K": 2
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "learning": 0.25,
+      "focus": 0.25
+    },
+    "enneagram": {
+      "5": 0.45,
+      "1": 0.15,
+      "6": 0.12
+    }
+  },
+  {
+    "id": "prof-012",
+    "title": "BI Analisti",
+    "category": "Dijital",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 2,
+      "I": 4,
+      "A": 1,
+      "S": 0,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.15,
+      "sn": 0.4,
+      "tf": 0.5,
+      "jp": -0.2
+    },
+    "values": {
+      "growth": 0.35,
+      "autonomy": 0.3,
+      "achievement": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 3,
+      "K": 2
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "learning": 0.25,
+      "focus": 0.25
+    },
+    "enneagram": {
+      "5": 0.45,
+      "1": 0.15,
+      "6": 0.12
+    }
+  },
+  {
+    "id": "prof-013",
+    "title": "Ürün Yöneticisi (Yazılım)",
+    "category": "Dijital",
+    "futureOutlook": 9,
+    "holland": {
+      "R": 0,
+      "I": 1,
+      "A": 1,
+      "S": 2,
+      "E": 4,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.55,
+      "sn": 0.2,
+      "tf": 0.15,
+      "jp": 0.2
+    },
+    "values": {
+      "achievement": 0.35,
+      "recognition": 0.25,
+      "adventure": 0.15
+    },
+    "vark": {
+      "V": 2,
+      "A": 4,
+      "R": 1,
+      "K": 1
+    },
+    "strengths": {
+      "communication": 0.35,
+      "leadership": 0.25,
+      "adaptability": 0.2
+    },
+    "enneagram": {
+      "3": 0.4,
+      "8": 0.25,
+      "7": 0.15
+    }
+  },
+  {
+    "id": "prof-014",
+    "title": "Scrum Master",
+    "category": "Dijital",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 0,
+      "I": 2,
+      "A": 1,
+      "S": 4,
+      "E": 2,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.25,
+      "sn": 0.1,
+      "tf": -0.2,
+      "jp": 0.05
+    },
+    "values": {
+      "service": 0.25,
+      "community": 0.25,
+      "growth": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 3,
+      "R": 2,
+      "K": 2
+    },
+    "strengths": {
+      "empathy": 0.35,
+      "communication": 0.3,
+      "relationship": 0.25
+    },
+    "enneagram": {
+      "2": 0.35,
+      "9": 0.25,
+      "6": 0.15
+    }
+  },
+  {
+    "id": "prof-015",
+    "title": "QA Test Mühendisi",
+    "category": "Dijital",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 2,
+      "I": 4,
+      "A": 1,
+      "S": 0,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.15,
+      "sn": 0.4,
+      "tf": 0.5,
+      "jp": -0.2
+    },
+    "values": {
+      "growth": 0.35,
+      "autonomy": 0.3,
+      "achievement": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 3,
+      "K": 2
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "learning": 0.25,
+      "focus": 0.25
+    },
+    "enneagram": {
+      "5": 0.45,
+      "1": 0.15,
+      "6": 0.12
+    }
+  },
+  {
+    "id": "prof-016",
+    "title": "Oyun Geliştirici",
+    "category": "Dijital",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 1,
+      "I": 2,
+      "A": 4,
+      "S": 1,
+      "E": 1,
+      "C": 1
+    },
+    "mbtiIdeal": {
+      "ei": 0.1,
+      "sn": 0.35,
+      "tf": 0.0,
+      "jp": 0.25
+    },
+    "values": {
+      "creativity": 0.35,
+      "autonomy": 0.25,
+      "variety": 0.2
+    },
+    "vark": {
+      "V": 4,
+      "A": 1,
+      "R": 1,
+      "K": 2
+    },
+    "strengths": {
+      "creative": 0.35,
+      "communication": 0.2,
+      "learning": 0.2
+    },
+    "enneagram": {
+      "4": 0.35,
+      "7": 0.25,
+      "3": 0.15
+    }
+  },
+  {
+    "id": "prof-017",
+    "title": "XR/AR Geliştirici",
+    "category": "Dijital",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 1,
+      "I": 2,
+      "A": 4,
+      "S": 1,
+      "E": 1,
+      "C": 1
+    },
+    "mbtiIdeal": {
+      "ei": 0.1,
+      "sn": 0.35,
+      "tf": 0.0,
+      "jp": 0.25
+    },
+    "values": {
+      "creativity": 0.35,
+      "autonomy": 0.25,
+      "variety": 0.2
+    },
+    "vark": {
+      "V": 4,
+      "A": 1,
+      "R": 1,
+      "K": 2
+    },
+    "strengths": {
+      "creative": 0.35,
+      "communication": 0.2,
+      "learning": 0.2
+    },
+    "enneagram": {
+      "4": 0.35,
+      "7": 0.25,
+      "3": 0.15
+    }
+  },
+  {
+    "id": "prof-018",
+    "title": "Blockchain Geliştirici",
+    "category": "Dijital",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 2,
+      "I": 4,
+      "A": 1,
+      "S": 0,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.15,
+      "sn": 0.4,
+      "tf": 0.5,
+      "jp": -0.2
+    },
+    "values": {
+      "growth": 0.35,
+      "autonomy": 0.3,
+      "achievement": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 3,
+      "K": 2
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "learning": 0.25,
+      "focus": 0.25
+    },
+    "enneagram": {
+      "5": 0.45,
+      "1": 0.15,
+      "6": 0.12
+    }
+  },
+  {
+    "id": "prof-019",
+    "title": "ERP Uzmanı",
+    "category": "Dijital",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 0,
+      "I": 3,
+      "A": 0,
+      "S": 1,
+      "E": 2,
+      "C": 4
+    },
+    "mbtiIdeal": {
+      "ei": -0.05,
+      "sn": -0.1,
+      "tf": 0.45,
+      "jp": -0.45
+    },
+    "values": {
+      "security": 0.35,
+      "achievement": 0.3,
+      "growth": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 4,
+      "K": 1
+    },
+    "strengths": {
+      "analytical": 0.4,
+      "discipline": 0.3,
+      "focus": 0.15
+    },
+    "enneagram": {
+      "1": 0.3,
+      "6": 0.25,
+      "5": 0.2
+    }
+  },
+  {
+    "id": "prof-020",
+    "title": "Sistem Yöneticisi",
+    "category": "Dijital",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 2,
+      "I": 4,
+      "A": 1,
+      "S": 0,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.15,
+      "sn": 0.4,
+      "tf": 0.5,
+      "jp": -0.2
+    },
+    "values": {
+      "growth": 0.35,
+      "autonomy": 0.3,
+      "achievement": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 3,
+      "K": 2
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "learning": 0.25,
+      "focus": 0.25
+    },
+    "enneagram": {
+      "5": 0.45,
+      "1": 0.15,
+      "6": 0.12
+    }
+  },
+  {
+    "id": "prof-021",
+    "title": "Ağ Mühendisi",
+    "category": "Dijital",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 1,
+      "S": 0,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": 0.15,
+      "tf": 0.45,
+      "jp": -0.25
+    },
+    "values": {
+      "achievement": 0.3,
+      "growth": 0.25,
+      "security": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 3,
+      "K": 3
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "execution": 0.3,
+      "discipline": 0.2
+    },
+    "enneagram": {
+      "1": 0.25,
+      "5": 0.3,
+      "6": 0.2
+    }
+  },
+  {
+    "id": "prof-022",
+    "title": "Teknik Destek Uzmanı",
+    "category": "Dijital",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 1,
+      "I": 0,
+      "A": 1,
+      "S": 3,
+      "E": 3,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.35,
+      "sn": -0.1,
+      "tf": -0.1,
+      "jp": 0.15
+    },
+    "values": {
+      "community": 0.25,
+      "variety": 0.2,
+      "balance": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 3,
+      "R": 1,
+      "K": 3
+    },
+    "strengths": {
+      "communication": 0.3,
+      "adaptability": 0.3,
+      "relationship": 0.25
+    },
+    "enneagram": {
+      "2": 0.3,
+      "7": 0.25,
+      "9": 0.2
+    }
+  },
+  {
+    "id": "prof-023",
+    "title": "Bilgisayar Mühendisi",
+    "category": "Mühendislik",
+    "futureOutlook": 9,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 1,
+      "S": 0,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": 0.15,
+      "tf": 0.45,
+      "jp": -0.25
+    },
+    "values": {
+      "achievement": 0.3,
+      "growth": 0.25,
+      "security": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 3,
+      "K": 3
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "execution": 0.3,
+      "discipline": 0.2
+    },
+    "enneagram": {
+      "1": 0.25,
+      "5": 0.3,
+      "6": 0.2
+    }
+  },
+  {
+    "id": "prof-024",
+    "title": "Elektrik-Elektronik Mühendisi",
+    "category": "Mühendislik",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 1,
+      "S": 0,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": 0.15,
+      "tf": 0.45,
+      "jp": -0.25
+    },
+    "values": {
+      "achievement": 0.3,
+      "growth": 0.25,
+      "security": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 3,
+      "K": 3
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "execution": 0.3,
+      "discipline": 0.2
+    },
+    "enneagram": {
+      "1": 0.25,
+      "5": 0.3,
+      "6": 0.2
+    }
+  },
+  {
+    "id": "prof-025",
+    "title": "Endüstri Mühendisi",
+    "category": "Mühendislik",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 1,
+      "S": 0,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": 0.15,
+      "tf": 0.45,
+      "jp": -0.25
+    },
+    "values": {
+      "achievement": 0.3,
+      "growth": 0.25,
+      "security": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 3,
+      "K": 3
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "execution": 0.3,
+      "discipline": 0.2
+    },
+    "enneagram": {
+      "1": 0.25,
+      "5": 0.3,
+      "6": 0.2
+    }
+  },
+  {
+    "id": "prof-026",
+    "title": "Makine Mühendisi",
+    "category": "Mühendislik",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 1,
+      "S": 0,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": 0.15,
+      "tf": 0.45,
+      "jp": -0.25
+    },
+    "values": {
+      "achievement": 0.3,
+      "growth": 0.25,
+      "security": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 3,
+      "K": 3
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "execution": 0.3,
+      "discipline": 0.2
+    },
+    "enneagram": {
+      "1": 0.25,
+      "5": 0.3,
+      "6": 0.2
+    }
+  },
+  {
+    "id": "prof-027",
+    "title": "İnşaat Mühendisi",
+    "category": "Mühendislik",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 1,
+      "S": 0,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": 0.15,
+      "tf": 0.45,
+      "jp": -0.25
+    },
+    "values": {
+      "achievement": 0.3,
+      "growth": 0.25,
+      "security": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 3,
+      "K": 3
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "execution": 0.3,
+      "discipline": 0.2
+    },
+    "enneagram": {
+      "1": 0.25,
+      "5": 0.3,
+      "6": 0.2
+    }
+  },
+  {
+    "id": "prof-028",
+    "title": "Kimya Mühendisi",
+    "category": "Mühendislik",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 1,
+      "S": 0,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": 0.15,
+      "tf": 0.45,
+      "jp": -0.25
+    },
+    "values": {
+      "achievement": 0.3,
+      "growth": 0.25,
+      "security": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 3,
+      "K": 3
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "execution": 0.3,
+      "discipline": 0.2
+    },
+    "enneagram": {
+      "1": 0.25,
+      "5": 0.3,
+      "6": 0.2
+    }
+  },
+  {
+    "id": "prof-029",
+    "title": "Metalurji Mühendisi",
+    "category": "Mühendislik",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 1,
+      "S": 0,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": 0.15,
+      "tf": 0.45,
+      "jp": -0.25
+    },
+    "values": {
+      "achievement": 0.3,
+      "growth": 0.25,
+      "security": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 3,
+      "K": 3
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "execution": 0.3,
+      "discipline": 0.2
+    },
+    "enneagram": {
+      "1": 0.25,
+      "5": 0.3,
+      "6": 0.2
+    }
+  },
+  {
+    "id": "prof-030",
+    "title": "Gıda Mühendisi",
+    "category": "Mühendislik",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 1,
+      "S": 0,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": 0.15,
+      "tf": 0.45,
+      "jp": -0.25
+    },
+    "values": {
+      "achievement": 0.3,
+      "growth": 0.25,
+      "security": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 3,
+      "K": 3
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "execution": 0.3,
+      "discipline": 0.2
+    },
+    "enneagram": {
+      "1": 0.25,
+      "5": 0.3,
+      "6": 0.2
+    }
+  },
+  {
+    "id": "prof-031",
+    "title": "Tekstil Mühendisi",
+    "category": "Mühendislik",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 1,
+      "S": 0,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": 0.15,
+      "tf": 0.45,
+      "jp": -0.25
+    },
+    "values": {
+      "achievement": 0.3,
+      "growth": 0.25,
+      "security": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 3,
+      "K": 3
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "execution": 0.3,
+      "discipline": 0.2
+    },
+    "enneagram": {
+      "1": 0.25,
+      "5": 0.3,
+      "6": 0.2
+    }
+  },
+  {
+    "id": "prof-032",
+    "title": "Çevre Mühendisi",
+    "category": "Mühendislik",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 0,
+      "S": 1,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.25,
+      "sn": 0.0,
+      "tf": 0.2,
+      "jp": -0.15
+    },
+    "values": {
+      "purpose": 0.3,
+      "balance": 0.2,
+      "community": 0.15
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 3,
+      "K": 4
+    },
+    "strengths": {
+      "analytical": 0.25,
+      "execution": 0.25,
+      "learning": 0.2
+    },
+    "enneagram": {
+      "9": 0.25,
+      "5": 0.2,
+      "1": 0.15
+    }
+  },
+  {
+    "id": "prof-033",
+    "title": "Jeoloji Mühendisi",
+    "category": "Mühendislik",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 2,
+      "I": 5,
+      "A": 1,
+      "S": 0,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.35,
+      "sn": 0.35,
+      "tf": 0.35,
+      "jp": -0.1
+    },
+    "values": {
+      "growth": 0.35,
+      "purpose": 0.25,
+      "autonomy": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 4,
+      "K": 2
+    },
+    "strengths": {
+      "analytical": 0.45,
+      "learning": 0.3,
+      "focus": 0.15
+    },
+    "enneagram": {
+      "5": 0.5,
+      "4": 0.15,
+      "1": 0.12
+    }
+  },
+  {
+    "id": "prof-034",
+    "title": "Petrol ve Doğalgaz Mühendisi",
+    "category": "Mühendislik",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 1,
+      "S": 0,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": 0.15,
+      "tf": 0.45,
+      "jp": -0.25
+    },
+    "values": {
+      "achievement": 0.3,
+      "growth": 0.25,
+      "security": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 3,
+      "K": 3
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "execution": 0.3,
+      "discipline": 0.2
+    },
+    "enneagram": {
+      "1": 0.25,
+      "5": 0.3,
+      "6": 0.2
+    }
+  },
+  {
+    "id": "prof-035",
+    "title": "Harita Mühendisi",
+    "category": "Mühendislik",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 1,
+      "S": 0,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": 0.15,
+      "tf": 0.45,
+      "jp": -0.25
+    },
+    "values": {
+      "achievement": 0.3,
+      "growth": 0.25,
+      "security": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 3,
+      "K": 3
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "execution": 0.3,
+      "discipline": 0.2
+    },
+    "enneagram": {
+      "1": 0.25,
+      "5": 0.3,
+      "6": 0.2
+    }
+  },
+  {
+    "id": "prof-036",
+    "title": "Uçak Mühendisi",
+    "category": "Mühendislik",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 1,
+      "S": 0,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": 0.15,
+      "tf": 0.45,
+      "jp": -0.25
+    },
+    "values": {
+      "achievement": 0.3,
+      "growth": 0.25,
+      "security": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 3,
+      "K": 3
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "execution": 0.3,
+      "discipline": 0.2
+    },
+    "enneagram": {
+      "1": 0.25,
+      "5": 0.3,
+      "6": 0.2
+    }
+  },
+  {
+    "id": "prof-037",
+    "title": "Uzay Mühendisi",
+    "category": "Mühendislik",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 1,
+      "S": 0,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": 0.15,
+      "tf": 0.45,
+      "jp": -0.25
+    },
+    "values": {
+      "achievement": 0.3,
+      "growth": 0.25,
+      "security": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 3,
+      "K": 3
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "execution": 0.3,
+      "discipline": 0.2
+    },
+    "enneagram": {
+      "1": 0.25,
+      "5": 0.3,
+      "6": 0.2
+    }
+  },
+  {
+    "id": "prof-038",
+    "title": "Otomotiv Mühendisi",
+    "category": "Mühendislik",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 1,
+      "S": 0,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": 0.15,
+      "tf": 0.45,
+      "jp": -0.25
+    },
+    "values": {
+      "achievement": 0.3,
+      "growth": 0.25,
+      "security": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 3,
+      "K": 3
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "execution": 0.3,
+      "discipline": 0.2
+    },
+    "enneagram": {
+      "1": 0.25,
+      "5": 0.3,
+      "6": 0.2
+    }
+  },
+  {
+    "id": "prof-039",
+    "title": "Biyomedikal Mühendisi",
+    "category": "Mühendislik",
+    "futureOutlook": 9,
+    "holland": {
+      "R": 2,
+      "I": 3,
+      "A": 0,
+      "S": 4,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.1,
+      "sn": 0.1,
+      "tf": 0.15,
+      "jp": -0.35
+    },
+    "values": {
+      "service": 0.4,
+      "security": 0.2,
+      "purpose": 0.25
+    },
+    "vark": {
+      "V": 2,
+      "A": 2,
+      "R": 3,
+      "K": 3
+    },
+    "strengths": {
+      "empathy": 0.35,
+      "discipline": 0.25,
+      "analytical": 0.2
+    },
+    "enneagram": {
+      "2": 0.35,
+      "6": 0.25,
+      "1": 0.15
+    }
+  },
+  {
+    "id": "prof-040",
+    "title": "Enerji Sistemleri Mühendisi",
+    "category": "Mühendislik",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 1,
+      "S": 0,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": 0.15,
+      "tf": 0.45,
+      "jp": -0.25
+    },
+    "values": {
+      "achievement": 0.3,
+      "growth": 0.25,
+      "security": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 3,
+      "K": 3
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "execution": 0.3,
+      "discipline": 0.2
+    },
+    "enneagram": {
+      "1": 0.25,
+      "5": 0.3,
+      "6": 0.2
+    }
+  },
+  {
+    "id": "prof-041",
+    "title": "Yapı Mühendisi",
+    "category": "Mühendislik",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 1,
+      "S": 0,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": 0.15,
+      "tf": 0.45,
+      "jp": -0.25
+    },
+    "values": {
+      "achievement": 0.3,
+      "growth": 0.25,
+      "security": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 3,
+      "K": 3
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "execution": 0.3,
+      "discipline": 0.2
+    },
+    "enneagram": {
+      "1": 0.25,
+      "5": 0.3,
+      "6": 0.2
+    }
+  },
+  {
+    "id": "prof-042",
+    "title": "Geoteknik Mühendisi",
+    "category": "Mühendislik",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 1,
+      "S": 0,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": 0.15,
+      "tf": 0.45,
+      "jp": -0.25
+    },
+    "values": {
+      "achievement": 0.3,
+      "growth": 0.25,
+      "security": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 3,
+      "K": 3
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "execution": 0.3,
+      "discipline": 0.2
+    },
+    "enneagram": {
+      "1": 0.25,
+      "5": 0.3,
+      "6": 0.2
+    }
+  },
+  {
+    "id": "prof-043",
+    "title": "İş Sağlığı ve Güvenliği Mühendisi",
+    "category": "Mühendislik",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 1,
+      "I": 2,
+      "A": 0,
+      "S": 4,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.05,
+      "sn": 0.0,
+      "tf": -0.1,
+      "jp": -0.2
+    },
+    "values": {
+      "service": 0.45,
+      "community": 0.2,
+      "balance": 0.15
+    },
+    "vark": {
+      "V": 2,
+      "A": 3,
+      "R": 2,
+      "K": 2
+    },
+    "strengths": {
+      "empathy": 0.4,
+      "communication": 0.25,
+      "relationship": 0.2
+    },
+    "enneagram": {
+      "2": 0.4,
+      "9": 0.2
+    }
+  },
+  {
+    "id": "prof-044",
+    "title": "Kalite Mühendisi",
+    "category": "Mühendislik",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 4,
+      "I": 1,
+      "A": 0,
+      "S": 1,
+      "E": 1,
+      "C": 4
+    },
+    "mbtiIdeal": {
+      "ei": -0.15,
+      "sn": -0.2,
+      "tf": 0.35,
+      "jp": -0.4
+    },
+    "values": {
+      "security": 0.25,
+      "achievement": 0.25,
+      "growth": 0.15
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 2,
+      "K": 4
+    },
+    "strengths": {
+      "execution": 0.35,
+      "discipline": 0.3,
+      "analytical": 0.15
+    },
+    "enneagram": {
+      "1": 0.3,
+      "6": 0.25,
+      "8": 0.15
+    }
+  },
+  {
+    "id": "prof-045",
+    "title": "Üretim Mühendisi",
+    "category": "Mühendislik",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 4,
+      "I": 1,
+      "A": 0,
+      "S": 1,
+      "E": 1,
+      "C": 4
+    },
+    "mbtiIdeal": {
+      "ei": -0.15,
+      "sn": -0.2,
+      "tf": 0.35,
+      "jp": -0.4
+    },
+    "values": {
+      "security": 0.25,
+      "achievement": 0.25,
+      "growth": 0.15
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 2,
+      "K": 4
+    },
+    "strengths": {
+      "execution": 0.35,
+      "discipline": 0.3,
+      "analytical": 0.15
+    },
+    "enneagram": {
+      "1": 0.3,
+      "6": 0.25,
+      "8": 0.15
+    }
+  },
+  {
+    "id": "prof-046",
+    "title": "Proses Mühendisi",
+    "category": "Mühendislik",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 1,
+      "S": 0,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": 0.15,
+      "tf": 0.45,
+      "jp": -0.25
+    },
+    "values": {
+      "achievement": 0.3,
+      "growth": 0.25,
+      "security": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 3,
+      "K": 3
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "execution": 0.3,
+      "discipline": 0.2
+    },
+    "enneagram": {
+      "1": 0.25,
+      "5": 0.3,
+      "6": 0.2
+    }
+  },
+  {
+    "id": "prof-047",
+    "title": "Malzeme Mühendisi",
+    "category": "Mühendislik",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 2,
+      "I": 5,
+      "A": 1,
+      "S": 0,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.35,
+      "sn": 0.35,
+      "tf": 0.35,
+      "jp": -0.1
+    },
+    "values": {
+      "growth": 0.35,
+      "purpose": 0.25,
+      "autonomy": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 4,
+      "K": 2
+    },
+    "strengths": {
+      "analytical": 0.45,
+      "learning": 0.3,
+      "focus": 0.15
+    },
+    "enneagram": {
+      "5": 0.5,
+      "4": 0.15,
+      "1": 0.12
+    }
+  },
+  {
+    "id": "prof-048",
+    "title": "Nükleer Mühendisi",
+    "category": "Mühendislik",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 2,
+      "I": 5,
+      "A": 1,
+      "S": 0,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.35,
+      "sn": 0.35,
+      "tf": 0.35,
+      "jp": -0.1
+    },
+    "values": {
+      "growth": 0.35,
+      "purpose": 0.25,
+      "autonomy": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 4,
+      "K": 2
+    },
+    "strengths": {
+      "analytical": 0.45,
+      "learning": 0.3,
+      "focus": 0.15
+    },
+    "enneagram": {
+      "5": 0.5,
+      "4": 0.15,
+      "1": 0.12
+    }
+  },
+  {
+    "id": "prof-049",
+    "title": "Denizcilik Mühendisi",
+    "category": "Mühendislik",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 1,
+      "S": 0,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": 0.15,
+      "tf": 0.45,
+      "jp": -0.25
+    },
+    "values": {
+      "achievement": 0.3,
+      "growth": 0.25,
+      "security": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 3,
+      "K": 3
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "execution": 0.3,
+      "discipline": 0.2
+    },
+    "enneagram": {
+      "1": 0.25,
+      "5": 0.3,
+      "6": 0.2
+    }
+  },
+  {
+    "id": "prof-050",
+    "title": "Maden Mühendisi",
+    "category": "Mühendislik",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 1,
+      "S": 0,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": 0.15,
+      "tf": 0.45,
+      "jp": -0.25
+    },
+    "values": {
+      "achievement": 0.3,
+      "growth": 0.25,
+      "security": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 3,
+      "K": 3
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "execution": 0.3,
+      "discipline": 0.2
+    },
+    "enneagram": {
+      "1": 0.25,
+      "5": 0.3,
+      "6": 0.2
+    }
+  },
+  {
+    "id": "prof-051",
+    "title": "Pratisyen Hekim",
+    "category": "Sağlık",
+    "futureOutlook": 9,
+    "holland": {
+      "R": 2,
+      "I": 3,
+      "A": 0,
+      "S": 4,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.1,
+      "sn": 0.1,
+      "tf": 0.15,
+      "jp": -0.35
+    },
+    "values": {
+      "service": 0.4,
+      "security": 0.2,
+      "purpose": 0.25
+    },
+    "vark": {
+      "V": 2,
+      "A": 2,
+      "R": 3,
+      "K": 3
+    },
+    "strengths": {
+      "empathy": 0.35,
+      "discipline": 0.25,
+      "analytical": 0.2
+    },
+    "enneagram": {
+      "2": 0.35,
+      "6": 0.25,
+      "1": 0.15
+    }
+  },
+  {
+    "id": "prof-052",
+    "title": "Uzman Doktor",
+    "category": "Sağlık",
+    "futureOutlook": 9,
+    "holland": {
+      "R": 2,
+      "I": 3,
+      "A": 0,
+      "S": 4,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.1,
+      "sn": 0.1,
+      "tf": 0.15,
+      "jp": -0.35
+    },
+    "values": {
+      "service": 0.4,
+      "security": 0.2,
+      "purpose": 0.25
+    },
+    "vark": {
+      "V": 2,
+      "A": 2,
+      "R": 3,
+      "K": 3
+    },
+    "strengths": {
+      "empathy": 0.35,
+      "discipline": 0.25,
+      "analytical": 0.2
+    },
+    "enneagram": {
+      "2": 0.35,
+      "6": 0.25,
+      "1": 0.15
+    }
+  },
+  {
+    "id": "prof-053",
+    "title": "Diş Hekimi",
+    "category": "Sağlık",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 2,
+      "I": 3,
+      "A": 0,
+      "S": 4,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.1,
+      "sn": 0.1,
+      "tf": 0.15,
+      "jp": -0.35
+    },
+    "values": {
+      "service": 0.4,
+      "security": 0.2,
+      "purpose": 0.25
+    },
+    "vark": {
+      "V": 2,
+      "A": 2,
+      "R": 3,
+      "K": 3
+    },
+    "strengths": {
+      "empathy": 0.35,
+      "discipline": 0.25,
+      "analytical": 0.2
+    },
+    "enneagram": {
+      "2": 0.35,
+      "6": 0.25,
+      "1": 0.15
+    }
+  },
+  {
+    "id": "prof-054",
+    "title": "Eczacı",
+    "category": "Sağlık",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 2,
+      "I": 3,
+      "A": 0,
+      "S": 4,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.1,
+      "sn": 0.1,
+      "tf": 0.15,
+      "jp": -0.35
+    },
+    "values": {
+      "service": 0.4,
+      "security": 0.2,
+      "purpose": 0.25
+    },
+    "vark": {
+      "V": 2,
+      "A": 2,
+      "R": 3,
+      "K": 3
+    },
+    "strengths": {
+      "empathy": 0.35,
+      "discipline": 0.25,
+      "analytical": 0.2
+    },
+    "enneagram": {
+      "2": 0.35,
+      "6": 0.25,
+      "1": 0.15
+    }
+  },
+  {
+    "id": "prof-055",
+    "title": "Hemşire",
+    "category": "Sağlık",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 1,
+      "I": 2,
+      "A": 0,
+      "S": 4,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.05,
+      "sn": 0.0,
+      "tf": -0.1,
+      "jp": -0.2
+    },
+    "values": {
+      "service": 0.45,
+      "community": 0.2,
+      "balance": 0.15
+    },
+    "vark": {
+      "V": 2,
+      "A": 3,
+      "R": 2,
+      "K": 2
+    },
+    "strengths": {
+      "empathy": 0.4,
+      "communication": 0.25,
+      "relationship": 0.2
+    },
+    "enneagram": {
+      "2": 0.4,
+      "9": 0.2
+    }
+  },
+  {
+    "id": "prof-056",
+    "title": "Fizyoterapist",
+    "category": "Sağlık",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 1,
+      "I": 2,
+      "A": 0,
+      "S": 4,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.05,
+      "sn": 0.0,
+      "tf": -0.1,
+      "jp": -0.2
+    },
+    "values": {
+      "service": 0.45,
+      "community": 0.2,
+      "balance": 0.15
+    },
+    "vark": {
+      "V": 2,
+      "A": 3,
+      "R": 2,
+      "K": 2
+    },
+    "strengths": {
+      "empathy": 0.4,
+      "communication": 0.25,
+      "relationship": 0.2
+    },
+    "enneagram": {
+      "2": 0.4,
+      "9": 0.2
+    }
+  },
+  {
+    "id": "prof-057",
+    "title": "Beslenme ve Diyetisyen",
+    "category": "Sağlık",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 1,
+      "I": 2,
+      "A": 0,
+      "S": 4,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.05,
+      "sn": 0.0,
+      "tf": -0.1,
+      "jp": -0.2
+    },
+    "values": {
+      "service": 0.45,
+      "community": 0.2,
+      "balance": 0.15
+    },
+    "vark": {
+      "V": 2,
+      "A": 3,
+      "R": 2,
+      "K": 2
+    },
+    "strengths": {
+      "empathy": 0.4,
+      "communication": 0.25,
+      "relationship": 0.2
+    },
+    "enneagram": {
+      "2": 0.4,
+      "9": 0.2
+    }
+  },
+  {
+    "id": "prof-058",
+    "title": "Psikolog",
+    "category": "Sağlık",
+    "futureOutlook": 9,
+    "holland": {
+      "R": 1,
+      "I": 2,
+      "A": 0,
+      "S": 4,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.05,
+      "sn": 0.0,
+      "tf": -0.1,
+      "jp": -0.2
+    },
+    "values": {
+      "service": 0.45,
+      "community": 0.2,
+      "balance": 0.15
+    },
+    "vark": {
+      "V": 2,
+      "A": 3,
+      "R": 2,
+      "K": 2
+    },
+    "strengths": {
+      "empathy": 0.4,
+      "communication": 0.25,
+      "relationship": 0.2
+    },
+    "enneagram": {
+      "2": 0.4,
+      "9": 0.2
+    }
+  },
+  {
+    "id": "prof-059",
+    "title": "Psikiyatrist",
+    "category": "Sağlık",
+    "futureOutlook": 9,
+    "holland": {
+      "R": 2,
+      "I": 3,
+      "A": 0,
+      "S": 4,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.1,
+      "sn": 0.1,
+      "tf": 0.15,
+      "jp": -0.35
+    },
+    "values": {
+      "service": 0.4,
+      "security": 0.2,
+      "purpose": 0.25
+    },
+    "vark": {
+      "V": 2,
+      "A": 2,
+      "R": 3,
+      "K": 3
+    },
+    "strengths": {
+      "empathy": 0.35,
+      "discipline": 0.25,
+      "analytical": 0.2
+    },
+    "enneagram": {
+      "2": 0.35,
+      "6": 0.25,
+      "1": 0.15
+    }
+  },
+  {
+    "id": "prof-060",
+    "title": "Tıbbi Laborant",
+    "category": "Sağlık",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 2,
+      "I": 5,
+      "A": 1,
+      "S": 0,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.35,
+      "sn": 0.35,
+      "tf": 0.35,
+      "jp": -0.1
+    },
+    "values": {
+      "growth": 0.35,
+      "purpose": 0.25,
+      "autonomy": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 4,
+      "K": 2
+    },
+    "strengths": {
+      "analytical": 0.45,
+      "learning": 0.3,
+      "focus": 0.15
+    },
+    "enneagram": {
+      "5": 0.5,
+      "4": 0.15,
+      "1": 0.12
+    }
+  },
+  {
+    "id": "prof-061",
+    "title": "Radyoloji Teknikeri",
+    "category": "Sağlık",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 2,
+      "I": 3,
+      "A": 0,
+      "S": 4,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.1,
+      "sn": 0.1,
+      "tf": 0.15,
+      "jp": -0.35
+    },
+    "values": {
+      "service": 0.4,
+      "security": 0.2,
+      "purpose": 0.25
+    },
+    "vark": {
+      "V": 2,
+      "A": 2,
+      "R": 3,
+      "K": 3
+    },
+    "strengths": {
+      "empathy": 0.35,
+      "discipline": 0.25,
+      "analytical": 0.2
+    },
+    "enneagram": {
+      "2": 0.35,
+      "6": 0.25,
+      "1": 0.15
+    }
+  },
+  {
+    "id": "prof-062",
+    "title": "Anestezi Teknikeri",
+    "category": "Sağlık",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 2,
+      "I": 3,
+      "A": 0,
+      "S": 4,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.1,
+      "sn": 0.1,
+      "tf": 0.15,
+      "jp": -0.35
+    },
+    "values": {
+      "service": 0.4,
+      "security": 0.2,
+      "purpose": 0.25
+    },
+    "vark": {
+      "V": 2,
+      "A": 2,
+      "R": 3,
+      "K": 3
+    },
+    "strengths": {
+      "empathy": 0.35,
+      "discipline": 0.25,
+      "analytical": 0.2
+    },
+    "enneagram": {
+      "2": 0.35,
+      "6": 0.25,
+      "1": 0.15
+    }
+  },
+  {
+    "id": "prof-063",
+    "title": "Odyolog",
+    "category": "Sağlık",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 1,
+      "I": 2,
+      "A": 0,
+      "S": 4,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.05,
+      "sn": 0.0,
+      "tf": -0.1,
+      "jp": -0.2
+    },
+    "values": {
+      "service": 0.45,
+      "community": 0.2,
+      "balance": 0.15
+    },
+    "vark": {
+      "V": 2,
+      "A": 3,
+      "R": 2,
+      "K": 2
+    },
+    "strengths": {
+      "empathy": 0.4,
+      "communication": 0.25,
+      "relationship": 0.2
+    },
+    "enneagram": {
+      "2": 0.4,
+      "9": 0.2
+    }
+  },
+  {
+    "id": "prof-064",
+    "title": "Konuşma ve Dil Terapisti",
+    "category": "Sağlık",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 1,
+      "I": 2,
+      "A": 0,
+      "S": 4,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.05,
+      "sn": 0.0,
+      "tf": -0.1,
+      "jp": -0.2
+    },
+    "values": {
+      "service": 0.45,
+      "community": 0.2,
+      "balance": 0.15
+    },
+    "vark": {
+      "V": 2,
+      "A": 3,
+      "R": 2,
+      "K": 2
+    },
+    "strengths": {
+      "empathy": 0.4,
+      "communication": 0.25,
+      "relationship": 0.2
+    },
+    "enneagram": {
+      "2": 0.4,
+      "9": 0.2
+    }
+  },
+  {
+    "id": "prof-065",
+    "title": "Ergoterapist",
+    "category": "Sağlık",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 1,
+      "I": 2,
+      "A": 0,
+      "S": 4,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.05,
+      "sn": 0.0,
+      "tf": -0.1,
+      "jp": -0.2
+    },
+    "values": {
+      "service": 0.45,
+      "community": 0.2,
+      "balance": 0.15
+    },
+    "vark": {
+      "V": 2,
+      "A": 3,
+      "R": 2,
+      "K": 2
+    },
+    "strengths": {
+      "empathy": 0.4,
+      "communication": 0.25,
+      "relationship": 0.2
+    },
+    "enneagram": {
+      "2": 0.4,
+      "9": 0.2
+    }
+  },
+  {
+    "id": "prof-066",
+    "title": "Sosyal Hizmet Uzmanı",
+    "category": "Sağlık",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 1,
+      "I": 2,
+      "A": 0,
+      "S": 4,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.05,
+      "sn": 0.0,
+      "tf": -0.1,
+      "jp": -0.2
+    },
+    "values": {
+      "service": 0.45,
+      "community": 0.2,
+      "balance": 0.15
+    },
+    "vark": {
+      "V": 2,
+      "A": 3,
+      "R": 2,
+      "K": 2
+    },
+    "strengths": {
+      "empathy": 0.4,
+      "communication": 0.25,
+      "relationship": 0.2
+    },
+    "enneagram": {
+      "2": 0.4,
+      "9": 0.2
+    }
+  },
+  {
+    "id": "prof-067",
+    "title": "Halk Sağlığı Uzmanı",
+    "category": "Sağlık",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 2,
+      "I": 3,
+      "A": 0,
+      "S": 4,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.1,
+      "sn": 0.1,
+      "tf": 0.15,
+      "jp": -0.35
+    },
+    "values": {
+      "service": 0.4,
+      "security": 0.2,
+      "purpose": 0.25
+    },
+    "vark": {
+      "V": 2,
+      "A": 2,
+      "R": 3,
+      "K": 3
+    },
+    "strengths": {
+      "empathy": 0.35,
+      "discipline": 0.25,
+      "analytical": 0.2
+    },
+    "enneagram": {
+      "2": 0.35,
+      "6": 0.25,
+      "1": 0.15
+    }
+  },
+  {
+    "id": "prof-068",
+    "title": "Biyomedikal Teknikeri",
+    "category": "Sağlık",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 1,
+      "S": 0,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": 0.15,
+      "tf": 0.45,
+      "jp": -0.25
+    },
+    "values": {
+      "achievement": 0.3,
+      "growth": 0.25,
+      "security": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 3,
+      "K": 3
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "execution": 0.3,
+      "discipline": 0.2
+    },
+    "enneagram": {
+      "1": 0.25,
+      "5": 0.3,
+      "6": 0.2
+    }
+  },
+  {
+    "id": "prof-069",
+    "title": "Veteriner Hekim",
+    "category": "Sağlık",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 2,
+      "I": 3,
+      "A": 0,
+      "S": 4,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.1,
+      "sn": 0.1,
+      "tf": 0.15,
+      "jp": -0.35
+    },
+    "values": {
+      "service": 0.4,
+      "security": 0.2,
+      "purpose": 0.25
+    },
+    "vark": {
+      "V": 2,
+      "A": 2,
+      "R": 3,
+      "K": 3
+    },
+    "strengths": {
+      "empathy": 0.35,
+      "discipline": 0.25,
+      "analytical": 0.2
+    },
+    "enneagram": {
+      "2": 0.35,
+      "6": 0.25,
+      "1": 0.15
+    }
+  },
+  {
+    "id": "prof-070",
+    "title": "Optisyen",
+    "category": "Sağlık",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 1,
+      "I": 2,
+      "A": 0,
+      "S": 4,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.05,
+      "sn": 0.0,
+      "tf": -0.1,
+      "jp": -0.2
+    },
+    "values": {
+      "service": 0.45,
+      "community": 0.2,
+      "balance": 0.15
+    },
+    "vark": {
+      "V": 2,
+      "A": 3,
+      "R": 2,
+      "K": 2
+    },
+    "strengths": {
+      "empathy": 0.4,
+      "communication": 0.25,
+      "relationship": 0.2
+    },
+    "enneagram": {
+      "2": 0.4,
+      "9": 0.2
+    }
+  },
+  {
+    "id": "prof-071",
+    "title": "İlk ve Acil Yardım Teknisyeni",
+    "category": "Sağlık",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 1,
+      "I": 2,
+      "A": 0,
+      "S": 4,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.05,
+      "sn": 0.0,
+      "tf": -0.1,
+      "jp": -0.2
+    },
+    "values": {
+      "service": 0.45,
+      "community": 0.2,
+      "balance": 0.15
+    },
+    "vark": {
+      "V": 2,
+      "A": 3,
+      "R": 2,
+      "K": 2
+    },
+    "strengths": {
+      "empathy": 0.4,
+      "communication": 0.25,
+      "relationship": 0.2
+    },
+    "enneagram": {
+      "2": 0.4,
+      "9": 0.2
+    }
+  },
+  {
+    "id": "prof-072",
+    "title": "Tıbbi Sekreter",
+    "category": "Sağlık",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 0,
+      "I": 3,
+      "A": 0,
+      "S": 1,
+      "E": 2,
+      "C": 4
+    },
+    "mbtiIdeal": {
+      "ei": -0.05,
+      "sn": -0.1,
+      "tf": 0.45,
+      "jp": -0.45
+    },
+    "values": {
+      "security": 0.35,
+      "achievement": 0.3,
+      "growth": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 4,
+      "K": 1
+    },
+    "strengths": {
+      "analytical": 0.4,
+      "discipline": 0.3,
+      "focus": 0.15
+    },
+    "enneagram": {
+      "1": 0.3,
+      "6": 0.25,
+      "5": 0.2
+    }
+  },
+  {
+    "id": "prof-073",
+    "title": "Sınıf Öğretmeni",
+    "category": "Eğitim",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 0,
+      "I": 3,
+      "A": 2,
+      "S": 4,
+      "E": 2,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.25,
+      "sn": 0.15,
+      "tf": -0.15,
+      "jp": 0.0
+    },
+    "values": {
+      "purpose": 0.35,
+      "service": 0.3,
+      "community": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 4,
+      "R": 2,
+      "K": 2
+    },
+    "strengths": {
+      "communication": 0.35,
+      "empathy": 0.25,
+      "relationship": 0.2
+    },
+    "enneagram": {
+      "2": 0.35,
+      "9": 0.2,
+      "1": 0.15
+    }
+  },
+  {
+    "id": "prof-074",
+    "title": "Okul Öncesi Öğretmeni",
+    "category": "Eğitim",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 0,
+      "I": 3,
+      "A": 2,
+      "S": 4,
+      "E": 2,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.25,
+      "sn": 0.15,
+      "tf": -0.15,
+      "jp": 0.0
+    },
+    "values": {
+      "purpose": 0.35,
+      "service": 0.3,
+      "community": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 4,
+      "R": 2,
+      "K": 2
+    },
+    "strengths": {
+      "communication": 0.35,
+      "empathy": 0.25,
+      "relationship": 0.2
+    },
+    "enneagram": {
+      "2": 0.35,
+      "9": 0.2,
+      "1": 0.15
+    }
+  },
+  {
+    "id": "prof-075",
+    "title": "İngilizce Öğretmeni",
+    "category": "Eğitim",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 0,
+      "I": 3,
+      "A": 2,
+      "S": 4,
+      "E": 2,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.25,
+      "sn": 0.15,
+      "tf": -0.15,
+      "jp": 0.0
+    },
+    "values": {
+      "purpose": 0.35,
+      "service": 0.3,
+      "community": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 4,
+      "R": 2,
+      "K": 2
+    },
+    "strengths": {
+      "communication": 0.35,
+      "empathy": 0.25,
+      "relationship": 0.2
+    },
+    "enneagram": {
+      "2": 0.35,
+      "9": 0.2,
+      "1": 0.15
+    }
+  },
+  {
+    "id": "prof-076",
+    "title": "Matematik Öğretmeni",
+    "category": "Eğitim",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 0,
+      "I": 3,
+      "A": 2,
+      "S": 4,
+      "E": 2,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.25,
+      "sn": 0.15,
+      "tf": -0.15,
+      "jp": 0.0
+    },
+    "values": {
+      "purpose": 0.35,
+      "service": 0.3,
+      "community": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 4,
+      "R": 2,
+      "K": 2
+    },
+    "strengths": {
+      "communication": 0.35,
+      "empathy": 0.25,
+      "relationship": 0.2
+    },
+    "enneagram": {
+      "2": 0.35,
+      "9": 0.2,
+      "1": 0.15
+    }
+  },
+  {
+    "id": "prof-077",
+    "title": "Özel Eğitim Öğretmeni",
+    "category": "Eğitim",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 0,
+      "I": 3,
+      "A": 2,
+      "S": 4,
+      "E": 2,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.25,
+      "sn": 0.15,
+      "tf": -0.15,
+      "jp": 0.0
+    },
+    "values": {
+      "purpose": 0.35,
+      "service": 0.3,
+      "community": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 4,
+      "R": 2,
+      "K": 2
+    },
+    "strengths": {
+      "communication": 0.35,
+      "empathy": 0.25,
+      "relationship": 0.2
+    },
+    "enneagram": {
+      "2": 0.35,
+      "9": 0.2,
+      "1": 0.15
+    }
+  },
+  {
+    "id": "prof-078",
+    "title": "Üniversite Öğretim Görevlisi",
+    "category": "Eğitim",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 0,
+      "I": 3,
+      "A": 2,
+      "S": 4,
+      "E": 2,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.25,
+      "sn": 0.15,
+      "tf": -0.15,
+      "jp": 0.0
+    },
+    "values": {
+      "purpose": 0.35,
+      "service": 0.3,
+      "community": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 4,
+      "R": 2,
+      "K": 2
+    },
+    "strengths": {
+      "communication": 0.35,
+      "empathy": 0.25,
+      "relationship": 0.2
+    },
+    "enneagram": {
+      "2": 0.35,
+      "9": 0.2,
+      "1": 0.15
+    }
+  },
+  {
+    "id": "prof-079",
+    "title": "Eğitim Koçu",
+    "category": "Eğitim",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 0,
+      "I": 2,
+      "A": 1,
+      "S": 4,
+      "E": 2,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.25,
+      "sn": 0.1,
+      "tf": -0.2,
+      "jp": 0.05
+    },
+    "values": {
+      "service": 0.25,
+      "community": 0.25,
+      "growth": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 3,
+      "R": 2,
+      "K": 2
+    },
+    "strengths": {
+      "empathy": 0.35,
+      "communication": 0.3,
+      "relationship": 0.25
+    },
+    "enneagram": {
+      "2": 0.35,
+      "9": 0.25,
+      "6": 0.15
+    }
+  },
+  {
+    "id": "prof-080",
+    "title": "Kurumsal Eğitmen",
+    "category": "Eğitim",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 0,
+      "I": 3,
+      "A": 2,
+      "S": 4,
+      "E": 2,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.25,
+      "sn": 0.15,
+      "tf": -0.15,
+      "jp": 0.0
+    },
+    "values": {
+      "purpose": 0.35,
+      "service": 0.3,
+      "community": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 4,
+      "R": 2,
+      "K": 2
+    },
+    "strengths": {
+      "communication": 0.35,
+      "empathy": 0.25,
+      "relationship": 0.2
+    },
+    "enneagram": {
+      "2": 0.35,
+      "9": 0.2,
+      "1": 0.15
+    }
+  },
+  {
+    "id": "prof-081",
+    "title": "İdareci/Müdür",
+    "category": "Eğitim",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 0,
+      "I": 1,
+      "A": 1,
+      "S": 2,
+      "E": 4,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.55,
+      "sn": 0.2,
+      "tf": 0.15,
+      "jp": 0.2
+    },
+    "values": {
+      "achievement": 0.35,
+      "recognition": 0.25,
+      "adventure": 0.15
+    },
+    "vark": {
+      "V": 2,
+      "A": 4,
+      "R": 1,
+      "K": 1
+    },
+    "strengths": {
+      "communication": 0.35,
+      "leadership": 0.25,
+      "adaptability": 0.2
+    },
+    "enneagram": {
+      "3": 0.4,
+      "8": 0.25,
+      "7": 0.15
+    }
+  },
+  {
+    "id": "prof-082",
+    "title": "Rehber Öğretmen",
+    "category": "Eğitim",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 0,
+      "I": 3,
+      "A": 2,
+      "S": 4,
+      "E": 2,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.25,
+      "sn": 0.15,
+      "tf": -0.15,
+      "jp": 0.0
+    },
+    "values": {
+      "purpose": 0.35,
+      "service": 0.3,
+      "community": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 4,
+      "R": 2,
+      "K": 2
+    },
+    "strengths": {
+      "communication": 0.35,
+      "empathy": 0.25,
+      "relationship": 0.2
+    },
+    "enneagram": {
+      "2": 0.35,
+      "9": 0.2,
+      "1": 0.15
+    }
+  },
+  {
+    "id": "prof-083",
+    "title": "Kütüphaneci",
+    "category": "Eğitim",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 0,
+      "I": 3,
+      "A": 0,
+      "S": 1,
+      "E": 2,
+      "C": 4
+    },
+    "mbtiIdeal": {
+      "ei": -0.05,
+      "sn": -0.1,
+      "tf": 0.45,
+      "jp": -0.45
+    },
+    "values": {
+      "security": 0.35,
+      "achievement": 0.3,
+      "growth": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 4,
+      "K": 1
+    },
+    "strengths": {
+      "analytical": 0.4,
+      "discipline": 0.3,
+      "focus": 0.15
+    },
+    "enneagram": {
+      "1": 0.3,
+      "6": 0.25,
+      "5": 0.2
+    }
+  },
+  {
+    "id": "prof-084",
+    "title": "Akademik Danışman",
+    "category": "Eğitim",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 0,
+      "I": 2,
+      "A": 1,
+      "S": 4,
+      "E": 2,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.25,
+      "sn": 0.1,
+      "tf": -0.2,
+      "jp": 0.05
+    },
+    "values": {
+      "service": 0.25,
+      "community": 0.25,
+      "growth": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 3,
+      "R": 2,
+      "K": 2
+    },
+    "strengths": {
+      "empathy": 0.35,
+      "communication": 0.3,
+      "relationship": 0.25
+    },
+    "enneagram": {
+      "2": 0.35,
+      "9": 0.25,
+      "6": 0.15
+    }
+  },
+  {
+    "id": "prof-085",
+    "title": "Finansal Analist",
+    "category": "İş",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 0,
+      "I": 3,
+      "A": 0,
+      "S": 1,
+      "E": 2,
+      "C": 4
+    },
+    "mbtiIdeal": {
+      "ei": -0.05,
+      "sn": -0.1,
+      "tf": 0.45,
+      "jp": -0.45
+    },
+    "values": {
+      "security": 0.35,
+      "achievement": 0.3,
+      "growth": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 4,
+      "K": 1
+    },
+    "strengths": {
+      "analytical": 0.4,
+      "discipline": 0.3,
+      "focus": 0.15
+    },
+    "enneagram": {
+      "1": 0.3,
+      "6": 0.25,
+      "5": 0.2
+    }
+  },
+  {
+    "id": "prof-086",
+    "title": "Muhasebeci",
+    "category": "İş",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 0,
+      "I": 3,
+      "A": 0,
+      "S": 1,
+      "E": 2,
+      "C": 4
+    },
+    "mbtiIdeal": {
+      "ei": -0.05,
+      "sn": -0.1,
+      "tf": 0.45,
+      "jp": -0.45
+    },
+    "values": {
+      "security": 0.35,
+      "achievement": 0.3,
+      "growth": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 4,
+      "K": 1
+    },
+    "strengths": {
+      "analytical": 0.4,
+      "discipline": 0.3,
+      "focus": 0.15
+    },
+    "enneagram": {
+      "1": 0.3,
+      "6": 0.25,
+      "5": 0.2
+    }
+  },
+  {
+    "id": "prof-087",
+    "title": "Denetçi",
+    "category": "İş",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 0,
+      "I": 3,
+      "A": 0,
+      "S": 1,
+      "E": 2,
+      "C": 4
+    },
+    "mbtiIdeal": {
+      "ei": -0.05,
+      "sn": -0.1,
+      "tf": 0.45,
+      "jp": -0.45
+    },
+    "values": {
+      "security": 0.35,
+      "achievement": 0.3,
+      "growth": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 4,
+      "K": 1
+    },
+    "strengths": {
+      "analytical": 0.4,
+      "discipline": 0.3,
+      "focus": 0.15
+    },
+    "enneagram": {
+      "1": 0.3,
+      "6": 0.25,
+      "5": 0.2
+    }
+  },
+  {
+    "id": "prof-088",
+    "title": "Yatırım Uzmanı",
+    "category": "İş",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 0,
+      "I": 3,
+      "A": 0,
+      "S": 1,
+      "E": 2,
+      "C": 4
+    },
+    "mbtiIdeal": {
+      "ei": -0.05,
+      "sn": -0.1,
+      "tf": 0.45,
+      "jp": -0.45
+    },
+    "values": {
+      "security": 0.35,
+      "achievement": 0.3,
+      "growth": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 4,
+      "K": 1
+    },
+    "strengths": {
+      "analytical": 0.4,
+      "discipline": 0.3,
+      "focus": 0.15
+    },
+    "enneagram": {
+      "1": 0.3,
+      "6": 0.25,
+      "5": 0.2
+    }
+  },
+  {
+    "id": "prof-089",
+    "title": "Risk Yöneticisi",
+    "category": "İş",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 0,
+      "I": 3,
+      "A": 0,
+      "S": 1,
+      "E": 2,
+      "C": 4
+    },
+    "mbtiIdeal": {
+      "ei": -0.05,
+      "sn": -0.1,
+      "tf": 0.45,
+      "jp": -0.45
+    },
+    "values": {
+      "security": 0.35,
+      "achievement": 0.3,
+      "growth": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 4,
+      "K": 1
+    },
+    "strengths": {
+      "analytical": 0.4,
+      "discipline": 0.3,
+      "focus": 0.15
+    },
+    "enneagram": {
+      "1": 0.3,
+      "6": 0.25,
+      "5": 0.2
+    }
+  },
+  {
+    "id": "prof-090",
+    "title": "İş Analisti",
+    "category": "İş",
+    "futureOutlook": 9,
+    "holland": {
+      "R": 2,
+      "I": 4,
+      "A": 1,
+      "S": 0,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.15,
+      "sn": 0.4,
+      "tf": 0.5,
+      "jp": -0.2
+    },
+    "values": {
+      "growth": 0.35,
+      "autonomy": 0.3,
+      "achievement": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 3,
+      "K": 2
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "learning": 0.25,
+      "focus": 0.25
+    },
+    "enneagram": {
+      "5": 0.45,
+      "1": 0.15,
+      "6": 0.12
+    }
+  },
+  {
+    "id": "prof-091",
+    "title": "Proje Yöneticisi",
+    "category": "İş",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 0,
+      "I": 1,
+      "A": 1,
+      "S": 2,
+      "E": 4,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.55,
+      "sn": 0.2,
+      "tf": 0.15,
+      "jp": 0.2
+    },
+    "values": {
+      "achievement": 0.35,
+      "recognition": 0.25,
+      "adventure": 0.15
+    },
+    "vark": {
+      "V": 2,
+      "A": 4,
+      "R": 1,
+      "K": 1
+    },
+    "strengths": {
+      "communication": 0.35,
+      "leadership": 0.25,
+      "adaptability": 0.2
+    },
+    "enneagram": {
+      "3": 0.4,
+      "8": 0.25,
+      "7": 0.15
+    }
+  },
+  {
+    "id": "prof-092",
+    "title": "Operasyon Müdürü",
+    "category": "İş",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 4,
+      "I": 1,
+      "A": 0,
+      "S": 1,
+      "E": 1,
+      "C": 4
+    },
+    "mbtiIdeal": {
+      "ei": -0.15,
+      "sn": -0.2,
+      "tf": 0.35,
+      "jp": -0.4
+    },
+    "values": {
+      "security": 0.25,
+      "achievement": 0.25,
+      "growth": 0.15
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 2,
+      "K": 4
+    },
+    "strengths": {
+      "execution": 0.35,
+      "discipline": 0.3,
+      "analytical": 0.15
+    },
+    "enneagram": {
+      "1": 0.3,
+      "6": 0.25,
+      "8": 0.15
+    }
+  },
+  {
+    "id": "prof-093",
+    "title": "Tedarik Zinciri Uzmanı",
+    "category": "İş",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 4,
+      "I": 1,
+      "A": 0,
+      "S": 1,
+      "E": 1,
+      "C": 4
+    },
+    "mbtiIdeal": {
+      "ei": -0.15,
+      "sn": -0.2,
+      "tf": 0.35,
+      "jp": -0.4
+    },
+    "values": {
+      "security": 0.25,
+      "achievement": 0.25,
+      "growth": 0.15
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 2,
+      "K": 4
+    },
+    "strengths": {
+      "execution": 0.35,
+      "discipline": 0.3,
+      "analytical": 0.15
+    },
+    "enneagram": {
+      "1": 0.3,
+      "6": 0.25,
+      "8": 0.15
+    }
+  },
+  {
+    "id": "prof-094",
+    "title": "Satınalma Uzmanı",
+    "category": "İş",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 0,
+      "I": 1,
+      "A": 1,
+      "S": 2,
+      "E": 4,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.55,
+      "sn": 0.2,
+      "tf": 0.15,
+      "jp": 0.2
+    },
+    "values": {
+      "achievement": 0.35,
+      "recognition": 0.25,
+      "adventure": 0.15
+    },
+    "vark": {
+      "V": 2,
+      "A": 4,
+      "R": 1,
+      "K": 1
+    },
+    "strengths": {
+      "communication": 0.35,
+      "leadership": 0.25,
+      "adaptability": 0.2
+    },
+    "enneagram": {
+      "3": 0.4,
+      "8": 0.25,
+      "7": 0.15
+    }
+  },
+  {
+    "id": "prof-095",
+    "title": "İnsan Kaynakları Uzmanı",
+    "category": "İş",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 0,
+      "I": 2,
+      "A": 1,
+      "S": 4,
+      "E": 2,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.25,
+      "sn": 0.1,
+      "tf": -0.2,
+      "jp": 0.05
+    },
+    "values": {
+      "service": 0.25,
+      "community": 0.25,
+      "growth": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 3,
+      "R": 2,
+      "K": 2
+    },
+    "strengths": {
+      "empathy": 0.35,
+      "communication": 0.3,
+      "relationship": 0.25
+    },
+    "enneagram": {
+      "2": 0.35,
+      "9": 0.25,
+      "6": 0.15
+    }
+  },
+  {
+    "id": "prof-096",
+    "title": "İşe Alım Uzmanı",
+    "category": "İş",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 0,
+      "I": 2,
+      "A": 1,
+      "S": 4,
+      "E": 2,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.25,
+      "sn": 0.1,
+      "tf": -0.2,
+      "jp": 0.05
+    },
+    "values": {
+      "service": 0.25,
+      "community": 0.25,
+      "growth": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 3,
+      "R": 2,
+      "K": 2
+    },
+    "strengths": {
+      "empathy": 0.35,
+      "communication": 0.3,
+      "relationship": 0.25
+    },
+    "enneagram": {
+      "2": 0.35,
+      "9": 0.25,
+      "6": 0.15
+    }
+  },
+  {
+    "id": "prof-097",
+    "title": "Ücret ve Yan Haklar Uzmanı",
+    "category": "İş",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 0,
+      "I": 3,
+      "A": 0,
+      "S": 1,
+      "E": 2,
+      "C": 4
+    },
+    "mbtiIdeal": {
+      "ei": -0.05,
+      "sn": -0.1,
+      "tf": 0.45,
+      "jp": -0.45
+    },
+    "values": {
+      "security": 0.35,
+      "achievement": 0.3,
+      "growth": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 4,
+      "K": 1
+    },
+    "strengths": {
+      "analytical": 0.4,
+      "discipline": 0.3,
+      "focus": 0.15
+    },
+    "enneagram": {
+      "1": 0.3,
+      "6": 0.25,
+      "5": 0.2
+    }
+  },
+  {
+    "id": "prof-098",
+    "title": "Strateji Danışmanı",
+    "category": "İş",
+    "futureOutlook": 9,
+    "holland": {
+      "R": 0,
+      "I": 1,
+      "A": 1,
+      "S": 2,
+      "E": 4,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.55,
+      "sn": 0.2,
+      "tf": 0.15,
+      "jp": 0.2
+    },
+    "values": {
+      "achievement": 0.35,
+      "recognition": 0.25,
+      "adventure": 0.15
+    },
+    "vark": {
+      "V": 2,
+      "A": 4,
+      "R": 1,
+      "K": 1
+    },
+    "strengths": {
+      "communication": 0.35,
+      "leadership": 0.25,
+      "adaptability": 0.2
+    },
+    "enneagram": {
+      "3": 0.4,
+      "8": 0.25,
+      "7": 0.15
+    }
+  },
+  {
+    "id": "prof-099",
+    "title": "Yönetim Danışmanı",
+    "category": "İş",
+    "futureOutlook": 9,
+    "holland": {
+      "R": 0,
+      "I": 1,
+      "A": 1,
+      "S": 2,
+      "E": 4,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.55,
+      "sn": 0.2,
+      "tf": 0.15,
+      "jp": 0.2
+    },
+    "values": {
+      "achievement": 0.35,
+      "recognition": 0.25,
+      "adventure": 0.15
+    },
+    "vark": {
+      "V": 2,
+      "A": 4,
+      "R": 1,
+      "K": 1
+    },
+    "strengths": {
+      "communication": 0.35,
+      "leadership": 0.25,
+      "adaptability": 0.2
+    },
+    "enneagram": {
+      "3": 0.4,
+      "8": 0.25,
+      "7": 0.15
+    }
+  },
+  {
+    "id": "prof-100",
+    "title": "Girişimci / Kurucu",
+    "category": "İş",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 0,
+      "I": 1,
+      "A": 1,
+      "S": 2,
+      "E": 4,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.55,
+      "sn": 0.2,
+      "tf": 0.15,
+      "jp": 0.2
+    },
+    "values": {
+      "achievement": 0.35,
+      "recognition": 0.25,
+      "adventure": 0.15
+    },
+    "vark": {
+      "V": 2,
+      "A": 4,
+      "R": 1,
+      "K": 1
+    },
+    "strengths": {
+      "communication": 0.35,
+      "leadership": 0.25,
+      "adaptability": 0.2
+    },
+    "enneagram": {
+      "3": 0.4,
+      "8": 0.25,
+      "7": 0.15
+    }
+  },
+  {
+    "id": "prof-101",
+    "title": "Franchise Yöneticisi",
+    "category": "İş",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 0,
+      "I": 1,
+      "A": 1,
+      "S": 2,
+      "E": 4,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.55,
+      "sn": 0.2,
+      "tf": 0.15,
+      "jp": 0.2
+    },
+    "values": {
+      "achievement": 0.35,
+      "recognition": 0.25,
+      "adventure": 0.15
+    },
+    "vark": {
+      "V": 2,
+      "A": 4,
+      "R": 1,
+      "K": 1
+    },
+    "strengths": {
+      "communication": 0.35,
+      "leadership": 0.25,
+      "adaptability": 0.2
+    },
+    "enneagram": {
+      "3": 0.4,
+      "8": 0.25,
+      "7": 0.15
+    }
+  },
+  {
+    "id": "prof-102",
+    "title": "E-ticaret Yöneticisi",
+    "category": "İş",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 0,
+      "I": 1,
+      "A": 1,
+      "S": 2,
+      "E": 4,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.55,
+      "sn": 0.2,
+      "tf": 0.15,
+      "jp": 0.2
+    },
+    "values": {
+      "achievement": 0.35,
+      "recognition": 0.25,
+      "adventure": 0.15
+    },
+    "vark": {
+      "V": 2,
+      "A": 4,
+      "R": 1,
+      "K": 1
+    },
+    "strengths": {
+      "communication": 0.35,
+      "leadership": 0.25,
+      "adaptability": 0.2
+    },
+    "enneagram": {
+      "3": 0.4,
+      "8": 0.25,
+      "7": 0.15
+    }
+  },
+  {
+    "id": "prof-103",
+    "title": "Marka Yöneticisi",
+    "category": "İş",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 1,
+      "I": 1,
+      "A": 5,
+      "S": 1,
+      "E": 2,
+      "C": 0
+    },
+    "mbtiIdeal": {
+      "ei": 0.2,
+      "sn": 0.45,
+      "tf": -0.05,
+      "jp": 0.35
+    },
+    "values": {
+      "creativity": 0.4,
+      "recognition": 0.2,
+      "variety": 0.25
+    },
+    "vark": {
+      "V": 4,
+      "A": 2,
+      "R": 1,
+      "K": 2
+    },
+    "strengths": {
+      "creative": 0.45,
+      "communication": 0.25,
+      "adaptability": 0.15
+    },
+    "enneagram": {
+      "4": 0.35,
+      "7": 0.3,
+      "3": 0.2
+    }
+  },
+  {
+    "id": "prof-104",
+    "title": "Patent ve Fikri Mülkiyet Uzmanı",
+    "category": "İş",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 0,
+      "I": 3,
+      "A": 0,
+      "S": 2,
+      "E": 3,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": 0.15,
+      "sn": 0.0,
+      "tf": 0.35,
+      "jp": -0.35
+    },
+    "values": {
+      "purpose": 0.25,
+      "security": 0.25,
+      "achievement": 0.2
+    },
+    "vark": {
+      "V": 1,
+      "A": 3,
+      "R": 4,
+      "K": 1
+    },
+    "strengths": {
+      "analytical": 0.3,
+      "communication": 0.3,
+      "strategic": 0.2
+    },
+    "enneagram": {
+      "1": 0.35,
+      "6": 0.25,
+      "8": 0.15
+    }
+  },
+  {
+    "id": "prof-105",
+    "title": "Avukat",
+    "category": "Hukuk",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 0,
+      "I": 3,
+      "A": 0,
+      "S": 2,
+      "E": 3,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": 0.15,
+      "sn": 0.0,
+      "tf": 0.35,
+      "jp": -0.35
+    },
+    "values": {
+      "purpose": 0.25,
+      "security": 0.25,
+      "achievement": 0.2
+    },
+    "vark": {
+      "V": 1,
+      "A": 3,
+      "R": 4,
+      "K": 1
+    },
+    "strengths": {
+      "analytical": 0.3,
+      "communication": 0.3,
+      "strategic": 0.2
+    },
+    "enneagram": {
+      "1": 0.35,
+      "6": 0.25,
+      "8": 0.15
+    }
+  },
+  {
+    "id": "prof-106",
+    "title": "Hâkim",
+    "category": "Hukuk",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 0,
+      "I": 3,
+      "A": 0,
+      "S": 2,
+      "E": 3,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": 0.15,
+      "sn": 0.0,
+      "tf": 0.35,
+      "jp": -0.35
+    },
+    "values": {
+      "purpose": 0.25,
+      "security": 0.25,
+      "achievement": 0.2
+    },
+    "vark": {
+      "V": 1,
+      "A": 3,
+      "R": 4,
+      "K": 1
+    },
+    "strengths": {
+      "analytical": 0.3,
+      "communication": 0.3,
+      "strategic": 0.2
+    },
+    "enneagram": {
+      "1": 0.35,
+      "6": 0.25,
+      "8": 0.15
+    }
+  },
+  {
+    "id": "prof-107",
+    "title": "Savcı",
+    "category": "Hukuk",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 0,
+      "I": 3,
+      "A": 0,
+      "S": 2,
+      "E": 3,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": 0.15,
+      "sn": 0.0,
+      "tf": 0.35,
+      "jp": -0.35
+    },
+    "values": {
+      "purpose": 0.25,
+      "security": 0.25,
+      "achievement": 0.2
+    },
+    "vark": {
+      "V": 1,
+      "A": 3,
+      "R": 4,
+      "K": 1
+    },
+    "strengths": {
+      "analytical": 0.3,
+      "communication": 0.3,
+      "strategic": 0.2
+    },
+    "enneagram": {
+      "1": 0.35,
+      "6": 0.25,
+      "8": 0.15
+    }
+  },
+  {
+    "id": "prof-108",
+    "title": "Noter",
+    "category": "Hukuk",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 0,
+      "I": 3,
+      "A": 0,
+      "S": 2,
+      "E": 3,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": 0.15,
+      "sn": 0.0,
+      "tf": 0.35,
+      "jp": -0.35
+    },
+    "values": {
+      "purpose": 0.25,
+      "security": 0.25,
+      "achievement": 0.2
+    },
+    "vark": {
+      "V": 1,
+      "A": 3,
+      "R": 4,
+      "K": 1
+    },
+    "strengths": {
+      "analytical": 0.3,
+      "communication": 0.3,
+      "strategic": 0.2
+    },
+    "enneagram": {
+      "1": 0.35,
+      "6": 0.25,
+      "8": 0.15
+    }
+  },
+  {
+    "id": "prof-109",
+    "title": "Kurumsal Hukuk Müşaviri",
+    "category": "Hukuk",
+    "futureOutlook": 9,
+    "holland": {
+      "R": 0,
+      "I": 3,
+      "A": 0,
+      "S": 2,
+      "E": 3,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": 0.15,
+      "sn": 0.0,
+      "tf": 0.35,
+      "jp": -0.35
+    },
+    "values": {
+      "purpose": 0.25,
+      "security": 0.25,
+      "achievement": 0.2
+    },
+    "vark": {
+      "V": 1,
+      "A": 3,
+      "R": 4,
+      "K": 1
+    },
+    "strengths": {
+      "analytical": 0.3,
+      "communication": 0.3,
+      "strategic": 0.2
+    },
+    "enneagram": {
+      "1": 0.35,
+      "6": 0.25,
+      "8": 0.15
+    }
+  },
+  {
+    "id": "prof-110",
+    "title": "Uyum (Compliance) Uzmanı",
+    "category": "Hukuk",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 0,
+      "I": 3,
+      "A": 0,
+      "S": 2,
+      "E": 3,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": 0.15,
+      "sn": 0.0,
+      "tf": 0.35,
+      "jp": -0.35
+    },
+    "values": {
+      "purpose": 0.25,
+      "security": 0.25,
+      "achievement": 0.2
+    },
+    "vark": {
+      "V": 1,
+      "A": 3,
+      "R": 4,
+      "K": 1
+    },
+    "strengths": {
+      "analytical": 0.3,
+      "communication": 0.3,
+      "strategic": 0.2
+    },
+    "enneagram": {
+      "1": 0.35,
+      "6": 0.25,
+      "8": 0.15
+    }
+  },
+  {
+    "id": "prof-111",
+    "title": "Kamu Personeli",
+    "category": "Kamu",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 0,
+      "I": 3,
+      "A": 0,
+      "S": 1,
+      "E": 2,
+      "C": 4
+    },
+    "mbtiIdeal": {
+      "ei": -0.05,
+      "sn": -0.1,
+      "tf": 0.45,
+      "jp": -0.45
+    },
+    "values": {
+      "security": 0.35,
+      "achievement": 0.3,
+      "growth": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 4,
+      "K": 1
+    },
+    "strengths": {
+      "analytical": 0.4,
+      "discipline": 0.3,
+      "focus": 0.15
+    },
+    "enneagram": {
+      "1": 0.3,
+      "6": 0.25,
+      "5": 0.2
+    }
+  },
+  {
+    "id": "prof-112",
+    "title": "Diplomat",
+    "category": "Kamu",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 0,
+      "I": 3,
+      "A": 0,
+      "S": 2,
+      "E": 3,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": 0.15,
+      "sn": 0.0,
+      "tf": 0.35,
+      "jp": -0.35
+    },
+    "values": {
+      "purpose": 0.25,
+      "security": 0.25,
+      "achievement": 0.2
+    },
+    "vark": {
+      "V": 1,
+      "A": 3,
+      "R": 4,
+      "K": 1
+    },
+    "strengths": {
+      "analytical": 0.3,
+      "communication": 0.3,
+      "strategic": 0.2
+    },
+    "enneagram": {
+      "1": 0.35,
+      "6": 0.25,
+      "8": 0.15
+    }
+  },
+  {
+    "id": "prof-113",
+    "title": "Siyaset Bilimci (Kurumsal)",
+    "category": "Kamu",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 0,
+      "I": 3,
+      "A": 0,
+      "S": 2,
+      "E": 3,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": 0.15,
+      "sn": 0.0,
+      "tf": 0.35,
+      "jp": -0.35
+    },
+    "values": {
+      "purpose": 0.25,
+      "security": 0.25,
+      "achievement": 0.2
+    },
+    "vark": {
+      "V": 1,
+      "A": 3,
+      "R": 4,
+      "K": 1
+    },
+    "strengths": {
+      "analytical": 0.3,
+      "communication": 0.3,
+      "strategic": 0.2
+    },
+    "enneagram": {
+      "1": 0.35,
+      "6": 0.25,
+      "8": 0.15
+    }
+  },
+  {
+    "id": "prof-114",
+    "title": "Belediye Uzmanı",
+    "category": "Kamu",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 0,
+      "I": 3,
+      "A": 0,
+      "S": 2,
+      "E": 3,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": 0.15,
+      "sn": 0.0,
+      "tf": 0.35,
+      "jp": -0.35
+    },
+    "values": {
+      "purpose": 0.25,
+      "security": 0.25,
+      "achievement": 0.2
+    },
+    "vark": {
+      "V": 1,
+      "A": 3,
+      "R": 4,
+      "K": 1
+    },
+    "strengths": {
+      "analytical": 0.3,
+      "communication": 0.3,
+      "strategic": 0.2
+    },
+    "enneagram": {
+      "1": 0.35,
+      "6": 0.25,
+      "8": 0.15
+    }
+  },
+  {
+    "id": "prof-115",
+    "title": "SGK Uzmanı",
+    "category": "Kamu",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 0,
+      "I": 3,
+      "A": 0,
+      "S": 1,
+      "E": 2,
+      "C": 4
+    },
+    "mbtiIdeal": {
+      "ei": -0.05,
+      "sn": -0.1,
+      "tf": 0.45,
+      "jp": -0.45
+    },
+    "values": {
+      "security": 0.35,
+      "achievement": 0.3,
+      "growth": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 4,
+      "K": 1
+    },
+    "strengths": {
+      "analytical": 0.4,
+      "discipline": 0.3,
+      "focus": 0.15
+    },
+    "enneagram": {
+      "1": 0.3,
+      "6": 0.25,
+      "5": 0.2
+    }
+  },
+  {
+    "id": "prof-116",
+    "title": "Gümrük Müşaviri",
+    "category": "Kamu",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 0,
+      "I": 3,
+      "A": 0,
+      "S": 2,
+      "E": 3,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": 0.15,
+      "sn": 0.0,
+      "tf": 0.35,
+      "jp": -0.35
+    },
+    "values": {
+      "purpose": 0.25,
+      "security": 0.25,
+      "achievement": 0.2
+    },
+    "vark": {
+      "V": 1,
+      "A": 3,
+      "R": 4,
+      "K": 1
+    },
+    "strengths": {
+      "analytical": 0.3,
+      "communication": 0.3,
+      "strategic": 0.2
+    },
+    "enneagram": {
+      "1": 0.35,
+      "6": 0.25,
+      "8": 0.15
+    }
+  },
+  {
+    "id": "prof-117",
+    "title": "Sosyal Güvenlik Denetmeni",
+    "category": "Kamu",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 0,
+      "I": 3,
+      "A": 0,
+      "S": 1,
+      "E": 2,
+      "C": 4
+    },
+    "mbtiIdeal": {
+      "ei": -0.05,
+      "sn": -0.1,
+      "tf": 0.45,
+      "jp": -0.45
+    },
+    "values": {
+      "security": 0.35,
+      "achievement": 0.3,
+      "growth": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 4,
+      "K": 1
+    },
+    "strengths": {
+      "analytical": 0.4,
+      "discipline": 0.3,
+      "focus": 0.15
+    },
+    "enneagram": {
+      "1": 0.3,
+      "6": 0.25,
+      "5": 0.2
+    }
+  },
+  {
+    "id": "prof-118",
+    "title": "İç Denetçi",
+    "category": "Kamu",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 0,
+      "I": 3,
+      "A": 0,
+      "S": 1,
+      "E": 2,
+      "C": 4
+    },
+    "mbtiIdeal": {
+      "ei": -0.05,
+      "sn": -0.1,
+      "tf": 0.45,
+      "jp": -0.45
+    },
+    "values": {
+      "security": 0.35,
+      "achievement": 0.3,
+      "growth": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 4,
+      "K": 1
+    },
+    "strengths": {
+      "analytical": 0.4,
+      "discipline": 0.3,
+      "focus": 0.15
+    },
+    "enneagram": {
+      "1": 0.3,
+      "6": 0.25,
+      "5": 0.2
+    }
+  },
+  {
+    "id": "prof-119",
+    "title": "Araştırma Görevlisi",
+    "category": "Bilim",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 2,
+      "I": 5,
+      "A": 1,
+      "S": 0,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.35,
+      "sn": 0.35,
+      "tf": 0.35,
+      "jp": -0.1
+    },
+    "values": {
+      "growth": 0.35,
+      "purpose": 0.25,
+      "autonomy": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 4,
+      "K": 2
+    },
+    "strengths": {
+      "analytical": 0.45,
+      "learning": 0.3,
+      "focus": 0.15
+    },
+    "enneagram": {
+      "5": 0.5,
+      "4": 0.15,
+      "1": 0.12
+    }
+  },
+  {
+    "id": "prof-120",
+    "title": "Laboratuvar Araştırmacısı",
+    "category": "Bilim",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 2,
+      "I": 5,
+      "A": 1,
+      "S": 0,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.35,
+      "sn": 0.35,
+      "tf": 0.35,
+      "jp": -0.1
+    },
+    "values": {
+      "growth": 0.35,
+      "purpose": 0.25,
+      "autonomy": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 4,
+      "K": 2
+    },
+    "strengths": {
+      "analytical": 0.45,
+      "learning": 0.3,
+      "focus": 0.15
+    },
+    "enneagram": {
+      "5": 0.5,
+      "4": 0.15,
+      "1": 0.12
+    }
+  },
+  {
+    "id": "prof-121",
+    "title": "Kimyager",
+    "category": "Bilim",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 2,
+      "I": 5,
+      "A": 1,
+      "S": 0,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.35,
+      "sn": 0.35,
+      "tf": 0.35,
+      "jp": -0.1
+    },
+    "values": {
+      "growth": 0.35,
+      "purpose": 0.25,
+      "autonomy": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 4,
+      "K": 2
+    },
+    "strengths": {
+      "analytical": 0.45,
+      "learning": 0.3,
+      "focus": 0.15
+    },
+    "enneagram": {
+      "5": 0.5,
+      "4": 0.15,
+      "1": 0.12
+    }
+  },
+  {
+    "id": "prof-122",
+    "title": "Biyolog",
+    "category": "Bilim",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 2,
+      "I": 5,
+      "A": 1,
+      "S": 0,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.35,
+      "sn": 0.35,
+      "tf": 0.35,
+      "jp": -0.1
+    },
+    "values": {
+      "growth": 0.35,
+      "purpose": 0.25,
+      "autonomy": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 4,
+      "K": 2
+    },
+    "strengths": {
+      "analytical": 0.45,
+      "learning": 0.3,
+      "focus": 0.15
+    },
+    "enneagram": {
+      "5": 0.5,
+      "4": 0.15,
+      "1": 0.12
+    }
+  },
+  {
+    "id": "prof-123",
+    "title": "Fizikçi",
+    "category": "Bilim",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 2,
+      "I": 5,
+      "A": 1,
+      "S": 0,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.35,
+      "sn": 0.35,
+      "tf": 0.35,
+      "jp": -0.1
+    },
+    "values": {
+      "growth": 0.35,
+      "purpose": 0.25,
+      "autonomy": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 4,
+      "K": 2
+    },
+    "strengths": {
+      "analytical": 0.45,
+      "learning": 0.3,
+      "focus": 0.15
+    },
+    "enneagram": {
+      "5": 0.5,
+      "4": 0.15,
+      "1": 0.12
+    }
+  },
+  {
+    "id": "prof-124",
+    "title": "Matematikçi",
+    "category": "Bilim",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 2,
+      "I": 5,
+      "A": 1,
+      "S": 0,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.35,
+      "sn": 0.35,
+      "tf": 0.35,
+      "jp": -0.1
+    },
+    "values": {
+      "growth": 0.35,
+      "purpose": 0.25,
+      "autonomy": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 4,
+      "K": 2
+    },
+    "strengths": {
+      "analytical": 0.45,
+      "learning": 0.3,
+      "focus": 0.15
+    },
+    "enneagram": {
+      "5": 0.5,
+      "4": 0.15,
+      "1": 0.12
+    }
+  },
+  {
+    "id": "prof-125",
+    "title": "İstatistikçi",
+    "category": "Bilim",
+    "futureOutlook": 9,
+    "holland": {
+      "R": 2,
+      "I": 5,
+      "A": 1,
+      "S": 0,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.35,
+      "sn": 0.35,
+      "tf": 0.35,
+      "jp": -0.1
+    },
+    "values": {
+      "growth": 0.35,
+      "purpose": 0.25,
+      "autonomy": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 4,
+      "K": 2
+    },
+    "strengths": {
+      "analytical": 0.45,
+      "learning": 0.3,
+      "focus": 0.15
+    },
+    "enneagram": {
+      "5": 0.5,
+      "4": 0.15,
+      "1": 0.12
+    }
+  },
+  {
+    "id": "prof-126",
+    "title": "Meteorolog",
+    "category": "Bilim",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 2,
+      "I": 5,
+      "A": 1,
+      "S": 0,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.35,
+      "sn": 0.35,
+      "tf": 0.35,
+      "jp": -0.1
+    },
+    "values": {
+      "growth": 0.35,
+      "purpose": 0.25,
+      "autonomy": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 4,
+      "K": 2
+    },
+    "strengths": {
+      "analytical": 0.45,
+      "learning": 0.3,
+      "focus": 0.15
+    },
+    "enneagram": {
+      "5": 0.5,
+      "4": 0.15,
+      "1": 0.12
+    }
+  },
+  {
+    "id": "prof-127",
+    "title": "Coğrafyacı",
+    "category": "Bilim",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 2,
+      "I": 5,
+      "A": 1,
+      "S": 0,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.35,
+      "sn": 0.35,
+      "tf": 0.35,
+      "jp": -0.1
+    },
+    "values": {
+      "growth": 0.35,
+      "purpose": 0.25,
+      "autonomy": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 4,
+      "K": 2
+    },
+    "strengths": {
+      "analytical": 0.45,
+      "learning": 0.3,
+      "focus": 0.15
+    },
+    "enneagram": {
+      "5": 0.5,
+      "4": 0.15,
+      "1": 0.12
+    }
+  },
+  {
+    "id": "prof-128",
+    "title": "Arkeolog (kazı)",
+    "category": "Bilim",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 2,
+      "I": 5,
+      "A": 1,
+      "S": 0,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.35,
+      "sn": 0.35,
+      "tf": 0.35,
+      "jp": -0.1
+    },
+    "values": {
+      "growth": 0.35,
+      "purpose": 0.25,
+      "autonomy": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 4,
+      "K": 2
+    },
+    "strengths": {
+      "analytical": 0.45,
+      "learning": 0.3,
+      "focus": 0.15
+    },
+    "enneagram": {
+      "5": 0.5,
+      "4": 0.15,
+      "1": 0.12
+    }
+  },
+  {
+    "id": "prof-129",
+    "title": "Restoratör",
+    "category": "Bilim",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 1,
+      "I": 1,
+      "A": 5,
+      "S": 1,
+      "E": 2,
+      "C": 0
+    },
+    "mbtiIdeal": {
+      "ei": 0.2,
+      "sn": 0.45,
+      "tf": -0.05,
+      "jp": 0.35
+    },
+    "values": {
+      "creativity": 0.4,
+      "recognition": 0.2,
+      "variety": 0.25
+    },
+    "vark": {
+      "V": 4,
+      "A": 2,
+      "R": 1,
+      "K": 2
+    },
+    "strengths": {
+      "creative": 0.45,
+      "communication": 0.25,
+      "adaptability": 0.15
+    },
+    "enneagram": {
+      "4": 0.35,
+      "7": 0.3,
+      "3": 0.2
+    }
+  },
+  {
+    "id": "prof-130",
+    "title": "Patoloji Uzmanı",
+    "category": "Bilim",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 2,
+      "I": 3,
+      "A": 0,
+      "S": 4,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.1,
+      "sn": 0.1,
+      "tf": 0.15,
+      "jp": -0.35
+    },
+    "values": {
+      "service": 0.4,
+      "security": 0.2,
+      "purpose": 0.25
+    },
+    "vark": {
+      "V": 2,
+      "A": 2,
+      "R": 3,
+      "K": 3
+    },
+    "strengths": {
+      "empathy": 0.35,
+      "discipline": 0.25,
+      "analytical": 0.2
+    },
+    "enneagram": {
+      "2": 0.35,
+      "6": 0.25,
+      "1": 0.15
+    }
+  },
+  {
+    "id": "prof-131",
+    "title": "Farmakolog",
+    "category": "Bilim",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 2,
+      "I": 5,
+      "A": 1,
+      "S": 0,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.35,
+      "sn": 0.35,
+      "tf": 0.35,
+      "jp": -0.1
+    },
+    "values": {
+      "growth": 0.35,
+      "purpose": 0.25,
+      "autonomy": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 4,
+      "K": 2
+    },
+    "strengths": {
+      "analytical": 0.45,
+      "learning": 0.3,
+      "focus": 0.15
+    },
+    "enneagram": {
+      "5": 0.5,
+      "4": 0.15,
+      "1": 0.12
+    }
+  },
+  {
+    "id": "prof-132",
+    "title": "Genetik Danışman",
+    "category": "Bilim",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 1,
+      "I": 2,
+      "A": 0,
+      "S": 4,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.05,
+      "sn": 0.0,
+      "tf": -0.1,
+      "jp": -0.2
+    },
+    "values": {
+      "service": 0.45,
+      "community": 0.2,
+      "balance": 0.15
+    },
+    "vark": {
+      "V": 2,
+      "A": 3,
+      "R": 2,
+      "K": 2
+    },
+    "strengths": {
+      "empathy": 0.4,
+      "communication": 0.25,
+      "relationship": 0.2
+    },
+    "enneagram": {
+      "2": 0.4,
+      "9": 0.2
+    }
+  },
+  {
+    "id": "prof-133",
+    "title": "Grafik Tasarımcı",
+    "category": "Sanat",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 1,
+      "I": 1,
+      "A": 5,
+      "S": 1,
+      "E": 2,
+      "C": 0
+    },
+    "mbtiIdeal": {
+      "ei": 0.2,
+      "sn": 0.45,
+      "tf": -0.05,
+      "jp": 0.35
+    },
+    "values": {
+      "creativity": 0.4,
+      "recognition": 0.2,
+      "variety": 0.25
+    },
+    "vark": {
+      "V": 4,
+      "A": 2,
+      "R": 1,
+      "K": 2
+    },
+    "strengths": {
+      "creative": 0.45,
+      "communication": 0.25,
+      "adaptability": 0.15
+    },
+    "enneagram": {
+      "4": 0.35,
+      "7": 0.3,
+      "3": 0.2
+    }
+  },
+  {
+    "id": "prof-134",
+    "title": "UX Tasarımcısı",
+    "category": "Sanat",
+    "futureOutlook": 9,
+    "holland": {
+      "R": 1,
+      "I": 2,
+      "A": 4,
+      "S": 1,
+      "E": 1,
+      "C": 1
+    },
+    "mbtiIdeal": {
+      "ei": 0.1,
+      "sn": 0.35,
+      "tf": 0.0,
+      "jp": 0.25
+    },
+    "values": {
+      "creativity": 0.35,
+      "autonomy": 0.25,
+      "variety": 0.2
+    },
+    "vark": {
+      "V": 4,
+      "A": 1,
+      "R": 1,
+      "K": 2
+    },
+    "strengths": {
+      "creative": 0.35,
+      "communication": 0.2,
+      "learning": 0.2
+    },
+    "enneagram": {
+      "4": 0.35,
+      "7": 0.25,
+      "3": 0.15
+    }
+  },
+  {
+    "id": "prof-135",
+    "title": "UI Tasarımcısı",
+    "category": "Sanat",
+    "futureOutlook": 9,
+    "holland": {
+      "R": 1,
+      "I": 2,
+      "A": 4,
+      "S": 1,
+      "E": 1,
+      "C": 1
+    },
+    "mbtiIdeal": {
+      "ei": 0.1,
+      "sn": 0.35,
+      "tf": 0.0,
+      "jp": 0.25
+    },
+    "values": {
+      "creativity": 0.35,
+      "autonomy": 0.25,
+      "variety": 0.2
+    },
+    "vark": {
+      "V": 4,
+      "A": 1,
+      "R": 1,
+      "K": 2
+    },
+    "strengths": {
+      "creative": 0.35,
+      "communication": 0.2,
+      "learning": 0.2
+    },
+    "enneagram": {
+      "4": 0.35,
+      "7": 0.25,
+      "3": 0.15
+    }
+  },
+  {
+    "id": "prof-136",
+    "title": "Ürün Tasarımcısı",
+    "category": "Sanat",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 1,
+      "I": 1,
+      "A": 5,
+      "S": 1,
+      "E": 2,
+      "C": 0
+    },
+    "mbtiIdeal": {
+      "ei": 0.2,
+      "sn": 0.45,
+      "tf": -0.05,
+      "jp": 0.35
+    },
+    "values": {
+      "creativity": 0.4,
+      "recognition": 0.2,
+      "variety": 0.25
+    },
+    "vark": {
+      "V": 4,
+      "A": 2,
+      "R": 1,
+      "K": 2
+    },
+    "strengths": {
+      "creative": 0.45,
+      "communication": 0.25,
+      "adaptability": 0.15
+    },
+    "enneagram": {
+      "4": 0.35,
+      "7": 0.3,
+      "3": 0.2
+    }
+  },
+  {
+    "id": "prof-137",
+    "title": "İç Mimar",
+    "category": "Sanat",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 1,
+      "I": 1,
+      "A": 5,
+      "S": 1,
+      "E": 2,
+      "C": 0
+    },
+    "mbtiIdeal": {
+      "ei": 0.2,
+      "sn": 0.45,
+      "tf": -0.05,
+      "jp": 0.35
+    },
+    "values": {
+      "creativity": 0.4,
+      "recognition": 0.2,
+      "variety": 0.25
+    },
+    "vark": {
+      "V": 4,
+      "A": 2,
+      "R": 1,
+      "K": 2
+    },
+    "strengths": {
+      "creative": 0.45,
+      "communication": 0.25,
+      "adaptability": 0.15
+    },
+    "enneagram": {
+      "4": 0.35,
+      "7": 0.3,
+      "3": 0.2
+    }
+  },
+  {
+    "id": "prof-138",
+    "title": "Mimar",
+    "category": "Sanat",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 1,
+      "S": 0,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": 0.15,
+      "tf": 0.45,
+      "jp": -0.25
+    },
+    "values": {
+      "achievement": 0.3,
+      "growth": 0.25,
+      "security": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 3,
+      "K": 3
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "execution": 0.3,
+      "discipline": 0.2
+    },
+    "enneagram": {
+      "1": 0.25,
+      "5": 0.3,
+      "6": 0.2
+    }
+  },
+  {
+    "id": "prof-139",
+    "title": "Şehir Plancı",
+    "category": "Sanat",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 1,
+      "S": 0,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": 0.15,
+      "tf": 0.45,
+      "jp": -0.25
+    },
+    "values": {
+      "achievement": 0.3,
+      "growth": 0.25,
+      "security": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 3,
+      "K": 3
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "execution": 0.3,
+      "discipline": 0.2
+    },
+    "enneagram": {
+      "1": 0.25,
+      "5": 0.3,
+      "6": 0.2
+    }
+  },
+  {
+    "id": "prof-140",
+    "title": "Fotoğrafçı",
+    "category": "Sanat",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 1,
+      "I": 1,
+      "A": 5,
+      "S": 1,
+      "E": 2,
+      "C": 0
+    },
+    "mbtiIdeal": {
+      "ei": 0.2,
+      "sn": 0.45,
+      "tf": -0.05,
+      "jp": 0.35
+    },
+    "values": {
+      "creativity": 0.4,
+      "recognition": 0.2,
+      "variety": 0.25
+    },
+    "vark": {
+      "V": 4,
+      "A": 2,
+      "R": 1,
+      "K": 2
+    },
+    "strengths": {
+      "creative": 0.45,
+      "communication": 0.25,
+      "adaptability": 0.15
+    },
+    "enneagram": {
+      "4": 0.35,
+      "7": 0.3,
+      "3": 0.2
+    }
+  },
+  {
+    "id": "prof-141",
+    "title": "Video Prodüksiyon Uzmanı",
+    "category": "Sanat",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 1,
+      "I": 1,
+      "A": 5,
+      "S": 1,
+      "E": 2,
+      "C": 0
+    },
+    "mbtiIdeal": {
+      "ei": 0.2,
+      "sn": 0.45,
+      "tf": -0.05,
+      "jp": 0.35
+    },
+    "values": {
+      "creativity": 0.4,
+      "recognition": 0.2,
+      "variety": 0.25
+    },
+    "vark": {
+      "V": 4,
+      "A": 2,
+      "R": 1,
+      "K": 2
+    },
+    "strengths": {
+      "creative": 0.45,
+      "communication": 0.25,
+      "adaptability": 0.15
+    },
+    "enneagram": {
+      "4": 0.35,
+      "7": 0.3,
+      "3": 0.2
+    }
+  },
+  {
+    "id": "prof-142",
+    "title": "Sinematograf",
+    "category": "Sanat",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 1,
+      "I": 1,
+      "A": 5,
+      "S": 1,
+      "E": 2,
+      "C": 0
+    },
+    "mbtiIdeal": {
+      "ei": 0.2,
+      "sn": 0.45,
+      "tf": -0.05,
+      "jp": 0.35
+    },
+    "values": {
+      "creativity": 0.4,
+      "recognition": 0.2,
+      "variety": 0.25
+    },
+    "vark": {
+      "V": 4,
+      "A": 2,
+      "R": 1,
+      "K": 2
+    },
+    "strengths": {
+      "creative": 0.45,
+      "communication": 0.25,
+      "adaptability": 0.15
+    },
+    "enneagram": {
+      "4": 0.35,
+      "7": 0.3,
+      "3": 0.2
+    }
+  },
+  {
+    "id": "prof-143",
+    "title": "Editör",
+    "category": "Sanat",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 1,
+      "I": 1,
+      "A": 5,
+      "S": 1,
+      "E": 2,
+      "C": 0
+    },
+    "mbtiIdeal": {
+      "ei": 0.2,
+      "sn": 0.45,
+      "tf": -0.05,
+      "jp": 0.35
+    },
+    "values": {
+      "creativity": 0.4,
+      "recognition": 0.2,
+      "variety": 0.25
+    },
+    "vark": {
+      "V": 4,
+      "A": 2,
+      "R": 1,
+      "K": 2
+    },
+    "strengths": {
+      "creative": 0.45,
+      "communication": 0.25,
+      "adaptability": 0.15
+    },
+    "enneagram": {
+      "4": 0.35,
+      "7": 0.3,
+      "3": 0.2
+    }
+  },
+  {
+    "id": "prof-144",
+    "title": "Muhabir",
+    "category": "Sanat",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 1,
+      "I": 1,
+      "A": 5,
+      "S": 1,
+      "E": 2,
+      "C": 0
+    },
+    "mbtiIdeal": {
+      "ei": 0.2,
+      "sn": 0.45,
+      "tf": -0.05,
+      "jp": 0.35
+    },
+    "values": {
+      "creativity": 0.4,
+      "recognition": 0.2,
+      "variety": 0.25
+    },
+    "vark": {
+      "V": 4,
+      "A": 2,
+      "R": 1,
+      "K": 2
+    },
+    "strengths": {
+      "creative": 0.45,
+      "communication": 0.25,
+      "adaptability": 0.15
+    },
+    "enneagram": {
+      "4": 0.35,
+      "7": 0.3,
+      "3": 0.2
+    }
+  },
+  {
+    "id": "prof-145",
+    "title": "İçerik Üreticisi",
+    "category": "Sanat",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 1,
+      "I": 1,
+      "A": 5,
+      "S": 1,
+      "E": 2,
+      "C": 0
+    },
+    "mbtiIdeal": {
+      "ei": 0.2,
+      "sn": 0.45,
+      "tf": -0.05,
+      "jp": 0.35
+    },
+    "values": {
+      "creativity": 0.4,
+      "recognition": 0.2,
+      "variety": 0.25
+    },
+    "vark": {
+      "V": 4,
+      "A": 2,
+      "R": 1,
+      "K": 2
+    },
+    "strengths": {
+      "creative": 0.45,
+      "communication": 0.25,
+      "adaptability": 0.15
+    },
+    "enneagram": {
+      "4": 0.35,
+      "7": 0.3,
+      "3": 0.2
+    }
+  },
+  {
+    "id": "prof-146",
+    "title": "Sosyal Medya Uzmanı",
+    "category": "Sanat",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 0,
+      "I": 1,
+      "A": 1,
+      "S": 2,
+      "E": 4,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.55,
+      "sn": 0.2,
+      "tf": 0.15,
+      "jp": 0.2
+    },
+    "values": {
+      "achievement": 0.35,
+      "recognition": 0.25,
+      "adventure": 0.15
+    },
+    "vark": {
+      "V": 2,
+      "A": 4,
+      "R": 1,
+      "K": 1
+    },
+    "strengths": {
+      "communication": 0.35,
+      "leadership": 0.25,
+      "adaptability": 0.2
+    },
+    "enneagram": {
+      "3": 0.4,
+      "8": 0.25,
+      "7": 0.15
+    }
+  },
+  {
+    "id": "prof-147",
+    "title": "Ses Mühendisi",
+    "category": "Sanat",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 1,
+      "I": 1,
+      "A": 5,
+      "S": 1,
+      "E": 2,
+      "C": 0
+    },
+    "mbtiIdeal": {
+      "ei": 0.2,
+      "sn": 0.45,
+      "tf": -0.05,
+      "jp": 0.35
+    },
+    "values": {
+      "creativity": 0.4,
+      "recognition": 0.2,
+      "variety": 0.25
+    },
+    "vark": {
+      "V": 4,
+      "A": 2,
+      "R": 1,
+      "K": 2
+    },
+    "strengths": {
+      "creative": 0.45,
+      "communication": 0.25,
+      "adaptability": 0.15
+    },
+    "enneagram": {
+      "4": 0.35,
+      "7": 0.3,
+      "3": 0.2
+    }
+  },
+  {
+    "id": "prof-148",
+    "title": "Müzisyen (profesyonel)",
+    "category": "Sanat",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 1,
+      "I": 1,
+      "A": 5,
+      "S": 1,
+      "E": 2,
+      "C": 0
+    },
+    "mbtiIdeal": {
+      "ei": 0.2,
+      "sn": 0.45,
+      "tf": -0.05,
+      "jp": 0.35
+    },
+    "values": {
+      "creativity": 0.4,
+      "recognition": 0.2,
+      "variety": 0.25
+    },
+    "vark": {
+      "V": 4,
+      "A": 2,
+      "R": 1,
+      "K": 2
+    },
+    "strengths": {
+      "creative": 0.45,
+      "communication": 0.25,
+      "adaptability": 0.15
+    },
+    "enneagram": {
+      "4": 0.35,
+      "7": 0.3,
+      "3": 0.2
+    }
+  },
+  {
+    "id": "prof-149",
+    "title": "Oyuncu",
+    "category": "Sanat",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 1,
+      "I": 1,
+      "A": 5,
+      "S": 1,
+      "E": 2,
+      "C": 0
+    },
+    "mbtiIdeal": {
+      "ei": 0.2,
+      "sn": 0.45,
+      "tf": -0.05,
+      "jp": 0.35
+    },
+    "values": {
+      "creativity": 0.4,
+      "recognition": 0.2,
+      "variety": 0.25
+    },
+    "vark": {
+      "V": 4,
+      "A": 2,
+      "R": 1,
+      "K": 2
+    },
+    "strengths": {
+      "creative": 0.45,
+      "communication": 0.25,
+      "adaptability": 0.15
+    },
+    "enneagram": {
+      "4": 0.35,
+      "7": 0.3,
+      "3": 0.2
+    }
+  },
+  {
+    "id": "prof-150",
+    "title": "Reklam Metin Yazarı",
+    "category": "Sanat",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 1,
+      "I": 1,
+      "A": 5,
+      "S": 1,
+      "E": 2,
+      "C": 0
+    },
+    "mbtiIdeal": {
+      "ei": 0.2,
+      "sn": 0.45,
+      "tf": -0.05,
+      "jp": 0.35
+    },
+    "values": {
+      "creativity": 0.4,
+      "recognition": 0.2,
+      "variety": 0.25
+    },
+    "vark": {
+      "V": 4,
+      "A": 2,
+      "R": 1,
+      "K": 2
+    },
+    "strengths": {
+      "creative": 0.45,
+      "communication": 0.25,
+      "adaptability": 0.15
+    },
+    "enneagram": {
+      "4": 0.35,
+      "7": 0.3,
+      "3": 0.2
+    }
+  },
+  {
+    "id": "prof-151",
+    "title": "Otel Müdürü",
+    "category": "Turizm",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 1,
+      "I": 0,
+      "A": 1,
+      "S": 3,
+      "E": 3,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.35,
+      "sn": -0.1,
+      "tf": -0.1,
+      "jp": 0.15
+    },
+    "values": {
+      "community": 0.25,
+      "variety": 0.2,
+      "balance": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 3,
+      "R": 1,
+      "K": 3
+    },
+    "strengths": {
+      "communication": 0.3,
+      "adaptability": 0.3,
+      "relationship": 0.25
+    },
+    "enneagram": {
+      "2": 0.3,
+      "7": 0.25,
+      "9": 0.2
+    }
+  },
+  {
+    "id": "prof-152",
+    "title": "Turizm Rehberi",
+    "category": "Turizm",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 1,
+      "I": 0,
+      "A": 1,
+      "S": 3,
+      "E": 3,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.35,
+      "sn": -0.1,
+      "tf": -0.1,
+      "jp": 0.15
+    },
+    "values": {
+      "community": 0.25,
+      "variety": 0.2,
+      "balance": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 3,
+      "R": 1,
+      "K": 3
+    },
+    "strengths": {
+      "communication": 0.3,
+      "adaptability": 0.3,
+      "relationship": 0.25
+    },
+    "enneagram": {
+      "2": 0.3,
+      "7": 0.25,
+      "9": 0.2
+    }
+  },
+  {
+    "id": "prof-153",
+    "title": "Uçuş Görevlisi",
+    "category": "Turizm",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 1,
+      "I": 0,
+      "A": 1,
+      "S": 3,
+      "E": 3,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.35,
+      "sn": -0.1,
+      "tf": -0.1,
+      "jp": 0.15
+    },
+    "values": {
+      "community": 0.25,
+      "variety": 0.2,
+      "balance": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 3,
+      "R": 1,
+      "K": 3
+    },
+    "strengths": {
+      "communication": 0.3,
+      "adaptability": 0.3,
+      "relationship": 0.25
+    },
+    "enneagram": {
+      "2": 0.3,
+      "7": 0.25,
+      "9": 0.2
+    }
+  },
+  {
+    "id": "prof-154",
+    "title": "Pilot",
+    "category": "Turizm",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 1,
+      "S": 0,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": 0.15,
+      "tf": 0.45,
+      "jp": -0.25
+    },
+    "values": {
+      "achievement": 0.3,
+      "growth": 0.25,
+      "security": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 3,
+      "K": 3
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "execution": 0.3,
+      "discipline": 0.2
+    },
+    "enneagram": {
+      "1": 0.25,
+      "5": 0.3,
+      "6": 0.2
+    }
+  },
+  {
+    "id": "prof-155",
+    "title": "Gastronomi Şefi",
+    "category": "Turizm",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 1,
+      "I": 0,
+      "A": 1,
+      "S": 3,
+      "E": 3,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.35,
+      "sn": -0.1,
+      "tf": -0.1,
+      "jp": 0.15
+    },
+    "values": {
+      "community": 0.25,
+      "variety": 0.2,
+      "balance": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 3,
+      "R": 1,
+      "K": 3
+    },
+    "strengths": {
+      "communication": 0.3,
+      "adaptability": 0.3,
+      "relationship": 0.25
+    },
+    "enneagram": {
+      "2": 0.3,
+      "7": 0.25,
+      "9": 0.2
+    }
+  },
+  {
+    "id": "prof-156",
+    "title": "Pastacı",
+    "category": "Turizm",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 1,
+      "I": 0,
+      "A": 1,
+      "S": 3,
+      "E": 3,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.35,
+      "sn": -0.1,
+      "tf": -0.1,
+      "jp": 0.15
+    },
+    "values": {
+      "community": 0.25,
+      "variety": 0.2,
+      "balance": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 3,
+      "R": 1,
+      "K": 3
+    },
+    "strengths": {
+      "communication": 0.3,
+      "adaptability": 0.3,
+      "relationship": 0.25
+    },
+    "enneagram": {
+      "2": 0.3,
+      "7": 0.25,
+      "9": 0.2
+    }
+  },
+  {
+    "id": "prof-157",
+    "title": "Etkinlik Yöneticisi",
+    "category": "Turizm",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 0,
+      "I": 1,
+      "A": 1,
+      "S": 2,
+      "E": 4,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.55,
+      "sn": 0.2,
+      "tf": 0.15,
+      "jp": 0.2
+    },
+    "values": {
+      "achievement": 0.35,
+      "recognition": 0.25,
+      "adventure": 0.15
+    },
+    "vark": {
+      "V": 2,
+      "A": 4,
+      "R": 1,
+      "K": 1
+    },
+    "strengths": {
+      "communication": 0.35,
+      "leadership": 0.25,
+      "adaptability": 0.2
+    },
+    "enneagram": {
+      "3": 0.4,
+      "8": 0.25,
+      "7": 0.15
+    }
+  },
+  {
+    "id": "prof-158",
+    "title": "Müşteri Deneyimi Uzmanı",
+    "category": "Turizm",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 0,
+      "I": 2,
+      "A": 1,
+      "S": 4,
+      "E": 2,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.25,
+      "sn": 0.1,
+      "tf": -0.2,
+      "jp": 0.05
+    },
+    "values": {
+      "service": 0.25,
+      "community": 0.25,
+      "growth": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 3,
+      "R": 2,
+      "K": 2
+    },
+    "strengths": {
+      "empathy": 0.35,
+      "communication": 0.3,
+      "relationship": 0.25
+    },
+    "enneagram": {
+      "2": 0.35,
+      "9": 0.25,
+      "6": 0.15
+    }
+  },
+  {
+    "id": "prof-159",
+    "title": "Çağrı Merkezi Uzmanı",
+    "category": "Turizm",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 1,
+      "I": 0,
+      "A": 1,
+      "S": 3,
+      "E": 3,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.35,
+      "sn": -0.1,
+      "tf": -0.1,
+      "jp": 0.15
+    },
+    "values": {
+      "community": 0.25,
+      "variety": 0.2,
+      "balance": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 3,
+      "R": 1,
+      "K": 3
+    },
+    "strengths": {
+      "communication": 0.3,
+      "adaptability": 0.3,
+      "relationship": 0.25
+    },
+    "enneagram": {
+      "2": 0.3,
+      "7": 0.25,
+      "9": 0.2
+    }
+  },
+  {
+    "id": "prof-160",
+    "title": "Barista",
+    "category": "Turizm",
+    "futureOutlook": 5,
+    "holland": {
+      "R": 1,
+      "I": 0,
+      "A": 1,
+      "S": 3,
+      "E": 3,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.35,
+      "sn": -0.1,
+      "tf": -0.1,
+      "jp": 0.15
+    },
+    "values": {
+      "community": 0.25,
+      "variety": 0.2,
+      "balance": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 3,
+      "R": 1,
+      "K": 3
+    },
+    "strengths": {
+      "communication": 0.3,
+      "adaptability": 0.3,
+      "relationship": 0.25
+    },
+    "enneagram": {
+      "2": 0.3,
+      "7": 0.25,
+      "9": 0.2
+    }
+  },
+  {
+    "id": "prof-161",
+    "title": "Spor Antrenörü",
+    "category": "Turizm",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 0,
+      "I": 3,
+      "A": 2,
+      "S": 4,
+      "E": 2,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.25,
+      "sn": 0.15,
+      "tf": -0.15,
+      "jp": 0.0
+    },
+    "values": {
+      "purpose": 0.35,
+      "service": 0.3,
+      "community": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 4,
+      "R": 2,
+      "K": 2
+    },
+    "strengths": {
+      "communication": 0.35,
+      "empathy": 0.25,
+      "relationship": 0.2
+    },
+    "enneagram": {
+      "2": 0.35,
+      "9": 0.2,
+      "1": 0.15
+    }
+  },
+  {
+    "id": "prof-162",
+    "title": "Kişisel Antrenör",
+    "category": "Turizm",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 1,
+      "I": 2,
+      "A": 0,
+      "S": 4,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.05,
+      "sn": 0.0,
+      "tf": -0.1,
+      "jp": -0.2
+    },
+    "values": {
+      "service": 0.45,
+      "community": 0.2,
+      "balance": 0.15
+    },
+    "vark": {
+      "V": 2,
+      "A": 3,
+      "R": 2,
+      "K": 2
+    },
+    "strengths": {
+      "empathy": 0.4,
+      "communication": 0.25,
+      "relationship": 0.2
+    },
+    "enneagram": {
+      "2": 0.4,
+      "9": 0.2
+    }
+  },
+  {
+    "id": "prof-163",
+    "title": "Güzellik Uzmanı",
+    "category": "Turizm",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 1,
+      "I": 0,
+      "A": 1,
+      "S": 3,
+      "E": 3,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.35,
+      "sn": -0.1,
+      "tf": -0.1,
+      "jp": 0.15
+    },
+    "values": {
+      "community": 0.25,
+      "variety": 0.2,
+      "balance": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 3,
+      "R": 1,
+      "K": 3
+    },
+    "strengths": {
+      "communication": 0.3,
+      "adaptability": 0.3,
+      "relationship": 0.25
+    },
+    "enneagram": {
+      "2": 0.3,
+      "7": 0.25,
+      "9": 0.2
+    }
+  },
+  {
+    "id": "prof-164",
+    "title": "Kuaför",
+    "category": "Turizm",
+    "futureOutlook": 5,
+    "holland": {
+      "R": 1,
+      "I": 0,
+      "A": 1,
+      "S": 3,
+      "E": 3,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.35,
+      "sn": -0.1,
+      "tf": -0.1,
+      "jp": 0.15
+    },
+    "values": {
+      "community": 0.25,
+      "variety": 0.2,
+      "balance": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 3,
+      "R": 1,
+      "K": 3
+    },
+    "strengths": {
+      "communication": 0.3,
+      "adaptability": 0.3,
+      "relationship": 0.25
+    },
+    "enneagram": {
+      "2": 0.3,
+      "7": 0.25,
+      "9": 0.2
+    }
+  },
+  {
+    "id": "prof-165",
+    "title": "Üretim Şefi",
+    "category": "Üretim",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 4,
+      "I": 1,
+      "A": 0,
+      "S": 1,
+      "E": 1,
+      "C": 4
+    },
+    "mbtiIdeal": {
+      "ei": -0.15,
+      "sn": -0.2,
+      "tf": 0.35,
+      "jp": -0.4
+    },
+    "values": {
+      "security": 0.25,
+      "achievement": 0.25,
+      "growth": 0.15
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 2,
+      "K": 4
+    },
+    "strengths": {
+      "execution": 0.35,
+      "discipline": 0.3,
+      "analytical": 0.15
+    },
+    "enneagram": {
+      "1": 0.3,
+      "6": 0.25,
+      "8": 0.15
+    }
+  },
+  {
+    "id": "prof-166",
+    "title": "CNC Operatörü",
+    "category": "Üretim",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 4,
+      "I": 1,
+      "A": 0,
+      "S": 1,
+      "E": 1,
+      "C": 4
+    },
+    "mbtiIdeal": {
+      "ei": -0.15,
+      "sn": -0.2,
+      "tf": 0.35,
+      "jp": -0.4
+    },
+    "values": {
+      "security": 0.25,
+      "achievement": 0.25,
+      "growth": 0.15
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 2,
+      "K": 4
+    },
+    "strengths": {
+      "execution": 0.35,
+      "discipline": 0.3,
+      "analytical": 0.15
+    },
+    "enneagram": {
+      "1": 0.3,
+      "6": 0.25,
+      "8": 0.15
+    }
+  },
+  {
+    "id": "prof-167",
+    "title": "Kaynakçı",
+    "category": "Üretim",
+    "futureOutlook": 6,
+    "holland": {
+      "R": 4,
+      "I": 1,
+      "A": 0,
+      "S": 1,
+      "E": 1,
+      "C": 4
+    },
+    "mbtiIdeal": {
+      "ei": -0.15,
+      "sn": -0.2,
+      "tf": 0.35,
+      "jp": -0.4
+    },
+    "values": {
+      "security": 0.25,
+      "achievement": 0.25,
+      "growth": 0.15
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 2,
+      "K": 4
+    },
+    "strengths": {
+      "execution": 0.35,
+      "discipline": 0.3,
+      "analytical": 0.15
+    },
+    "enneagram": {
+      "1": 0.3,
+      "6": 0.25,
+      "8": 0.15
+    }
+  },
+  {
+    "id": "prof-168",
+    "title": "Elektrik Teknisyeni",
+    "category": "Üretim",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 1,
+      "S": 0,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": 0.15,
+      "tf": 0.45,
+      "jp": -0.25
+    },
+    "values": {
+      "achievement": 0.3,
+      "growth": 0.25,
+      "security": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 3,
+      "K": 3
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "execution": 0.3,
+      "discipline": 0.2
+    },
+    "enneagram": {
+      "1": 0.25,
+      "5": 0.3,
+      "6": 0.2
+    }
+  },
+  {
+    "id": "prof-169",
+    "title": "Bakım Teknisyeni",
+    "category": "Üretim",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 4,
+      "I": 1,
+      "A": 0,
+      "S": 1,
+      "E": 1,
+      "C": 4
+    },
+    "mbtiIdeal": {
+      "ei": -0.15,
+      "sn": -0.2,
+      "tf": 0.35,
+      "jp": -0.4
+    },
+    "values": {
+      "security": 0.25,
+      "achievement": 0.25,
+      "growth": 0.15
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 2,
+      "K": 4
+    },
+    "strengths": {
+      "execution": 0.35,
+      "discipline": 0.3,
+      "analytical": 0.15
+    },
+    "enneagram": {
+      "1": 0.3,
+      "6": 0.25,
+      "8": 0.15
+    }
+  },
+  {
+    "id": "prof-170",
+    "title": "Lojistik Planlamacı",
+    "category": "Üretim",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 4,
+      "I": 1,
+      "A": 0,
+      "S": 1,
+      "E": 1,
+      "C": 4
+    },
+    "mbtiIdeal": {
+      "ei": -0.15,
+      "sn": -0.2,
+      "tf": 0.35,
+      "jp": -0.4
+    },
+    "values": {
+      "security": 0.25,
+      "achievement": 0.25,
+      "growth": 0.15
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 2,
+      "K": 4
+    },
+    "strengths": {
+      "execution": 0.35,
+      "discipline": 0.3,
+      "analytical": 0.15
+    },
+    "enneagram": {
+      "1": 0.3,
+      "6": 0.25,
+      "8": 0.15
+    }
+  },
+  {
+    "id": "prof-171",
+    "title": "Depo Yöneticisi",
+    "category": "Üretim",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 4,
+      "I": 1,
+      "A": 0,
+      "S": 1,
+      "E": 1,
+      "C": 4
+    },
+    "mbtiIdeal": {
+      "ei": -0.15,
+      "sn": -0.2,
+      "tf": 0.35,
+      "jp": -0.4
+    },
+    "values": {
+      "security": 0.25,
+      "achievement": 0.25,
+      "growth": 0.15
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 2,
+      "K": 4
+    },
+    "strengths": {
+      "execution": 0.35,
+      "discipline": 0.3,
+      "analytical": 0.15
+    },
+    "enneagram": {
+      "1": 0.3,
+      "6": 0.25,
+      "8": 0.15
+    }
+  },
+  {
+    "id": "prof-172",
+    "title": "Kurye Operasyon Yöneticisi",
+    "category": "Üretim",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 4,
+      "I": 1,
+      "A": 0,
+      "S": 1,
+      "E": 1,
+      "C": 4
+    },
+    "mbtiIdeal": {
+      "ei": -0.15,
+      "sn": -0.2,
+      "tf": 0.35,
+      "jp": -0.4
+    },
+    "values": {
+      "security": 0.25,
+      "achievement": 0.25,
+      "growth": 0.15
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 2,
+      "K": 4
+    },
+    "strengths": {
+      "execution": 0.35,
+      "discipline": 0.3,
+      "analytical": 0.15
+    },
+    "enneagram": {
+      "1": 0.3,
+      "6": 0.25,
+      "8": 0.15
+    }
+  },
+  {
+    "id": "prof-173",
+    "title": "Kalite Kontrol Uzmanı",
+    "category": "Üretim",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 4,
+      "I": 1,
+      "A": 0,
+      "S": 1,
+      "E": 1,
+      "C": 4
+    },
+    "mbtiIdeal": {
+      "ei": -0.15,
+      "sn": -0.2,
+      "tf": 0.35,
+      "jp": -0.4
+    },
+    "values": {
+      "security": 0.25,
+      "achievement": 0.25,
+      "growth": 0.15
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 2,
+      "K": 4
+    },
+    "strengths": {
+      "execution": 0.35,
+      "discipline": 0.3,
+      "analytical": 0.15
+    },
+    "enneagram": {
+      "1": 0.3,
+      "6": 0.25,
+      "8": 0.15
+    }
+  },
+  {
+    "id": "prof-174",
+    "title": "İş Güvenliği Uzmanı",
+    "category": "Üretim",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 3,
+      "I": 2,
+      "A": 0,
+      "S": 2,
+      "E": 2,
+      "C": 3
+    },
+    "mbtiIdeal": {
+      "ei": 0.0,
+      "sn": -0.15,
+      "tf": 0.4,
+      "jp": -0.45
+    },
+    "values": {
+      "security": 0.4,
+      "purpose": 0.2,
+      "achievement": 0.15
+    },
+    "vark": {
+      "V": 2,
+      "A": 2,
+      "R": 2,
+      "K": 3
+    },
+    "strengths": {
+      "discipline": 0.35,
+      "execution": 0.25,
+      "strategic": 0.2
+    },
+    "enneagram": {
+      "6": 0.35,
+      "8": 0.25,
+      "1": 0.2
+    }
+  },
+  {
+    "id": "prof-175",
+    "title": "Çevre ve Atık Uzmanı",
+    "category": "Üretim",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 0,
+      "S": 1,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.25,
+      "sn": 0.0,
+      "tf": 0.2,
+      "jp": -0.15
+    },
+    "values": {
+      "purpose": 0.3,
+      "balance": 0.2,
+      "community": 0.15
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 3,
+      "K": 4
+    },
+    "strengths": {
+      "analytical": 0.25,
+      "execution": 0.25,
+      "learning": 0.2
+    },
+    "enneagram": {
+      "9": 0.25,
+      "5": 0.2,
+      "1": 0.15
+    }
+  },
+  {
+    "id": "prof-176",
+    "title": "Enerji Verimliliği Uzmanı",
+    "category": "Üretim",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 1,
+      "S": 0,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": 0.15,
+      "tf": 0.45,
+      "jp": -0.25
+    },
+    "values": {
+      "achievement": 0.3,
+      "growth": 0.25,
+      "security": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 3,
+      "K": 3
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "execution": 0.3,
+      "discipline": 0.2
+    },
+    "enneagram": {
+      "1": 0.25,
+      "5": 0.3,
+      "6": 0.2
+    }
+  },
+  {
+    "id": "prof-177",
+    "title": "Otomasyon Teknisyeni",
+    "category": "Üretim",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 1,
+      "S": 0,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": 0.15,
+      "tf": 0.45,
+      "jp": -0.25
+    },
+    "values": {
+      "achievement": 0.3,
+      "growth": 0.25,
+      "security": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 3,
+      "K": 3
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "execution": 0.3,
+      "discipline": 0.2
+    },
+    "enneagram": {
+      "1": 0.25,
+      "5": 0.3,
+      "6": 0.2
+    }
+  },
+  {
+    "id": "prof-178",
+    "title": "Robotik Teknisyeni",
+    "category": "Üretim",
+    "futureOutlook": 9,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 1,
+      "S": 0,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": 0.15,
+      "tf": 0.45,
+      "jp": -0.25
+    },
+    "values": {
+      "achievement": 0.3,
+      "growth": 0.25,
+      "security": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 3,
+      "K": 3
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "execution": 0.3,
+      "discipline": 0.2
+    },
+    "enneagram": {
+      "1": 0.25,
+      "5": 0.3,
+      "6": 0.2
+    }
+  },
+  {
+    "id": "prof-179",
+    "title": "Tekstil Operatörü",
+    "category": "Üretim",
+    "futureOutlook": 5,
+    "holland": {
+      "R": 4,
+      "I": 1,
+      "A": 0,
+      "S": 1,
+      "E": 1,
+      "C": 4
+    },
+    "mbtiIdeal": {
+      "ei": -0.15,
+      "sn": -0.2,
+      "tf": 0.35,
+      "jp": -0.4
+    },
+    "values": {
+      "security": 0.25,
+      "achievement": 0.25,
+      "growth": 0.15
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 2,
+      "K": 4
+    },
+    "strengths": {
+      "execution": 0.35,
+      "discipline": 0.3,
+      "analytical": 0.15
+    },
+    "enneagram": {
+      "1": 0.3,
+      "6": 0.25,
+      "8": 0.15
+    }
+  },
+  {
+    "id": "prof-180",
+    "title": "Gıda Üretim Sorumlusu",
+    "category": "Üretim",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 4,
+      "I": 1,
+      "A": 0,
+      "S": 1,
+      "E": 1,
+      "C": 4
+    },
+    "mbtiIdeal": {
+      "ei": -0.15,
+      "sn": -0.2,
+      "tf": 0.35,
+      "jp": -0.4
+    },
+    "values": {
+      "security": 0.25,
+      "achievement": 0.25,
+      "growth": 0.15
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 2,
+      "K": 4
+    },
+    "strengths": {
+      "execution": 0.35,
+      "discipline": 0.3,
+      "analytical": 0.15
+    },
+    "enneagram": {
+      "1": 0.3,
+      "6": 0.25,
+      "8": 0.15
+    }
+  },
+  {
+    "id": "prof-181",
+    "title": "Ziraat Mühendisi",
+    "category": "Tarım",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 0,
+      "S": 1,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.25,
+      "sn": 0.0,
+      "tf": 0.2,
+      "jp": -0.15
+    },
+    "values": {
+      "purpose": 0.3,
+      "balance": 0.2,
+      "community": 0.15
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 3,
+      "K": 4
+    },
+    "strengths": {
+      "analytical": 0.25,
+      "execution": 0.25,
+      "learning": 0.2
+    },
+    "enneagram": {
+      "9": 0.25,
+      "5": 0.2,
+      "1": 0.15
+    }
+  },
+  {
+    "id": "prof-182",
+    "title": "Orman Mühendisi",
+    "category": "Tarım",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 0,
+      "S": 1,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.25,
+      "sn": 0.0,
+      "tf": 0.2,
+      "jp": -0.15
+    },
+    "values": {
+      "purpose": 0.3,
+      "balance": 0.2,
+      "community": 0.15
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 3,
+      "K": 4
+    },
+    "strengths": {
+      "analytical": 0.25,
+      "execution": 0.25,
+      "learning": 0.2
+    },
+    "enneagram": {
+      "9": 0.25,
+      "5": 0.2,
+      "1": 0.15
+    }
+  },
+  {
+    "id": "prof-183",
+    "title": "Su Ürünleri Mühendisi",
+    "category": "Tarım",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 0,
+      "S": 1,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.25,
+      "sn": 0.0,
+      "tf": 0.2,
+      "jp": -0.15
+    },
+    "values": {
+      "purpose": 0.3,
+      "balance": 0.2,
+      "community": 0.15
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 3,
+      "K": 4
+    },
+    "strengths": {
+      "analytical": 0.25,
+      "execution": 0.25,
+      "learning": 0.2
+    },
+    "enneagram": {
+      "9": 0.25,
+      "5": 0.2,
+      "1": 0.15
+    }
+  },
+  {
+    "id": "prof-184",
+    "title": "Peyzaj Mimarı",
+    "category": "Tarım",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 1,
+      "I": 1,
+      "A": 5,
+      "S": 1,
+      "E": 2,
+      "C": 0
+    },
+    "mbtiIdeal": {
+      "ei": 0.2,
+      "sn": 0.45,
+      "tf": -0.05,
+      "jp": 0.35
+    },
+    "values": {
+      "creativity": 0.4,
+      "recognition": 0.2,
+      "variety": 0.25
+    },
+    "vark": {
+      "V": 4,
+      "A": 2,
+      "R": 1,
+      "K": 2
+    },
+    "strengths": {
+      "creative": 0.45,
+      "communication": 0.25,
+      "adaptability": 0.15
+    },
+    "enneagram": {
+      "4": 0.35,
+      "7": 0.3,
+      "3": 0.2
+    }
+  },
+  {
+    "id": "prof-185",
+    "title": "Sürdürülebilirlik Uzmanı",
+    "category": "Tarım",
+    "futureOutlook": 9,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 0,
+      "S": 1,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.25,
+      "sn": 0.0,
+      "tf": 0.2,
+      "jp": -0.15
+    },
+    "values": {
+      "purpose": 0.3,
+      "balance": 0.2,
+      "community": 0.15
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 3,
+      "K": 4
+    },
+    "strengths": {
+      "analytical": 0.25,
+      "execution": 0.25,
+      "learning": 0.2
+    },
+    "enneagram": {
+      "9": 0.25,
+      "5": 0.2,
+      "1": 0.15
+    }
+  },
+  {
+    "id": "prof-186",
+    "title": "İklim Uzmanı",
+    "category": "Tarım",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 2,
+      "I": 5,
+      "A": 1,
+      "S": 0,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.35,
+      "sn": 0.35,
+      "tf": 0.35,
+      "jp": -0.1
+    },
+    "values": {
+      "growth": 0.35,
+      "purpose": 0.25,
+      "autonomy": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 4,
+      "K": 2
+    },
+    "strengths": {
+      "analytical": 0.45,
+      "learning": 0.3,
+      "focus": 0.15
+    },
+    "enneagram": {
+      "5": 0.5,
+      "4": 0.15,
+      "1": 0.12
+    }
+  },
+  {
+    "id": "prof-187",
+    "title": "Toprak Bilimci",
+    "category": "Tarım",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 2,
+      "I": 5,
+      "A": 1,
+      "S": 0,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.35,
+      "sn": 0.35,
+      "tf": 0.35,
+      "jp": -0.1
+    },
+    "values": {
+      "growth": 0.35,
+      "purpose": 0.25,
+      "autonomy": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 4,
+      "K": 2
+    },
+    "strengths": {
+      "analytical": 0.45,
+      "learning": 0.3,
+      "focus": 0.15
+    },
+    "enneagram": {
+      "5": 0.5,
+      "4": 0.15,
+      "1": 0.12
+    }
+  },
+  {
+    "id": "prof-188",
+    "title": "Botanik Araştırmacısı",
+    "category": "Tarım",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 2,
+      "I": 5,
+      "A": 1,
+      "S": 0,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.35,
+      "sn": 0.35,
+      "tf": 0.35,
+      "jp": -0.1
+    },
+    "values": {
+      "growth": 0.35,
+      "purpose": 0.25,
+      "autonomy": 0.2
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 4,
+      "K": 2
+    },
+    "strengths": {
+      "analytical": 0.45,
+      "learning": 0.3,
+      "focus": 0.15
+    },
+    "enneagram": {
+      "5": 0.5,
+      "4": 0.15,
+      "1": 0.12
+    }
+  },
+  {
+    "id": "prof-189",
+    "title": "Hayvancılık Uzmanı",
+    "category": "Tarım",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 0,
+      "S": 1,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.25,
+      "sn": 0.0,
+      "tf": 0.2,
+      "jp": -0.15
+    },
+    "values": {
+      "purpose": 0.3,
+      "balance": 0.2,
+      "community": 0.15
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 3,
+      "K": 4
+    },
+    "strengths": {
+      "analytical": 0.25,
+      "execution": 0.25,
+      "learning": 0.2
+    },
+    "enneagram": {
+      "9": 0.25,
+      "5": 0.2,
+      "1": 0.15
+    }
+  },
+  {
+    "id": "prof-190",
+    "title": "Gıda Güvenliği Denetçisi",
+    "category": "Tarım",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 2,
+      "I": 3,
+      "A": 0,
+      "S": 4,
+      "E": 0,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.1,
+      "sn": 0.1,
+      "tf": 0.15,
+      "jp": -0.35
+    },
+    "values": {
+      "service": 0.4,
+      "security": 0.2,
+      "purpose": 0.25
+    },
+    "vark": {
+      "V": 2,
+      "A": 2,
+      "R": 3,
+      "K": 3
+    },
+    "strengths": {
+      "empathy": 0.35,
+      "discipline": 0.25,
+      "analytical": 0.2
+    },
+    "enneagram": {
+      "2": 0.35,
+      "6": 0.25,
+      "1": 0.15
+    }
+  },
+  {
+    "id": "prof-191",
+    "title": "Şantiye Şefi",
+    "category": "İnşaat",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 1,
+      "S": 0,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": 0.15,
+      "tf": 0.45,
+      "jp": -0.25
+    },
+    "values": {
+      "achievement": 0.3,
+      "growth": 0.25,
+      "security": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 3,
+      "K": 3
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "execution": 0.3,
+      "discipline": 0.2
+    },
+    "enneagram": {
+      "1": 0.25,
+      "5": 0.3,
+      "6": 0.2
+    }
+  },
+  {
+    "id": "prof-192",
+    "title": "Mimarlık Teknikeri",
+    "category": "İnşaat",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 1,
+      "S": 0,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": 0.15,
+      "tf": 0.45,
+      "jp": -0.25
+    },
+    "values": {
+      "achievement": 0.3,
+      "growth": 0.25,
+      "security": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 3,
+      "K": 3
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "execution": 0.3,
+      "discipline": 0.2
+    },
+    "enneagram": {
+      "1": 0.25,
+      "5": 0.3,
+      "6": 0.2
+    }
+  },
+  {
+    "id": "prof-193",
+    "title": "Quantity Surveyor",
+    "category": "İnşaat",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 0,
+      "I": 3,
+      "A": 0,
+      "S": 1,
+      "E": 2,
+      "C": 4
+    },
+    "mbtiIdeal": {
+      "ei": -0.05,
+      "sn": -0.1,
+      "tf": 0.45,
+      "jp": -0.45
+    },
+    "values": {
+      "security": 0.35,
+      "achievement": 0.3,
+      "growth": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 4,
+      "K": 1
+    },
+    "strengths": {
+      "analytical": 0.4,
+      "discipline": 0.3,
+      "focus": 0.15
+    },
+    "enneagram": {
+      "1": 0.3,
+      "6": 0.25,
+      "5": 0.2
+    }
+  },
+  {
+    "id": "prof-194",
+    "title": "Emlak Değerleme Uzmanı",
+    "category": "İnşaat",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 0,
+      "I": 3,
+      "A": 0,
+      "S": 1,
+      "E": 2,
+      "C": 4
+    },
+    "mbtiIdeal": {
+      "ei": -0.05,
+      "sn": -0.1,
+      "tf": 0.45,
+      "jp": -0.45
+    },
+    "values": {
+      "security": 0.35,
+      "achievement": 0.3,
+      "growth": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 4,
+      "K": 1
+    },
+    "strengths": {
+      "analytical": 0.4,
+      "discipline": 0.3,
+      "focus": 0.15
+    },
+    "enneagram": {
+      "1": 0.3,
+      "6": 0.25,
+      "5": 0.2
+    }
+  },
+  {
+    "id": "prof-195",
+    "title": "Gayrimenkul Danışmanı",
+    "category": "İnşaat",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 0,
+      "I": 1,
+      "A": 1,
+      "S": 2,
+      "E": 4,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": 0.55,
+      "sn": 0.2,
+      "tf": 0.15,
+      "jp": 0.2
+    },
+    "values": {
+      "achievement": 0.35,
+      "recognition": 0.25,
+      "adventure": 0.15
+    },
+    "vark": {
+      "V": 2,
+      "A": 4,
+      "R": 1,
+      "K": 1
+    },
+    "strengths": {
+      "communication": 0.35,
+      "leadership": 0.25,
+      "adaptability": 0.2
+    },
+    "enneagram": {
+      "3": 0.4,
+      "8": 0.25,
+      "7": 0.15
+    }
+  },
+  {
+    "id": "prof-196",
+    "title": "Şehir ve Bölge Planlamacı",
+    "category": "İnşaat",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 1,
+      "S": 0,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": 0.15,
+      "tf": 0.45,
+      "jp": -0.25
+    },
+    "values": {
+      "achievement": 0.3,
+      "growth": 0.25,
+      "security": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 3,
+      "K": 3
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "execution": 0.3,
+      "discipline": 0.2
+    },
+    "enneagram": {
+      "1": 0.25,
+      "5": 0.3,
+      "6": 0.2
+    }
+  },
+  {
+    "id": "prof-197",
+    "title": "Ulaşım Planlamacı",
+    "category": "İnşaat",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 1,
+      "S": 0,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": 0.15,
+      "tf": 0.45,
+      "jp": -0.25
+    },
+    "values": {
+      "achievement": 0.3,
+      "growth": 0.25,
+      "security": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 3,
+      "K": 3
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "execution": 0.3,
+      "discipline": 0.2
+    },
+    "enneagram": {
+      "1": 0.25,
+      "5": 0.3,
+      "6": 0.2
+    }
+  },
+  {
+    "id": "prof-198",
+    "title": "Jeoteknik Teknikeri",
+    "category": "İnşaat",
+    "futureOutlook": 7,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 1,
+      "S": 0,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": 0.15,
+      "tf": 0.45,
+      "jp": -0.25
+    },
+    "values": {
+      "achievement": 0.3,
+      "growth": 0.25,
+      "security": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 3,
+      "K": 3
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "execution": 0.3,
+      "discipline": 0.2
+    },
+    "enneagram": {
+      "1": 0.25,
+      "5": 0.3,
+      "6": 0.2
+    }
+  },
+  {
+    "id": "prof-199",
+    "title": "İş Makinesi Operatörü",
+    "category": "İnşaat",
+    "futureOutlook": 5,
+    "holland": {
+      "R": 4,
+      "I": 1,
+      "A": 0,
+      "S": 1,
+      "E": 1,
+      "C": 4
+    },
+    "mbtiIdeal": {
+      "ei": -0.15,
+      "sn": -0.2,
+      "tf": 0.35,
+      "jp": -0.4
+    },
+    "values": {
+      "security": 0.25,
+      "achievement": 0.25,
+      "growth": 0.15
+    },
+    "vark": {
+      "V": 2,
+      "A": 1,
+      "R": 2,
+      "K": 4
+    },
+    "strengths": {
+      "execution": 0.35,
+      "discipline": 0.3,
+      "analytical": 0.15
+    },
+    "enneagram": {
+      "1": 0.3,
+      "6": 0.25,
+      "8": 0.15
+    }
+  },
+  {
+    "id": "prof-200",
+    "title": "Elektrik Proje Mühendisi",
+    "category": "İnşaat",
+    "futureOutlook": 8,
+    "holland": {
+      "R": 4,
+      "I": 3,
+      "A": 1,
+      "S": 0,
+      "E": 1,
+      "C": 2
+    },
+    "mbtiIdeal": {
+      "ei": -0.2,
+      "sn": 0.15,
+      "tf": 0.45,
+      "jp": -0.25
+    },
+    "values": {
+      "achievement": 0.3,
+      "growth": 0.25,
+      "security": 0.15
+    },
+    "vark": {
+      "V": 3,
+      "A": 1,
+      "R": 3,
+      "K": 3
+    },
+    "strengths": {
+      "analytical": 0.35,
+      "execution": 0.3,
+      "discipline": 0.2
+    },
+    "enneagram": {
+      "1": 0.25,
+      "5": 0.3,
+      "6": 0.2
+    }
+  }
+]

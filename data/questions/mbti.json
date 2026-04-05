@@ -1,0 +1,1098 @@
+[
+  {
+    "id": "mbti-1",
+    "text": "Kalabalık bir etkinlikte bir süre sonra kendinizi nasıl hissedersiniz?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Enerjim yükselir; yeni insanlarla tanışmak beni canlandırır",
+        "dimensions": {
+          "E": 1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Güzeldir ama ara ara sessiz bir köşeye çekilme ihtiyacı duyarım",
+        "dimensions": {
+          "E": 0.5,
+          "I": 0.5
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Çoğunlukla dinleyici kalırım; derin sohbetleri küçük grupta tercih ederim",
+        "dimensions": {
+          "I": 0.5
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Uzun süre kalabalıkta kalmak beni yorar; erken ayrılmak isterim",
+        "dimensions": {
+          "I": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "mbti-2",
+    "text": "Telefonla uzun süre konuşmak hakkında ne düşünürsünüz?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Rahatım; düşüncelerimi konuşarak netleştiririm",
+        "dimensions": {
+          "E": 1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "İş veya yakınlar için olur; gereksiz uzatmam",
+        "dimensions": {
+          "E": 0.5
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Mesaj veya e-postayı tercih ederim",
+        "dimensions": {
+          "I": 0.5
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Telefon beni gerginleştirir; mümkünse ertelerim",
+        "dimensions": {
+          "I": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "mbti-3",
+    "text": "Yeni bir işe veya okula başlarken ilk haftada?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Ortama hızlı uyum sağlar, birçok kişiyle tanışırım",
+        "dimensions": {
+          "E": 1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Gözlemleyip yavaş yavaş açılırım",
+        "dimensions": {
+          "I": 0.5
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Bir-iki yakın kişiyle derin bağ kurmayı hedeflerim",
+        "dimensions": {
+          "I": 0.5
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Kendi alanımda çalışıp minimum sosyalleşmeyi tercih ederim",
+        "dimensions": {
+          "I": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "mbti-4",
+    "text": "Bir problemi çözerken size en çok ne yardımcı olur?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Somut örnekler, geçmişte işe yarayan yöntemler",
+        "dimensions": {
+          "S": 1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Önce veriler, sonra genel bir çerçeve",
+        "dimensions": {
+          "S": 0.5
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Önce olası senaryolar ve bağlantılar",
+        "dimensions": {
+          "N": 0.5
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Yeni modeller, metaforlar ve ‘ya şöyle olsaydı?’ düşüncesi",
+        "dimensions": {
+          "N": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "mbti-5",
+    "text": "Talimat alırken hangisi sizin için daha nettir?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Adım adım yazılı liste veya kontrol listesi",
+        "dimensions": {
+          "S": 1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Gösterilen örnek ve kısa açıklama",
+        "dimensions": {
+          "S": 0.5
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Genel amaç; detayı kendim tamamlarım",
+        "dimensions": {
+          "N": 0.5
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Sadece yön; yol boyunca şekillendiririm",
+        "dimensions": {
+          "N": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "mbti-6",
+    "text": "Hata yaptığınız bir raporu düzeltmeniz gerekiyor. İlk bakışta?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Hangi satırda neyin yanlış olduğuna odaklanırım",
+        "dimensions": {
+          "S": 1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Hem detay hem raporun genel tutarlılığına bakarım",
+        "dimensions": {
+          "S": 0.5,
+          "N": 0.5
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Bu hata süreçte nerede üretilmiş olabilir diye düşünürüm",
+        "dimensions": {
+          "N": 0.5
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Bu hata sistemin veya yaklaşımın göstergesi olabilir derim",
+        "dimensions": {
+          "N": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "mbti-7",
+    "text": "Bir arkadaşınız duygusal bir konuda destek istiyor. İlk tepkiniz?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Durumu mantıklı çerçevede analiz edip seçenekleri sıralarım",
+        "dimensions": {
+          "T": 1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Önce ne olduğunu netleştiririm, sonra çözüm öneririm",
+        "dimensions": {
+          "T": 0.5
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Önce nasıl hissettiğini anlamaya çalışırım",
+        "dimensions": {
+          "F": 0.5
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Yanında olduğumu hissettirmek ve duygularını doğrulamak önceliğimdir",
+        "dimensions": {
+          "F": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "mbti-8",
+    "text": "Performans geri bildiriminde hangisi size daha yapıcı gelir?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Net kriterler ve gelişim için somut maddeler",
+        "dimensions": {
+          "T": 1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Eleştiri + güçlü yönlerin dengesi",
+        "dimensions": {
+          "T": 0.5,
+          "F": 0.5
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Üslup yumuşak, motive edici bir dil",
+        "dimensions": {
+          "F": 0.5
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "İlişkimizin bozulmayacağından emin olmak isterim",
+        "dimensions": {
+          "F": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "mbti-9",
+    "text": "Ekip içinde anlaşmazlık çıktı. Sizin rolünüz genelde?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Haklılık ve verimlilik için tarafsız karşılaştırma yaparım",
+        "dimensions": {
+          "T": 1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Her iki tarafın argümanını masaya koyarım",
+        "dimensions": {
+          "T": 0.5
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Tarafların duygularını yatıştırmaya çalışırım",
+        "dimensions": {
+          "F": 0.5
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Uzlaşma ve ‘herkes kazanır’ çözümü ararım",
+        "dimensions": {
+          "F": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "mbti-10",
+    "text": "Büyük bir proje için takvim nasıl olmalı?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Aşamalar ve ara teslim tarihleri net yazılı olsun",
+        "dimensions": {
+          "J": 1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Ana kilometre taşları belli; detay esnek kalsın",
+        "dimensions": {
+          "J": 0.5
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Genel hedef yeterli; yol boyunca revize ederiz",
+        "dimensions": {
+          "P": 0.5
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Sıkı takvim beni boğar; akış içinde ilerlemek isterim",
+        "dimensions": {
+          "P": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "mbti-11",
+    "text": "Evde düzen konusunda?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Her şeyin yeri bellidir; dağınıklık dikkatimi dağıtır",
+        "dimensions": {
+          "J": 1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Genel olarak düzenlidir; ara sıra dağınıklık olur",
+        "dimensions": {
+          "J": 0.5
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Yaratıcı kaos derim; bulduğum sürece sorun yok",
+        "dimensions": {
+          "P": 0.5
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Son anda toparlarım; sürekli düzen baskı hissettirir",
+        "dimensions": {
+          "P": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "mbti-12",
+    "text": "Tatil planı yaparken?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Günlük program, rezervasyonlar ve rota hazır olsun",
+        "dimensions": {
+          "J": 1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Uçak ve konaklama net; geri kalan esnek",
+        "dimensions": {
+          "J": 0.5
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Sadece varış noktası belli; gerisi yolda",
+        "dimensions": {
+          "P": 0.5
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Spontane keşif; plan yapmak heyecanı öldürür",
+        "dimensions": {
+          "P": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "mbti-13",
+    "text": "Toplantıda fikrinizi nasıl sunmayı tercih edersiniz?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Düşünürken sesli düşünür, anında tepki veririm",
+        "dimensions": {
+          "E": 1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Kısa not alır, sıram gelince net konuşurum",
+        "dimensions": {
+          "E": 0.5
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Önce dinlerim; sonra toparlanmış cümlelerle konuşurum",
+        "dimensions": {
+          "I": 0.5
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Mümkünse yazılı özet verir veya toplantı sonrası e-posta atarım",
+        "dimensions": {
+          "I": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "mbti-14",
+    "text": "Yeni bir hobi öğrenirken?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Kurs veya eğitmenle adım adım ilerlerim",
+        "dimensions": {
+          "S": 1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Video ve kitap karışık kullanırım",
+        "dimensions": {
+          "S": 0.5
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Kendi kendime deneme-yanılma ile keşfederim",
+        "dimensions": {
+          "N": 0.5
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Konunun felsefesini ve farklı yorumlarını araştırırım",
+        "dimensions": {
+          "N": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "mbti-15",
+    "text": "Bir sunumda soru sorulduğunda cevabınız?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Elimdeki veriye dayanarak hızlıca yanıtlarım",
+        "dimensions": {
+          "S": 1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Kısa cevap verir, gerekirse sonra detay gönderirim",
+        "dimensions": {
+          "S": 0.5
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Soruyu daha geniş çerçeveye bağlayarak cevaplarım",
+        "dimensions": {
+          "N": 0.5
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Paralel örnekler ve uzun vadeli etkiler üzerinden konuşurum",
+        "dimensions": {
+          "N": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "mbti-16",
+    "text": "İş teklifini değerlendirirken öncelik?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Maaş, yan haklar ve somut koşullar",
+        "dimensions": {
+          "S": 1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Somutlar + takım kültürü",
+        "dimensions": {
+          "S": 0.5
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Kariyer yolu ve şirketin vizyonu",
+        "dimensions": {
+          "N": 0.5
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Bu rolün 5-10 yılda hayatıma katacağı anlam",
+        "dimensions": {
+          "N": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "mbti-17",
+    "text": "Bir arkadaşınız sizden ‘dürüst ol’ dediğinde?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Doğrudan ve net söylemek en iyisidir",
+        "dimensions": {
+          "T": 1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Gerçeği söylerim ama incitmemeye dikkat ederim",
+        "dimensions": {
+          "T": 0.5
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Önce onun hazır olup olmadığını hissederim",
+        "dimensions": {
+          "F": 0.5
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Sert gerçeği yumuşatarak veya zamanlayarak iletirim",
+        "dimensions": {
+          "F": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "mbti-18",
+    "text": "Kurallar ve politikalar hakkında?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Herkes için aynı kural adil olanıdır",
+        "dimensions": {
+          "T": 1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Kural + istisna durumları birlikte değerlendirilir",
+        "dimensions": {
+          "T": 0.5,
+          "F": 0.5
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Özel durumlar insani değerlendirilmeli",
+        "dimensions": {
+          "F": 0.5
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "İnsanların özel koşulları önce düşünülmeli",
+        "dimensions": {
+          "F": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "mbti-19",
+    "text": "Son teslim öncesi gece?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "İş bitmiş, sadece son kontrol yaparım",
+        "dimensions": {
+          "J": 1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Çoğunu bitirmiş, ufak düzeltmeler kalır",
+        "dimensions": {
+          "J": 0.5
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Önemli kısımlar biter, detaylar yarın",
+        "dimensions": {
+          "P": 0.5
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Baskı altında en iyi performansı gösteririm",
+        "dimensions": {
+          "P": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "mbti-20",
+    "text": "Günlük görev listesi kullanır mısınız?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Evet; tamamlananları işaretlemek keyif verir",
+        "dimensions": {
+          "J": 1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Haftalık planım var; günlük esnek",
+        "dimensions": {
+          "J": 0.5
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Aklımda tutarım; unutursam hatırlatıcı kullanırım",
+        "dimensions": {
+          "P": 0.5
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Listeler beni sıkıcı hissettirir",
+        "dimensions": {
+          "P": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "mbti-21",
+    "text": "Alışveriş yaparken?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Listeyle girer, hedefe yönelirim",
+        "dimensions": {
+          "J": 1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Liste + bir iki spontane ürün",
+        "dimensions": {
+          "J": 0.5
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Mağazada gezerken karar veririm",
+        "dimensions": {
+          "P": 0.5
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "İlham gelince alırım; plan yapmak zor gelir",
+        "dimensions": {
+          "P": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "mbti-22",
+    "text": "Sosyal medyada paylaşım?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Sık sık hikâye ve gönderi paylaşırım",
+        "dimensions": {
+          "E": 1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Ara sıra önemli anları paylaşırım",
+        "dimensions": {
+          "E": 0.5
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Çoğunlukla izler, nadiren paylaşırım",
+        "dimensions": {
+          "I": 0.5
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Profilim kapalı veya çok sınırlıdır",
+        "dimensions": {
+          "I": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "mbti-23",
+    "text": "Grup çalışmasında?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Fikir üretmek ve grubu harekete geçirmek isterim",
+        "dimensions": {
+          "E": 1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Hem konuşur hem dinlerim",
+        "dimensions": {
+          "E": 0.5
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Atanan kısmı sessizce en iyi şekilde yaparım",
+        "dimensions": {
+          "I": 0.5
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Mümkünse bireysel parça üzerinde çalışırım",
+        "dimensions": {
+          "I": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "mbti-24",
+    "text": "Yeni teknoloji aracı öğrenirken?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Kılavuzu okuyup menüleri tek tek denerim",
+        "dimensions": {
+          "S": 1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Hızlı başlangıç + dokunarak öğrenirim",
+        "dimensions": {
+          "S": 0.5
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Ne işe yarayacağını kavrayınca hızlanırım",
+        "dimensions": {
+          "N": 0.5
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Bu aracın ekosistemdeki yerini düşünürüm",
+        "dimensions": {
+          "N": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "mbti-25",
+    "text": "Bir film izlerken sizi daha çok ne tatmin eder?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Gerçekçi karakterler ve inandırıcı diyaloglar",
+        "dimensions": {
+          "S": 1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Hikâye tutarlı olsun yeter",
+        "dimensions": {
+          "S": 0.5
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Semboller ve açık uçlu yorum",
+        "dimensions": {
+          "N": 0.5
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Farklı dünyalar ve beklenmedik dönüşler",
+        "dimensions": {
+          "N": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "mbti-26",
+    "text": "Performansınız eleştirildiğinde iç sesiniz?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Nerede hata yaptım, nasıl düzeltirim?",
+        "dimensions": {
+          "T": 1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Eleştiriyi veri olarak alırım",
+        "dimensions": {
+          "T": 0.5
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Kendimi kötü hissedebilirim",
+        "dimensions": {
+          "F": 0.5
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Beni beğenmediler mi diye üzülürüm",
+        "dimensions": {
+          "F": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "mbti-27",
+    "text": "İş yerinde ‘adil’ ne demektir?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Aynı kriterler herkese uygulanır",
+        "dimensions": {
+          "T": 1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Kurallar + bağlam",
+        "dimensions": {
+          "T": 0.5
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "İhtiyaçlara göre destek farklılaşabilir",
+        "dimensions": {
+          "F": 0.5
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Herkesin duygusal güvenliği korunur",
+        "dimensions": {
+          "F": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "mbti-28",
+    "text": "Haftalık rutininiz?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Benzer saatlerde uyanır, planlı ilerlerim",
+        "dimensions": {
+          "J": 1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "İş günleri düzenli, hafta sonu esnek",
+        "dimensions": {
+          "J": 0.5
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Güne göre değişir; monotonluktan kaçınırım",
+        "dimensions": {
+          "P": 0.5
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Rutin beni boğar; çeşitlilik isterim",
+        "dimensions": {
+          "P": 1
+        }
+      }
+    ]
+  }
+]

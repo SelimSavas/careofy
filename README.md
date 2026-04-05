@@ -31,6 +31,18 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1. **PostgreSQL**: Üretim için SQLite kullanılmaz. [Neon](https://neon.tech), Supabase veya Vercel Postgres ile boş bir veritabanı oluştur; bağlantı dizesini kopyala (`?sslmode=require` genelde gerekir).
+2. **GitHub’a push**: Repoda uygulama `site/` altındaysa Vercel’de **Root Directory** = `site` seç.
+3. **Ortam değişkenleri** (Vercel → Project → Settings → Environment Variables), Production ve Preview için:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+| Değişken | Açıklama |
+|----------|----------|
+| `DATABASE_URL` | PostgreSQL connection string |
+| `NEXTAUTH_URL` | Dağıtım URL’in, örn. `https://proje-adi.vercel.app` |
+| `NEXTAUTH_SECRET` | `openssl rand -base64 32` ile üret |
+| `ANTHROPIC_API_KEY` | İsteğe bağlı; yoksa analiz mock rapora düşer |
+| `NEXT_PUBLIC_APP_URL` | Genelde `NEXTAUTH_URL` ile aynı |
+
+4. **İlk deploy**: `npm run build` sırasında `prisma migrate deploy` çalışır; tablolar oluşur.
+
+Yerel geliştirme: `.env` içinde `DATABASE_URL`’i PostgreSQL’e çevir, sonra `npx prisma migrate dev` (veya `deploy`) çalıştır. Eski SQLite `dev.db` artık kullanılmıyor.

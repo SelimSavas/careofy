@@ -1,0 +1,746 @@
+[
+  {
+    "id": "s-1",
+    "text": "Güçlü olduğunuzu düşündüğünüz alan?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "İnsanları motive ve ikna etmek",
+        "strengthKey": "communication"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Veriden anlam ve örüntü çıkarmak",
+        "strengthKey": "analytical"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Orijinal fikir ve çözüm üretmek",
+        "strengthKey": "creative"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Plan yapıp sonuçlandırmak",
+        "strengthKey": "execution"
+      }
+    ]
+  },
+  {
+    "id": "s-2",
+    "text": "Takımda sizi öne çıkaran?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Empati ve aktif dinleme",
+        "strengthKey": "empathy"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Uzun vadeli strateji kurma",
+        "strengthKey": "strategic"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Hızlı öğrenme ve adapte olma",
+        "strengthKey": "learning"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Detay ve titizlik",
+        "strengthKey": "discipline"
+      }
+    ]
+  },
+  {
+    "id": "s-3",
+    "text": "Zorlu görevde?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Sakin kalıp çözüm yolu bulmak",
+        "strengthKey": "adaptability"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Net liderlik ve karar",
+        "strengthKey": "leadership"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "İş birliği ve köprü kurma",
+        "strengthKey": "relationship"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Derin odak ve konsantrasyon",
+        "strengthKey": "focus"
+      }
+    ]
+  },
+  {
+    "id": "s-4",
+    "text": "Övgü aldığınızda genelde?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Yaratıcı çözüm için",
+        "strengthKey": "creative"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Zamanında ve eksiksiz teslim için",
+        "strengthKey": "execution"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "İletişim ve sunum için",
+        "strengthKey": "communication"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Analiz kalitesi için",
+        "strengthKey": "analytical"
+      }
+    ]
+  },
+  {
+    "id": "s-5",
+    "text": "Stres altında güçlenen yanınız?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Düzen ve önceliklendirme",
+        "strengthKey": "discipline"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Alternatif yollar üretmek",
+        "strengthKey": "creative"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Destek istemek veya vermek",
+        "strengthKey": "empathy"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Büyük resmi görmek",
+        "strengthKey": "strategic"
+      }
+    ]
+  },
+  {
+    "id": "s-6",
+    "text": "Öğrenme hızınız?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Kendi kendime hızlı",
+        "strengthKey": "learning"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Grup ve tartışmayla",
+        "strengthKey": "relationship"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Uygulayarak",
+        "strengthKey": "adaptability"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Sistematik adımlarla",
+        "strengthKey": "analytical"
+      }
+    ]
+  },
+  {
+    "id": "s-7",
+    "text": "İkna kabiliyetiniz?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Hikâye ve örneklerle",
+        "strengthKey": "communication"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Veri ve mantıkla",
+        "strengthKey": "analytical"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Güven ve ilişkiyle",
+        "strengthKey": "relationship"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Net hedef ve vizyonla",
+        "strengthKey": "leadership"
+      }
+    ]
+  },
+  {
+    "id": "s-8",
+    "text": "Gündelik rutinde?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Listeler ve takip",
+        "strengthKey": "discipline"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Esnek akış",
+        "strengthKey": "adaptability"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Önceliklendirme",
+        "strengthKey": "strategic"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Derin çalışma blokları",
+        "strengthKey": "focus"
+      }
+    ]
+  },
+  {
+    "id": "s-9",
+    "text": "Başkalarına ilham?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Vizyon çizmek",
+        "strengthKey": "leadership"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Pratik örnek vermek",
+        "strengthKey": "execution"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Dinleyip güçlendirmek",
+        "strengthKey": "empathy"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Yeni bakış açısı sunmak",
+        "strengthKey": "creative"
+      }
+    ]
+  },
+  {
+    "id": "s-10",
+    "text": "Hata yaptığınızda?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Kök neden analizi",
+        "strengthKey": "analytical"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Hızlı düzeltme planı",
+        "strengthKey": "execution"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Ekip ile paylaşmak",
+        "strengthKey": "relationship"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Ders çıkarıp ilerlemek",
+        "strengthKey": "learning"
+      }
+    ]
+  },
+  {
+    "id": "s-11",
+    "text": "İnovasyon sürecinde?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Kullanıcı ihtiyacı",
+        "strengthKey": "empathy"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Teknoloji ve trend",
+        "strengthKey": "learning"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Süreç iyileştirme",
+        "strengthKey": "discipline"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Cesur deney",
+        "strengthKey": "creative"
+      }
+    ]
+  },
+  {
+    "id": "s-12",
+    "text": "Kendinizi bir kelimeyle?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Odaklı",
+        "strengthKey": "focus"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Stratejist",
+        "strengthKey": "strategic"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Etkileyici",
+        "strengthKey": "communication"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Uyumlu",
+        "strengthKey": "adaptability"
+      }
+    ]
+  },
+  {
+    "id": "s-13",
+    "text": "Çoklu görevde?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Paralel ilerletirim",
+        "strengthKey": "adaptability"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Tek seferde bir iş, derinlemesine",
+        "strengthKey": "focus"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Öncelik matrisi kurarım",
+        "strengthKey": "strategic"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Ekiple bölüşürüm",
+        "strengthKey": "relationship"
+      }
+    ]
+  },
+  {
+    "id": "s-14",
+    "text": "Belirsizlikte?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Veri toplarım",
+        "strengthKey": "analytical"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "İçgüdüme güvenirim",
+        "strengthKey": "creative"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Danışırım",
+        "strengthKey": "relationship"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Küçük adımlarla denerim",
+        "strengthKey": "execution"
+      }
+    ]
+  },
+  {
+    "id": "s-15",
+    "text": "Toplantı sonrası?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Özet ve aksiyonları yazarım",
+        "strengthKey": "execution"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "İnsanların nabzını kontrol ederim",
+        "strengthKey": "empathy"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Stratejik sonuçları düşünürüm",
+        "strengthKey": "strategic"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Sunum slaytlarını iyileştiririm",
+        "strengthKey": "creative"
+      }
+    ]
+  },
+  {
+    "id": "s-16",
+    "text": "Geri bildirim verirken?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Net ve ölçülebilir",
+        "strengthKey": "analytical"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Yapıcı ve motive edici",
+        "strengthKey": "communication"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "İlişkiyi koruyarak",
+        "strengthKey": "relationship"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Standartlara referansla",
+        "strengthKey": "discipline"
+      }
+    ]
+  },
+  {
+    "id": "s-17",
+    "text": "Yeni rolde ilk 30 gün?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "İnsanları ve dinamikleri gözlemlerim",
+        "strengthKey": "empathy"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Hedefleri ve metrikleri öğrenirim",
+        "strengthKey": "strategic"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Hızlıca teslimat yaparım",
+        "strengthKey": "execution"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Sistem ve dokümantasyon okurum",
+        "strengthKey": "analytical"
+      }
+    ]
+  },
+  {
+    "id": "s-18",
+    "text": "Çatışma çözümünde?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Ortak zemin ararım",
+        "strengthKey": "relationship"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "İlke ve kuralları hatırlatırım",
+        "strengthKey": "discipline"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Uzlaşmacı çözüm üretirim",
+        "strengthKey": "creative"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Net karar gerekiyorsa alırım",
+        "strengthKey": "leadership"
+      }
+    ]
+  },
+  {
+    "id": "s-19",
+    "text": "Uzun süreli projede?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Disiplinli tempo korurum",
+        "strengthKey": "discipline"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Motivasyonu canlı tutarım",
+        "strengthKey": "communication"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Yön değişimlerine uyarım",
+        "strengthKey": "adaptability"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Derin iş blokları planlarım",
+        "strengthKey": "focus"
+      }
+    ]
+  },
+  {
+    "id": "s-20",
+    "text": "Veri ile hikâye çeliştiğinde?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Veriye güvenirim",
+        "strengthKey": "analytical"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "İnsan hikâyesini anlarım",
+        "strengthKey": "empathy"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Her ikisini birleştiren model kurarım",
+        "strengthKey": "strategic"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Yeni veri toplamayı öneririm",
+        "strengthKey": "learning"
+      }
+    ]
+  },
+  {
+    "id": "s-21",
+    "text": "Sunum stiliniz?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Görsel ve akıcı",
+        "strengthKey": "creative"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Mantık zinciri ve rakamlar",
+        "strengthKey": "analytical"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Etkileşim ve sorular",
+        "strengthKey": "communication"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Kısa ve net sonuç",
+        "strengthKey": "execution"
+      }
+    ]
+  },
+  {
+    "id": "s-22",
+    "text": "Öncelik çakışması?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Etki analizi yaparım",
+        "strengthKey": "strategic"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Stakeholder ile konuşurum",
+        "strengthKey": "relationship"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Acil olanı seçerim",
+        "strengthKey": "execution"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Kriter listesiyle karşılaştırırım",
+        "strengthKey": "analytical"
+      }
+    ]
+  },
+  {
+    "id": "s-23",
+    "text": "Öğrendiğiniz beceriyi öğretirken?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Adım adım gösteririm",
+        "strengthKey": "execution"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Büyük resmi anlatırım",
+        "strengthKey": "strategic"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Soru sorup birlikte keşfederiz",
+        "strengthKey": "learning"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Örneklerle hikâye anlatırım",
+        "strengthKey": "communication"
+      }
+    ]
+  },
+  {
+    "id": "s-24",
+    "text": "Performans düşüklüğünde (sizde)?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Rutini sıkılaştırırım",
+        "strengthKey": "discipline"
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Mola ve denge ararım",
+        "strengthKey": "adaptability"
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "İlham kaynağı değiştiririm",
+        "strengthKey": "creative"
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Hedefi yeniden çerçevelerim",
+        "strengthKey": "strategic"
+      }
+    ]
+  }
+]

@@ -1,0 +1,955 @@
+[
+  {
+    "id": "h-1",
+    "text": "Aşağıdaki aktivitelerden hangisi size en çok çekici gelir?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Motor, elektronik veya ahşap üzerinde çalışmak",
+        "holland": {
+          "R": 3
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Veri toplayıp hipotez test etmek",
+        "holland": {
+          "I": 3
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Tasarım, müzik veya sahne üzerinde çalışmak",
+        "holland": {
+          "A": 3
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Birine rehberlik veya koçluk yapmak",
+        "holland": {
+          "S": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "h-2",
+    "text": "Üniversite bölümü seçseniz hangi alan daha yakın?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Mühendislik, mimarlık (uygulamalı)",
+        "holland": {
+          "R": 2,
+          "I": 1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Matematik, fizik, bilgisayar bilimleri",
+        "holland": {
+          "I": 3
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Güzel sanatlar, iletişim tasarımı",
+        "holland": {
+          "A": 3
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Psikoloji, sosyal hizmet, öğretmenlik",
+        "holland": {
+          "S": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "h-3",
+    "text": "İlk iş gününüzde en keyif alacağınız görev?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Sunum yapıp fikir satmak",
+        "holland": {
+          "E": 3
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Tablo ve rapor düzenlemek",
+        "holland": {
+          "C": 3
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Teknik kurulum veya saha kontrolü",
+        "holland": {
+          "R": 3
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Literatür taraması ve analiz",
+        "holland": {
+          "I": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "h-4",
+    "text": "Takıldığınızda tercih ettiğiniz yaklaşım?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Kontrol listesi ve prosedür",
+        "holland": {
+          "C": 3
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Beyin fırtınası ve paydaş toplantısı",
+        "holland": {
+          "E": 3
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Uzmanla birebir derinlemesine görüşme",
+        "holland": {
+          "I": 2,
+          "S": 1
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Eskiz, prototip veya mock-up",
+        "holland": {
+          "A": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "h-5",
+    "text": "İdeal çalışma mekânı?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Atölye, üretim hattı veya laboratuvar",
+        "holland": {
+          "R": 2,
+          "I": 1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Sessiz araştırma odası veya kütüphane",
+        "holland": {
+          "I": 3
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Stüdyo veya yaratıcı açık alan",
+        "holland": {
+          "A": 3
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Danışma odası veya eğitim sınıfı",
+        "holland": {
+          "S": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "h-6",
+    "text": "Gönüllü olsanız hangi rol?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Etkinlik koordinatörü ve sponsor bulucu",
+        "holland": {
+          "E": 3
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Kayıt, bütçe ve lojistik",
+        "holland": {
+          "C": 3
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Çocuklar veya yaşlılarla doğrudan vakit",
+        "holland": {
+          "S": 3
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Fiziksel altyapı veya tamir işleri",
+        "holland": {
+          "R": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "h-7",
+    "text": "Takdir edilmek istediğiniz alan?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Yenilikçi ve estetik çözüm",
+        "holland": {
+          "A": 2,
+          "I": 1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Hatasız ve zamanında teslim",
+        "holland": {
+          "C": 3
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Hedef aşma ve ikna",
+        "holland": {
+          "E": 3
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Ekip içi destek ve güven",
+        "holland": {
+          "S": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "h-8",
+    "text": "Stresli bir gün sonrası?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Spor, yürüyüş veya el işi",
+        "holland": {
+          "R": 3
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Belgesel veya uzun okuma",
+        "holland": {
+          "I": 3
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Resim, yazı veya enstrüman",
+        "holland": {
+          "A": 3
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Yakın biriyle sohbet",
+        "holland": {
+          "S": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "h-9",
+    "text": "10 yıllık kariyer vizyonunuz?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Kendi işinizi yürütmek ve büyütmek",
+        "holland": {
+          "E": 3
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Kurumsal uzman veya analist olmak",
+        "holland": {
+          "C": 2,
+          "I": 1
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Topluma dokunan meslek",
+        "holland": {
+          "S": 3
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Üretim veya teknik liderlik",
+        "holland": {
+          "R": 2,
+          "I": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "h-10",
+    "text": "Takım projesinde hangi rol?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Sunum ve müşteri/stakeholder iletişimi",
+        "holland": {
+          "E": 3
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Kalite, dokümantasyon ve standartlar",
+        "holland": {
+          "C": 3
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Fikir ve konsept geliştirme",
+        "holland": {
+          "A": 2,
+          "I": 1
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Ekip uyumu ve bire bir destek",
+        "holland": {
+          "S": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "h-11",
+    "text": "Yeni beceri öğrenirken?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Uygulama ve demo ile",
+        "holland": {
+          "R": 3
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Teori ve model ile",
+        "holland": {
+          "I": 3
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Hikâye ve tasarım örneği ile",
+        "holland": {
+          "A": 3
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Grup çalışması ve tartışma ile",
+        "holland": {
+          "S": 2,
+          "E": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "h-12",
+    "text": "İş ilanında sizi en çok heyecanlandıran ifade?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "‘Pazar payını büyüt’",
+        "holland": {
+          "E": 3
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "‘Veri odaklı karar’",
+        "holland": {
+          "I": 3
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "‘Kullanıcı deneyimi ve yaratıcılık’",
+        "holland": {
+          "A": 3
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "‘Ekip refahı ve gelişim’",
+        "holland": {
+          "S": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "h-13",
+    "text": "Haftalık toplantılarda?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Gündemi yönetmek ve karar aldırmak",
+        "holland": {
+          "E": 3
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Tutanak ve aksiyon takibi",
+        "holland": {
+          "C": 3
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Teknik/veri sunumu hazırlamak",
+        "holland": {
+          "I": 3
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Katılımı ve fikir eşitliğini sağlamak",
+        "holland": {
+          "S": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "h-14",
+    "text": "Bütçe kısıtı olduğunda?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Önceliklendirip kesin rakamlarla raporlarım",
+        "holland": {
+          "C": 3
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Yeni gelir kanalı veya sponsor ararım",
+        "holland": {
+          "E": 3
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Maliyet-fayda analizi yaparım",
+        "holland": {
+          "I": 3
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "İnsanların yükünü hafifletmek için esnek çözüm",
+        "holland": {
+          "S": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "h-15",
+    "text": "Serbest proje seçseniz?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Bir makine veya yazılım prototipi",
+        "holland": {
+          "R": 2,
+          "I": 1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Bilimsel makale veya deney",
+        "holland": {
+          "I": 3
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Kısa film veya marka kimliği",
+        "holland": {
+          "A": 3
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Mentorluk programı tasarımı",
+        "holland": {
+          "S": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "h-16",
+    "text": "Ofis dışı gün (saha)?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Müşteri ziyareti ve sunum",
+        "holland": {
+          "E": 3
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Saha ölçümü ve teknik kontrol",
+        "holland": {
+          "R": 3
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Kullanıcı görüşmesi ve gözlem",
+        "holland": {
+          "S": 2,
+          "I": 1
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Etkinlik fotoğrafı ve içerik üretimi",
+        "holland": {
+          "A": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "h-17",
+    "text": "Kariyer danışmanına ilk sorunuz?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Hangi alanda en çok iş var?",
+        "holland": {
+          "E": 2,
+          "C": 1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Hangi meslekler analitik güç gerektirir?",
+        "holland": {
+          "I": 3
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Yaratıcılığımı nasıl paraya çeviririm?",
+        "holland": {
+          "A": 3
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "İnsanlara faydalı olabileceğim alanlar?",
+        "holland": {
+          "S": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "h-18",
+    "text": "İş değiştirirken?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Daha iyi ücret ve unvan",
+        "holland": {
+          "E": 2,
+          "C": 1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Araştırma ve AR-GE fırsatı",
+        "holland": {
+          "I": 3
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Sanat veya içerik odaklı rol",
+        "holland": {
+          "A": 3
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Anlamlı ve yardım odaklı rol",
+        "holland": {
+          "S": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "h-19",
+    "text": "Çalışma aracı seçimi?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Güçlü donanım ve keskin aletler",
+        "holland": {
+          "R": 3
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Analiz yazılımı ve veri setleri",
+        "holland": {
+          "I": 3
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Tasarım suite’i ve tablet",
+        "holland": {
+          "A": 3
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "İletişim ve CRM araçları",
+        "holland": {
+          "S": 2,
+          "E": 1
+        }
+      }
+    ]
+  },
+  {
+    "id": "h-20",
+    "text": "İdeal takım büyüklüğü?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Küçük ve çevik; herkes çok iş yapsın",
+        "holland": {
+          "E": 2,
+          "R": 1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Net hiyerarşi ve raporlama hatları olan orta ekip",
+        "holland": {
+          "C": 3
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Uzmanların derinlemesine çalıştığı proje ekibi",
+        "holland": {
+          "I": 3
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Yakın ilişkilerin olduğu destekleyici ekip",
+        "holland": {
+          "S": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "h-21",
+    "text": "Motivasyonunuz düştüğünde?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Hedefleri ve KPI’ları yeniden yazarım",
+        "holland": {
+          "C": 2,
+          "E": 1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Yeni veri ve örnek olay okurum",
+        "holland": {
+          "I": 3
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Yaratıcı bir yan proje başlatırım",
+        "holland": {
+          "A": 3
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Bir meslektaşla konuşur, destek istem",
+        "holland": {
+          "S": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "h-22",
+    "text": "İş güvenliği ve prosedür?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Kurala harfiyen uymak önemli",
+        "holland": {
+          "C": 2,
+          "R": 1
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Riskleri sayısallaştırıp optimize ederim",
+        "holland": {
+          "I": 3
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Esnek ama güvenli çözümler üretirim",
+        "holland": {
+          "A": 2,
+          "E": 1
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Ekibin endişelerini dinleyip uyarlama yaparım",
+        "holland": {
+          "S": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "h-23",
+    "text": "Kıdemli bir role hazırlık?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "P&L ve strateji sunumları",
+        "holland": {
+          "E": 3
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Metodoloji ve kalite sistemleri",
+        "holland": {
+          "C": 3
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Teknik derinlik ve yayın",
+        "holland": {
+          "I": 3
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Koçluk ve gelişim programları",
+        "holland": {
+          "S": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "h-24",
+    "text": "‘Başarılı bir gün’ sizin için?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Önemli anlaşmalar ve görünürlük",
+        "holland": {
+          "E": 3
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Tüm işler listeden silindi",
+        "holland": {
+          "C": 3
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Zor bir problemi çözdüm",
+        "holland": {
+          "I": 3
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Birine gerçekten yardım ettim",
+        "holland": {
+          "S": 3
+        }
+      }
+    ]
+  }
+]

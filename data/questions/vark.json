@@ -1,0 +1,626 @@
+[
+  {
+    "id": "vk-1",
+    "text": "Karmaşık bir konuyu ilk kez öğrenirken ne işe yarar?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Şema, infografik ve renkli özetler",
+        "vark": {
+          "V": 3
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Ders anlatımı veya podcast",
+        "vark": {
+          "A": 3
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Makale ve madde madde notlar",
+        "vark": {
+          "R": 3
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Deney, simülasyon veya maket",
+        "vark": {
+          "K": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "vk-2",
+    "text": "Sunum hazırlarken ilk adımınız?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Slayt görselleri ve yerleşim",
+        "vark": {
+          "V": 3
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Ses kaydı ile prova",
+        "vark": {
+          "A": 3
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Metin iskeleti ve kaynakça",
+        "vark": {
+          "R": 3
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Canlı demo veya örnek ürün",
+        "vark": {
+          "K": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "vk-3",
+    "text": "Yönerge almak istediğiniz format?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Video veya resimli kılavuz",
+        "vark": {
+          "V": 3
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Sözlü anlatım ve soru-cevap",
+        "vark": {
+          "A": 3
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "PDF veya yazılı talimat",
+        "vark": {
+          "R": 3
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Yan yana yaparak öğrenme",
+        "vark": {
+          "K": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "vk-4",
+    "text": "Sınavda bilgiyi nasıl hatırlarsınız?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Sayfa düzeni ve diyagramlar",
+        "vark": {
+          "V": 3
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Öğretmenin tonlaması ve vurguları",
+        "vark": {
+          "A": 3
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Okuduğum cümleler",
+        "vark": {
+          "R": 3
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Çözdüğüm problemler ve pratikler",
+        "vark": {
+          "K": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "vk-5",
+    "text": "Boş zamanınızda?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Görsel sanatlar, film, tasarım",
+        "vark": {
+          "V": 3
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Müzik, podcast, konser",
+        "vark": {
+          "A": 3
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Okuma ve yazma",
+        "vark": {
+          "R": 3
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Spor, dans, el sanatı",
+        "vark": {
+          "K": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "vk-6",
+    "text": "Toplantıda verim için?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Slaytlar ve beyaz tahta çizimi",
+        "vark": {
+          "V": 3
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Tartışma ve fikir alışverişi",
+        "vark": {
+          "A": 3
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Özet doküman ve tutanak",
+        "vark": {
+          "R": 3
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Breakout aktivite veya prototip",
+        "vark": {
+          "K": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "vk-7",
+    "text": "Yeni bir yeri bulmak?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Harita veya ekran görüntüsü",
+        "vark": {
+          "V": 3
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Sesli navigasyon ve tarif",
+        "vark": {
+          "A": 3
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Yazılı adres ve yön notları",
+        "vark": {
+          "R": 3
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Bir kez birlikte gidip öğrenmek",
+        "vark": {
+          "K": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "vk-8",
+    "text": "Öğrendiğinizi pekiştirmek?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Zihinde görselleştirme",
+        "vark": {
+          "V": 3
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Birine anlatmak",
+        "vark": {
+          "A": 3
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Özet yazmak",
+        "vark": {
+          "R": 3
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Tekrar uygulamak",
+        "vark": {
+          "K": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "vk-9",
+    "text": "Uzun metin okurken?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Başlıkları ve görselleri tararım",
+        "vark": {
+          "V": 3
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Sesli okumak veya dinlemek isterim",
+        "vark": {
+          "A": 3
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Altını çizer, kenara not alırım",
+        "vark": {
+          "R": 3
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Ara ara kalkıp hareket ederim",
+        "vark": {
+          "K": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "vk-10",
+    "text": "Yeni yazılım öğrenirken?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Arayüzü keşfedip ikonlara tıklarım",
+        "vark": {
+          "V": 3
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Eğitmen videosu veya canlı webinar",
+        "vark": {
+          "A": 3
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Resmi dokümantasyon okurum",
+        "vark": {
+          "R": 3
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Örnek proje üzerinde denerim",
+        "vark": {
+          "K": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "vk-11",
+    "text": "Grup çalışmasında?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Poster veya slayt hazırlamak",
+        "vark": {
+          "V": 3
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Sunuş ve moderasyon",
+        "vark": {
+          "A": 3
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Rapor yazımı ve kaynakça",
+        "vark": {
+          "R": 3
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Deney veya saha çalışması",
+        "vark": {
+          "K": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "vk-12",
+    "text": "Talimatları unuttuğunuzda?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Ekran görüntüsü veya video tekrar",
+        "vark": {
+          "V": 3
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Arayıp sorarım",
+        "vark": {
+          "A": 3
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Mesajdaki yazılı listeye bakarım",
+        "vark": {
+          "R": 3
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Tekrar deneme-yanılma yaparım",
+        "vark": {
+          "K": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "vk-13",
+    "text": "Motivasyonunuz düştüğünde öğrenmek için?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "İlham veren görseller ve moodboard",
+        "vark": {
+          "V": 3
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Motivasyon konuşması veya sohbet",
+        "vark": {
+          "A": 3
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Kısa makale ve alıntılar",
+        "vark": {
+          "R": 3
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Kısa egzersiz veya oyun",
+        "vark": {
+          "K": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "vk-14",
+    "text": "Bir süreç öğrenirken (ör. yemek tarifi)?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Fotoğraflı adımlar",
+        "vark": {
+          "V": 3
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Video izleyerek",
+        "vark": {
+          "A": 3
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Tarifi okuyarak",
+        "vark": {
+          "R": 3
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Yan yana yaparak",
+        "vark": {
+          "K": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "vk-15",
+    "text": "Ofiste yeni düzen duyurusu?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Kat planı ve görsel rehber",
+        "vark": {
+          "V": 3
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Toplantıda açıklama",
+        "vark": {
+          "A": 3
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "E-posta metni",
+        "vark": {
+          "R": 3
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Yerinde gezdirme",
+        "vark": {
+          "K": 3
+        }
+      }
+    ]
+  },
+  {
+    "id": "vk-16",
+    "text": "Sunumdan sonra hatırladığınız?",
+    "type": "choice",
+    "options": [
+      {
+        "id": "a",
+        "label": "A",
+        "text": "Grafikler ve renkler",
+        "vark": {
+          "V": 3
+        }
+      },
+      {
+        "id": "b",
+        "label": "B",
+        "text": "Konuşulan ana fikirler",
+        "vark": {
+          "A": 3
+        }
+      },
+      {
+        "id": "c",
+        "label": "C",
+        "text": "Dağıtılan dokümandaki maddeler",
+        "vark": {
+          "R": 3
+        }
+      },
+      {
+        "id": "d",
+        "label": "D",
+        "text": "Yaptığınız aktivite veya örnek",
+        "vark": {
+          "K": 3
+        }
+      }
+    ]
+  }
+]

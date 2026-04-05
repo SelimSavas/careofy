@@ -1,0 +1,114 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id           String   @id @default(cuid())
+  email        String   @unique
+  name         String?
+  passwordHash String?
+  role         String   @default("STUDENT")
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+
+  profile         UserProfile?
+  testSessions    TestSession[]
+  testResults     TestResult[]
+  reports         AIReport[]
+  recommendations Recommendation[]
+
+  @@map("users")
+}
+
+model UserProfile {
+  id       String @id @default(cuid())
+  userId   String @unique
+  user     User   @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  gradeLevel   String?
+  examField    String?
+  jobTitle     String?
+  industry     String?
+  yearsExp     Int?
+  changeDesire Int?
+  city         String?
+  age          Int?
+  interests    String  @default("[]")
+
+  @@map("user_profiles")
+}
+
+model TestSession {
+  id          String    @id @default(cuid())
+  userId      String
+  user        User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  testType    String
+  status      String    @default("IN_PROGRESS")
+  currentQ    Int       @default(0)
+  startedAt   DateTime  @default(now())
+  completedAt DateTime?
+
+  answers TestAnswer[]
+  result  TestResult?
+
+  @@map("test_sessions")
+}
+
+model TestAnswer {
+  id         String      @id @default(cuid())
+  sessionId  String
+  session    TestSession @relation(fields: [sessionId], references: [id], onDelete: Cascade)
+  questionId String
+  answerId   String?
+  value      Int?
+  answeredAt DateTime    @default(now())
+
+  @@map("test_answers")
+}
+
+model TestResult {
+  id                String      @id @default(cuid())
+  userId            String
+  user              User        @relation(fields: [userId], references: [id], onDelete: Cascade)
+  sessionId         String      @unique
+  session           TestSession @relation(fields: [sessionId], references: [id], onDelete: Cascade)
+  testType          String
+  rawScores         String
+  normalizedProfile String
+  primaryResult     String
+  secondaryResult   String?
+  createdAt         DateTime    @default(now())
+
+  @@map("test_results")
+}
+
+model AIReport {
+  id            String    @id @default(cuid())
+  userId        String
+  user          User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  profileVector String
+  reportData    String
+  pdfUrl        String?
+  generatedAt   DateTime  @default(now())
+  expiresAt     DateTime?
+
+  @@map("ai_reports")
+}
+
+model Recommendation {
+  id         String @id @default(cuid())
+  userId     String
+  user       User   @relation(fields: [userId], references: [id], onDelete: Cascade)
+  type       String
+  rank       Int
+  title      String
+  matchScore Int
+  data       String
+
+  @@map("recommendations")
+}
