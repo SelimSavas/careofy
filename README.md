@@ -48,4 +48,11 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 4. **İlk deploy**: `npm run build` sırasında `prisma migrate deploy` çalışır; tablolar oluşur. `DIRECT_URL` Vercel’de boşsa, build betiği geçici olarak `DATABASE_URL` ile doldurur (yalnızca doğrudan bağlantı dizesi kullanıyorsanız yeterli; havuzlu `-pooler` kullanıyorsanız mutlaka ayrı `DIRECT_URL` ekleyin).
 
+### Giriş: localhost çalışıyor, Vercel çalışmıyor
+
+- **`NEXTAUTH_SECRET`**: Production’da tanımlı ve **rastgele** olmalı; boş bırakılırsa oturum açılmaz.
+- **`NEXTAUTH_URL`**: Canlı site adresin **`https://...`** ile aynı olmalı (sonunda `/` olmadan). Boş bırakırsanız proje `next.config.mjs` ile o deploy’un `VERCEL_URL` değerinden türetir; **özel alan** (custom domain) kullanıyorsanız `NEXTAUTH_URL`’ü elle **`https://alanadiniz.com`** yapın.
+- **`NEXT_PUBLIC_APP_URL`**: Mümkünse `NEXTAUTH_URL` ile aynı canlı adres.
+- **Veritabanı**: Yerelde PostgreSQL, Vercel’de Neon ise **kullanıcı kayıtları farklı DB’de** olur — canlıda bir kez **yeniden kayıt** veya aynı Neon’u yerelde de kullanın.
+
 Yerel geliştirme: `.env` içinde `DATABASE_URL` ve `DIRECT_URL` tanımlayın (yalnızca tek Neon dizeniz varsa ikisine de aynı doğrudan URL’yi verin), sonra `npx prisma migrate dev` (veya `deploy`) çalıştırın. Eski SQLite `dev.db` artık kullanılmıyor.
