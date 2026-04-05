@@ -193,3 +193,33 @@
   background-size: 200% 100%;
   animation: careofy-shimmer 4s ease-in-out infinite;
 }
+
+/* Hero: çok yavaş dönen pusula halkası */
+@keyframes hero-compass-drift {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.animate-hero-compass {
+  animation: hero-compass-drift 100s linear infinite;
+}
+
+@keyframes hero-pulse-glow {
+  0%,
+  100% {
+    opacity: 0.45;
+    transform: scale(1);
+  }
+  50% {
+    opacity: 0.85;
+    transform: scale(1.06);
+  }
+}
+
+.animate-hero-pulse-glow {
+  animation: hero-pulse-glow 4s ease-in-out infinite;
+}

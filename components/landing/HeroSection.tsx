@@ -2,13 +2,159 @@ import { ArrowRight, Briefcase, FlaskConical, Sparkles, Users } from "lucide-rea
 import Link from "next/link";
 import { Badge } from "@/components/ui/Badge";
 import { Button } from "@/components/ui/Button";
-import { Card } from "@/components/ui/Card";
 
 const stats = [
   { v: "50K+", l: "Kullanıcı", icon: Users },
   { v: "6", l: "Bilimsel test", icon: FlaskConical },
   { v: "800+", l: "Meslek & bölüm", icon: Briefcase },
 ] as const;
+
+/** Altı testi yörüngede gösteren pusula + organik arka plan + bilet önizlemesi */
+function HeroCreativeVisual() {
+  const orbit = [
+    { deg: 0, label: "MBTI" },
+    { deg: 60, label: "Holland" },
+    { deg: 120, label: "Ennea" },
+    { deg: 180, label: "Değer" },
+    { deg: 240, label: "VARK" },
+    { deg: 300, label: "Güçlü" },
+  ] as const;
+
+  return (
+    <div
+      className="relative mx-auto w-full max-w-[440px] [--orbit:7.25rem] sm:[--orbit:9.25rem] lg:max-w-[480px] lg:[--orbit:10.25rem]"
+      aria-hidden
+    >
+      {/* Organik çizgiler + ışık */}
+      <svg
+        className="pointer-events-none absolute inset-0 h-full w-full text-white/20"
+        viewBox="0 0 400 400"
+        fill="none"
+        preserveAspectRatio="xMidYMid slice"
+      >
+        <defs>
+          <linearGradient id="heroLine" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stopColor="rgb(244, 104, 26)" stopOpacity="0.5" />
+            <stop offset="50%" stopColor="rgb(139, 168, 232)" stopOpacity="0.35" />
+            <stop offset="100%" stopColor="rgb(244, 104, 26)" stopOpacity="0.25" />
+          </linearGradient>
+        </defs>
+        <path
+          d="M40 220 Q120 80 200 200 T360 180"
+          stroke="url(#heroLine)"
+          strokeWidth="1.2"
+          strokeLinecap="round"
+          className="opacity-70"
+        />
+        <path
+          d="M60 320 Q200 240 280 100 Q340 40 380 120"
+          stroke="url(#heroLine)"
+          strokeWidth="0.9"
+          strokeLinecap="round"
+          className="opacity-50"
+        />
+        <path
+          d="M20 140 C100 200 180 60 320 200 S380 340 200 380"
+          stroke="white"
+          strokeWidth="0.6"
+          strokeLinecap="round"
+          className="opacity-[0.12]"
+        />
+      </svg>
+
+      <div className="absolute left-1/2 top-[42%] h-[78%] w-[78%] -translate-x-1/2 -translate-y-1/2 rounded-full bg-brand-500/[0.07] blur-3xl" />
+      <div className="absolute left-[12%] top-[18%] h-24 w-24 rounded-full bg-white/[0.04] blur-2xl" />
+      <div className="absolute bottom-[15%] right-[8%] h-32 w-32 rounded-full bg-navy-400/20 blur-3xl" />
+
+      {/* Dış kesik halkalar */}
+      <div className="absolute left-1/2 top-[42%] w-[88%] max-w-[380px] -translate-x-1/2 -translate-y-1/2">
+        <div className="aspect-square rounded-full border border-dashed border-white/[0.11]" />
+      </div>
+      <div className="absolute left-1/2 top-[42%] w-[72%] max-w-[310px] -translate-x-1/2 -translate-y-1/2">
+        <div className="aspect-square rounded-full border border-white/[0.07]" />
+      </div>
+
+      {/* Yörünge + merkez */}
+      <div className="relative mx-auto flex aspect-square w-[92%] max-w-[400px] items-center justify-center pt-4">
+        <div
+          className="animate-hero-compass pointer-events-none absolute left-1/2 top-[42%] h-[68%] w-[68%] -translate-x-1/2 -translate-y-1/2 rounded-full opacity-90"
+          style={{
+            background:
+              "conic-gradient(from 200deg, rgba(244,104,26,0.45), transparent 25%, rgba(74,108,200,0.35), transparent 55%, rgba(244,104,26,0.3), transparent 80%)",
+            mask: "radial-gradient(farthest-side, transparent calc(100% - 3px), black calc(100% - 3px))",
+            WebkitMask:
+              "radial-gradient(farthest-side, transparent calc(100% - 3px), black calc(100% - 3px))",
+          }}
+        />
+
+        {orbit.map((node, i) => (
+          <div
+            key={node.label}
+            className="absolute left-1/2 top-[42%] z-10 animate-float"
+            style={{
+              animationDelay: `${i * 0.45}s`,
+              transform: `translate(-50%, -50%) rotate(${node.deg}deg) translateY(calc(-1 * var(--orbit))) rotate(${-node.deg}deg)`,
+            }}
+          >
+            <div className="rounded-full border border-white/20 bg-gradient-to-br from-white/[0.14] to-white/[0.04] px-2.5 py-1.5 text-[10px] font-bold uppercase tracking-wider text-white shadow-lg shadow-black/20 backdrop-blur-md sm:px-3 sm:py-2 sm:text-[11px]">
+              {node.label}
+            </div>
+          </div>
+        ))}
+
+        {/* Merkez çekirdek */}
+        <div className="absolute left-1/2 top-[42%] z-20 -translate-x-1/2 -translate-y-1/2">
+          <div className="animate-hero-pulse-glow absolute inset-[-18px] rounded-full bg-brand-400/25 blur-xl" />
+          <div className="relative flex h-[7.25rem] w-[7.25rem] flex-col items-center justify-center rounded-full border border-white/20 bg-gradient-to-b from-navy-700/90 to-navy-900/95 shadow-[0_20px_50px_rgba(0,0,0,0.45)] backdrop-blur-md sm:h-[8.25rem] sm:w-[8.25rem]">
+            <div className="mb-1 flex items-center gap-1.5">
+              <Badge variant="type" className="border-white/15 bg-white/10 text-white">
+                INFJ
+              </Badge>
+            </div>
+            <Sparkles className="mb-1 text-brand-400" size={26} strokeWidth={1.5} />
+            <span className="text-center text-[10px] font-semibold uppercase tracking-[0.2em] text-white/55">
+              Profil özün
+            </span>
+          </div>
+        </div>
+      </div>
+
+      {/* Bilet / fiş önizlemesi */}
+      <div className="relative z-30 mx-auto mt-2 max-w-[340px] -rotate-1 sm:mt-0 sm:translate-x-4 sm:translate-y-[-12px] lg:translate-x-8">
+        <div className="overflow-hidden rounded-2xl border border-white/20 bg-gradient-to-br from-white/[0.13] to-white/[0.04] shadow-[0_24px_60px_rgba(0,0,0,0.35)] backdrop-blur-xl">
+          <div className="flex items-stretch">
+            <div className="flex w-[4.5rem] flex-col items-center justify-center border-r border-dashed border-white/20 bg-brand-500/15 py-4">
+              <span className="font-heading text-2xl font-bold leading-none text-white">92</span>
+              <span className="text-[9px] font-bold uppercase tracking-widest text-brand-200">uyum</span>
+            </div>
+            <div className="flex flex-1 flex-col justify-center gap-1 px-4 py-3">
+              <p className="text-[10px] font-semibold uppercase tracking-wider text-white/45">Örnek eşleşme</p>
+              <p className="font-heading text-lg font-bold text-white">Ürün tasarımcısı</p>
+              <p className="text-xs leading-snug text-white/55">
+                Veri + empati profilin bu yolu öne çıkarıyor.
+              </p>
+            </div>
+          </div>
+          <div className="flex border-t border-white/10 bg-black/20 px-4 py-2">
+            <div className="flex flex-1 flex-wrap gap-1.5">
+              {["Empati", "Sistem", "Yaratıcı"].map((t) => (
+                <span
+                  key={t}
+                  className="rounded-md border border-white/10 bg-white/5 px-2 py-0.5 text-[10px] font-medium text-white/75"
+                >
+                  {t}
+                </span>
+              ))}
+            </div>
+          </div>
+        </div>
+        <p className="mt-3 text-center text-[11px] text-white/35 lg:text-left">
+          Görsel örnek — sonuçlar testlerine göre kişiselleşir.
+        </p>
+      </div>
+    </div>
+  );
+}
 
 export function HeroSection() {
   return (
@@ -39,10 +185,11 @@ export function HeroSection() {
               className="h-1 w-14 rounded-full bg-gradient-to-r from-brand-500 to-brand-400/40 sm:w-20"
               aria-hidden
             />
-            <p className="max-w-[34rem] text-lg leading-relaxed text-white/72 sm:text-xl sm:leading-relaxed">
+            <p className="max-w-[34rem] text-lg leading-relaxed text-white sm:text-xl sm:leading-relaxed">
               Altı bilimsel test ve yapay zeka analiziyle{" "}
-              <span className="font-medium text-white/88">kişisel kariyer yol haritanı</span> keşfet. Yaklaşık{" "}
-              <span className="text-white/88">30 dakikada</span> potansiyelini somut önerilere dönüştür.
+              <span className="font-semibold">kişisel kariyer yol haritanı</span> keşfet. Yaklaşık{" "}
+              <span className="font-semibold">30 dakikada</span> potansiyelini{" "}
+              <span className="font-semibold">alanında uzman mentörler</span> ile somut önerilere dönüştür.
             </p>
           </div>
 
@@ -81,87 +228,9 @@ export function HeroSection() {
           </div>
         </div>
 
-        {/* Sağ: cam panel + bento */}
-        <div className="relative mx-auto w-full max-w-lg lg:mx-0 lg:max-w-none">
-          <div
-            className="pointer-events-none absolute -inset-1 rounded-[2rem] opacity-90 blur-sm sm:rounded-[2.25rem]"
-            style={{
-              background:
-                "linear-gradient(135deg, rgba(244,104,26,0.35), rgba(74,108,200,0.2), rgba(244,104,26,0.15))",
-            }}
-            aria-hidden
-          />
-          <div className="relative overflow-hidden rounded-[1.75rem] border border-white/15 bg-gradient-to-br from-white/[0.12] via-white/[0.04] to-transparent p-1 shadow-glow backdrop-blur-xl sm:rounded-[2rem]">
-            <div className="rounded-[1.4rem] bg-navy-900/25 p-4 sm:rounded-[1.65rem] sm:p-6">
-              <div className="grid gap-4">
-                <div className="grid grid-cols-1 gap-4 sm:grid-cols-2">
-                  <Card
-                    floating
-                    className="animate-float border border-white/10 bg-white/95 p-5 shadow-elevated"
-                  >
-                    <div className="flex items-center justify-between gap-2">
-                      <div className="flex items-center gap-2">
-                        <Badge variant="type">INFJ</Badge>
-                        <span className="text-sm font-medium text-gray-600">Savunucu</span>
-                      </div>
-                    </div>
-                    <div className="mt-4 flex items-center gap-3">
-                      <div className="flex h-14 w-14 items-center justify-center rounded-2xl bg-gradient-to-br from-navy-100 to-navy-50 shadow-inner">
-                        <Sparkles className="text-navy-700" size={28} strokeWidth={1.75} />
-                      </div>
-                      <p className="text-xs leading-snug text-gray-500">Profil özeti · MBTI</p>
-                    </div>
-                  </Card>
-
-                  <Card
-                    floating
-                    className="animate-float-delayed border border-white/10 bg-white/95 p-5 shadow-elevated"
-                  >
-                    <Badge variant="match" className="mb-3">
-                      92% uyum
-                    </Badge>
-                    <h4 className="mb-1 font-heading text-lg text-navy-800">UX tasarımcısı</h4>
-                    <p className="text-sm leading-relaxed text-gray-500">
-                      Yaratıcı problem çözme becerilerin bu rolle güçlü örtüşüyor.
-                    </p>
-                  </Card>
-                </div>
-
-                <div className="animate-float" style={{ animationDelay: "0.5s" }}>
-                  <Card
-                    variant="accent"
-                    floating
-                    className="relative overflow-hidden border border-white/15 bg-gradient-to-br from-navy-700/90 to-navy-900/95 p-5 shadow-elevated"
-                  >
-                    <div
-                      className="pointer-events-none absolute -right-8 -top-8 h-32 w-32 rounded-full bg-brand-500/25 blur-2xl"
-                      aria-hidden
-                    />
-                    <div className="relative">
-                      <div className="mb-3 text-xs font-semibold uppercase tracking-wider text-brand-300/95">
-                        Güçlü yönler
-                      </div>
-                      <div className="flex flex-wrap gap-2">
-                        {["Empati", "Strateji", "Yaratıcılık", "Analitik"].map((tag) => (
-                          <span
-                            key={tag}
-                            className="rounded-lg border border-white/10 bg-white/10 px-3 py-1.5 text-sm font-medium text-white/90"
-                          >
-                            {tag}
-                          </span>
-                        ))}
-                      </div>
-                    </div>
-                  </Card>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          {/* Mobil önizleme: küçük ekranda kısaltılmış görsel */}
-          <p className="mt-4 text-center text-xs text-white/40 lg:hidden">
-            Örnek rapor önizlemesi — testleri tamamlayınca sana özel sonuçlar
-          </p>
+        {/* Sağ: yaratıcı pusula görseli */}
+        <div className="relative mx-auto w-full lg:mx-0">
+          <HeroCreativeVisual />
         </div>
       </div>
     </section>
