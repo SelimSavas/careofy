@@ -46,6 +46,6 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 | `ANTHROPIC_API_KEY` | İsteğe bağlı; yoksa analiz mock rapora düşer |
 | `NEXT_PUBLIC_APP_URL` | Genelde `NEXTAUTH_URL` ile aynı |
 
-4. **İlk deploy**: `npm run build` sırasında `prisma migrate deploy` çalışır; tablolar oluşur.
+4. **İlk deploy**: `npm run build` sırasında `prisma migrate deploy` çalışır; tablolar oluşur. `DIRECT_URL` Vercel’de boşsa, build betiği geçici olarak `DATABASE_URL` ile doldurur (yalnızca doğrudan bağlantı dizesi kullanıyorsanız yeterli; havuzlu `-pooler` kullanıyorsanız mutlaka ayrı `DIRECT_URL` ekleyin).
 
 Yerel geliştirme: `.env` içinde `DATABASE_URL` ve `DIRECT_URL` tanımlayın (yalnızca tek Neon dizeniz varsa ikisine de aynı doğrudan URL’yi verin), sonra `npx prisma migrate dev` (veya `deploy`) çalıştırın. Eski SQLite `dev.db` artık kullanılmıyor.
